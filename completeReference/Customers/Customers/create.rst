@@ -12,7 +12,7 @@ To create a new Customer:
    .. image:: /completeReference/img/Customers/Customers/CustomersCreate.png
       :class: with-border
 
-#. Fill in customer **Name**.
+#. Fill in the customer **Name**.
    
 #. Optionally, add a customer to a customer group if you already have a group with the settings and configuration that fits the new customer. See `Managing Customer Groups <./../CustomerGroups>`_  section for more information.
 
@@ -22,14 +22,14 @@ To create a new Customer:
 
 #. Select **Tax Code** that will label the customer group taxation schema. See `Linking a Tax Code to a Customer or Customer Group <./../../Taxes/link-a-tax-code-to-a-customer>`_ for more information.
 
-#. Add billing and shipping address as described in the `Address Book <./../../shared/common-actions/manage-address-book>`_ section.
+#. Add a billing and shipping address as described in the `Address Book <./../../shared/common-actions/manage-address-book>`_ section.
 
 #. In the *Additional* section, select a Payment term to be used as a payment option available to the customer users during on the checkout.
 
 #. In the **Price Lists** section as described in `Price List Management for a Customer Group <./pricelist>`_ section.
 
-#. Click **Save** on the top right of the page.
+#. Click **Save** in the top right right corner of the page.
 
-The new Customer Group is created.
+A new Customer Group is created.
 
 .. finish
