@@ -12,7 +12,7 @@ To create a new Customer Groups:
    .. image:: /completeReference/img/Customers/CustomerGroups/CustomerGroupsCreate.png
       :class: with-border
 
-#. Fill in customer **Name**.
+#. Fill in the customer **Name**.
 
 #. Select **Tax Code** that will label the customer group taxation schema. See `Linking a Tax Code to a Customer or Customer Group <./../../Taxes/link-a-tax-code-to-a-customer>`_ for more information.
 
@@ -22,8 +22,8 @@ To create a new Customer Groups:
 
 #. In the **Price Lists** section as described in `Price List Management for a Customer Group <./pricelist>`_ section.
 
-#. Click **Save** on the top right of the page.
+#. Click **Save** in the top right corner of the page.
 
-The new Customer Group is created.
+A new Customer Group is created.
 
 .. finish
