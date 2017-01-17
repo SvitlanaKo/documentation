@@ -177,6 +177,23 @@ Check out the `OroCommerce Online Demo <http://demo.orocommerce.com>`_ of the la
    :target: http://demo.orocommerce.com
 
 .. toctree::
-   :hidden:
-    
-   release_notes/index
+    :hidden:
+    :maxdepth: 4
+
+    release_notes/index
+
+    install_guide/index
+
+    user_guide/index
+
+    admin_guide/index
+
+    dev_guide/index
+
+    complete_reference/index
+
+    shared/index
+
+    community/index
+
+    system_requirements
