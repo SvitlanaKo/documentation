@@ -9,7 +9,6 @@ Table of Contents
 -----------------
 
 .. toctree::
-   :hidden:
 
    /install_guide/index
 
