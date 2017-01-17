@@ -11,9 +11,9 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
 
-   /install_guide/index
+   ../install_guide/index
 
-   /complete_reference/getting_started/index
+   complete_reference/getting_started/index
 
    /complete_reference/products/index
 
