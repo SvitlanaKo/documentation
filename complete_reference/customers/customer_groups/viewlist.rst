@@ -41,5 +41,5 @@ You can perform the following actions on the Customer User Roles page:
 
 .. finish
 
-.. include:: /include-images.rst
+.. include:: /include_images.rst
    :start-after: begin

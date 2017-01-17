@@ -173,6 +173,7 @@ Online Demo
 Check out the `OroCommerce Online Demo <http://demo.orocommerce.com>`_ of the latest `released </release_notes>`_ version:
 
 .. image:: /user_guide/img/demo_login.png
+   :alt: OroCommerce Demo
    :target: http://demo.orocommerce.com
 
 .. toctree::

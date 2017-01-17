@@ -3,7 +3,7 @@ Contributing to Documentation
 
 .. contents:: :local:
 
-We use `reStructuredText`_ markup language to write the documentation and `Sphinx`_ generator to prepare it for the web publication at http://www.orocrm.com/documentation. You can find more information about the syntax on the Sphinx website by reading `reStructuredText Primer`_. The most important information is provided in the sections below.
+We use `reStructuredText`_ markup language to write the documentation and `Sphinx`_ generator to prepare it for the web publication at http://www.orocommerce.com/documentation. You can find more information about the syntax on the Sphinx website by reading `reStructuredText Primer`_. The most important information is provided in the sections below.
 
 Documentation source files are maintained in the dedicated `gitgub repository <https://github.com/orocommerce/documentation>`_.
 
@@ -14,7 +14,7 @@ Before You Begin
 
 Before submitting your documentation changes in a pull request, please sign our `Contributor License Agreement`_ (CLA). The CLA must be signed for any code or documentation changes to be accepted.
 
-.. _Contributor License Agreement: http://www.orocrm.com/contributor-license-agreement
+.. _Contributor License Agreement: http://www.orocommerce.com/contributor-license-agreement
 
 Fork Documentation Project
 --------------------------
@@ -68,9 +68,9 @@ Sample file structure:
     + user-guide:
         + img:
             - Demo.png
-        - topic-1.rst
-        - topic-2.rst
-        - topic-3.rst
+        - topic_1.rst
+        - topic_2.rst
+        - topic_3.rst
         - index.rst
     + admin-guide:
         - index.rst
@@ -176,7 +176,7 @@ Preview:
               i. Item E
               ii. Item F
 
-Auto enumerated List
+Auto Enumerated List
 ~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: none
@@ -205,23 +205,68 @@ Preview:
 Text Blocks
 ~~~~~~~~~~~
 
-+-----------+------------------------------------+----------------------------------+
-| Block     | Syntax                             | Preview                          |
-+===========+====================================+==================================+
-| Attention | \.\. attention:: The message text. | .. attention:: The message text. |
-+-----------+------------------------------------+----------------------------------+
-| Caution   | \.\. caution:: The message.        | .. caution:: The message.        |
-+-----------+------------------------------------+----------------------------------+
-| Warning   | \.\. warning:: The message.        | .. warning:: The message.        |
-+-----------+------------------------------------+----------------------------------+
-| Hint      | \.\. hint:: The message.           | .. hint:: The message.           |
-+-----------+------------------------------------+----------------------------------+
-| Note      | \.\. note:: The message.           | .. note:: The message.           |
-+-----------+------------------------------------+----------------------------------+
-| Tip       | \.\. tip:: The message.            | .. tip:: The message.            |
-+-----------+------------------------------------+----------------------------------+
-| Important | \.\. important:: The message.      | .. important:: The message.      |
-+-----------+------------------------------------+----------------------------------+
+Attention Block
+"""""""""""""""
+
+Syntax in Rst: `\.\. attention:: The message text.
+
+Preview:
+
+.. attention:: The message text.
+
+Caution Block
+"""""""""""""
+
+Syntax in Rst: `\.\. caution:: The caution message.`
+
+Preview:
+
+.. caution:: The caution message.
+
+Warning Block
+"""""""""""""
+
+Syntax in Rst: `\.\. warning:: The warning message.`
+
+Preview:
+
+.. warning:: The warning message.
+
+Hint Block
+""""""""""
+
+Syntax in Rst: `\.\. hint:: The hint message.`
+
+Preview:
+
+.. hint:: The hint message.
+
+Note Block
+""""""""""
+
+Syntax in Rst: `\.\. note:: The note message.`
+
+Preview:
+
+.. note:: The note message.
+
+Tip Block
+"""""""""
+
+Syntax in Rst: `\.\. tip:: The tip message.`
+
+Preview:
+
+.. tip:: The tip message.
+
+Important Block
+"""""""""""""""
+
+Syntax in Rst: `\.\. important:: The important message.`
+
+Preview:
+
+.. important:: The important message.
 
 Tables
 ~~~~~~
@@ -312,8 +357,8 @@ For example, when we create a new topic with additional information about price 
 .. tip::
    If your are adding more than one topic and your new topics cover the same domain, consider grouping them into a folder.
    For better navigation, it is recommended to create a dedicated index.rst file with an overview and references to the topics in the new folder (using \.\. toctree:: directive).
-   To attach your newly created group of topics into the general structure, add the reference to the index.rst to the appropriate loaction in the documetnation hierarchy (e.g. *documentation-structure-and-topic-organization.rst* and *file-naming-conventions.rst* may be saved to the *user-guide/writing* folder, may be added to the toctree of the dedicated *user-guide/witing/index.rst*. 
-   Finally, *user-guide/witing/index.rst* may be added into the *user-guide/index.rst* toctree to attach the newly created files into the global documentation structure).
+   To attach your newly created group of topics into the general structure, add the reference to the index.rst to the appropriate loaction in the documetnation hierarchy (e.g. *documentation-structure-and-topic-organization.rst* and *file_naming_conventions.rst* may be saved to the *user_guide/writing* folder, may be added to the toctree of the dedicated *user_guide/writing/index.rst*. 
+   Finally, *user_guide/writing/index.rst* may be added into the *user_guide/index.rst* toctree to attach the newly created files into the global documentation structure).
 
 Submit Documentation Updates
 ----------------------------
