@@ -1,4 +1,4 @@
-Viewing and filtering all Customers
+Viewing and Filtering All Customers
 -----------------------------------
 
 To view all Customers, navigate to **Customers > Customers** in the main menu.
@@ -11,7 +11,7 @@ Preview:
 .. image:: /complete_reference/img/customers/customers/Customers.png
    :class: with-border
 
-The following information about the Customers is available in the Customers list:
+The following information about Customers is available in the Customers list:
 
 +-----------------+-------------+
 | Name            | Description |
@@ -41,7 +41,7 @@ You can perform the following actions with every item in the Customers list:
 
  * `Edit a Customer details <edit>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
 
-You can perform the following actions at the Customer User Roles page:
+You can perform the following actions on the Customer User Roles page:
 
  * `Create Customer <./create>`_
 

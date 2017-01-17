@@ -3,7 +3,7 @@ Overview
 
 .. begin
 
-In Customer User Roles section, you can view, edit and create new customer roles to define level of permissions and access to the actions and data in OroCommerce Front for the users of this role.
+In Customer User Roles section, you can view, edit and create new customer roles to define the level of permissions and access to the actions and data in OroCommerce Front for the users of this role.
 
 The following roles are predefined and available for every customer by default:
 
@@ -11,13 +11,13 @@ The following roles are predefined and available for every customer by default:
 * Buyer
 * Non-authenticated user
 
-Any new role are labeled as customizable and may apply either to the customer specified in the role details or globally for all customers when the customer is not provided.
+Any new role is labeled as customizable and may apply either to the customer specified in the role details or globally for all customers when the customer is not provided.
 
 With the Customer User Role you can manages the following access- and permissions-related settings: 
 
 * Profile management permission: A user may be able to view and edit their user profile, when the **Self-Managed** option is enabled for their role.
 
-* Permissions to view workflows and/or perform transitions through the workflow steps
+* Permissions to view workflows and/or perform transitions through the workflow steps.
 
 * Data access/management permissions and capabilities that are organized in the following groups:
 
@@ -69,7 +69,7 @@ With the Customer User Role you can manages the following access- and permission
         + Shopping List
         + Shopping List Line Item
 
-    - **Qoutes** permissions to view, create, edit, delete, and, optionally, assign the following items:
+    - **Quotes** permissions to view, create, edit, delete, and, optionally, assign the following items:
           
         + Quote
         + Request for Quote

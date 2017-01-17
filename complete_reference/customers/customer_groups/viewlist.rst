@@ -1,4 +1,4 @@
-Viewing and filtering all Customer Groups
+Viewing and Filtering All Customer Groups
 -----------------------------------------
 
 To view all Customer Groups, navigate to **Customers > Customer Groups** in the main menu.
@@ -35,11 +35,11 @@ You can perform the following actions with every item in the Customers list:
 
  * `Edit a Customer Group details <edit>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
 
-You can perform the following actions at the Customer User Roles page:
+You can perform the following actions on the Customer User Roles page:
 
  * `Create Customer Group <create>`_
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /include-images.rst
    :start-after: begin
