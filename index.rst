@@ -181,21 +181,3 @@ Check out the `OroCommerce Online Demo <http://demo.orocommerce.com>`_ of the la
     :maxdepth: 4
 
     release_notes/index
-
-    install_guide/index
-
-    user_guide/index
-
-    admin_guide/index
-
-    dev_guide/index
-
-    complete_reference/index
-
-    shared/index
-
-    community/index
-
-    shared/system_requirements
-
-    system_requirements
