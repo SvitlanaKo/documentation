@@ -4,6 +4,6 @@ OroPlatform Common
 .. toctree::
    :maxdepth: 1
 
-   customizing-import-export
+   customizing_import_export
 
-   common-actions/index
+   common_actions/index

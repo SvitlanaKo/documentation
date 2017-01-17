@@ -167,21 +167,29 @@ This section provides links to additional information that delivers role-specifi
       </div>
    </div>
 
+Online Demo
+-----------
+
+Check out the `OroCommerce Online Demo <http://demo.orocommerce.com>`_ of the latest `released </release_notes>`_ version:
+
+.. image:: /user_guide/img/demo_login.png
+   :target: http://demo.orocommerce.com
+
 .. toctree::
     :hidden:
     :maxdepth: 4
 
-    release-notes/index
+    release_notes/index
 
-    install-guide/index
+    install_guide/index
 
-    user-guide/index
+    user_guide/index
 
-    admin-guide/index
+    admin_guide/index
 
-    dev-guide/index
+    dev_guide/index
 
-    completeReference/index
+    complete_reference/index
 
     shared/index
 

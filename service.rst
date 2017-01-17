@@ -1,19 +1,19 @@
 :orphan:
 
-.. image:: /completeReference/img/icons/home.png
+.. image:: /complete_reference/img/icons/home.png
 
-.. image:: /completeReference/img/icons/user.png
+.. image:: /complete_reference/img/icons/user.png
 
-.. image:: /completeReference/img/icons/gear.png
+.. image:: /complete_reference/img/icons/gear.png
 
-.. image:: /completeReference/img/icons/lab.png
+.. image:: /complete_reference/img/icons/lab.png
 
-.. image:: /completeReference/img/icons/arrow.png
+.. image:: /complete_reference/img/icons/arrow.png
 
-.. image:: /completeReference/img/icons/puzzle.png
+.. image:: /complete_reference/img/icons/puzzle.png
 
-.. image:: /completeReference/img/icons/contrib.png
+.. image:: /complete_reference/img/icons/contrib.png
 
-.. image:: /completeReference/img/icons/announcement.png
+.. image:: /complete_reference/img/icons/announcement.png
 
-.. image:: /completeReference/img/icons/book.png
+.. image:: /complete_reference/img/icons/book.png
