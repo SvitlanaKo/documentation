@@ -196,6 +196,4 @@ Check out the `OroCommerce Online Demo <http://demo.orocommerce.com>`_ of the la
 
     community/index
 
-    shared/system_requirements
-
     system_requirements

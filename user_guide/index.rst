@@ -11,29 +11,29 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
 
-   /install_guide/index
+   ../install_guide/index
 
-   /complete_reference/getting_started/index
+   ../complete_reference/getting_started/index
 
-   /complete_reference/products/index
+   ../complete_reference/products/index
 
-   /complete_reference/inventory/index
+   ../complete_reference/inventory/index
 
-   /complete_reference/sales/price_lists/index
+   ../complete_reference/sales/price_lists/index
 
-   /complete_reference/customers/index
+   ../complete_reference/customers/index
 
-   /complete_reference/sales/quotes/index
+   ../complete_reference/sales/quotes/index
 
-   /complete_reference/sales/requests_for_quote/index
+   ../complete_reference/sales/requests_for_quote/index
 
-   /complete_reference/sales/payment/index
+   ../complete_reference/sales/payment/index
 
-   /complete_reference/sales/shipping/index
+   ../complete_reference/sales/shipping/index
 
-   /complete_reference/marketing/index
+   ../complete_reference/marketing/index
 
-   /complete_reference/taxes/index
+   ../complete_reference/taxes/index
 
 .. comment
    # Quick Start

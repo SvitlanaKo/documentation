@@ -7,3 +7,5 @@ OroPlatform Common
    customizing_import_export
 
    common_actions/index
+
+   system_requirements
