@@ -3,9 +3,6 @@ Tax Management Overview
 
 .. begin
 
-.. contents:: :local:
-  :depth: 2
-
 An international B2B selling business has certain international tax obligations, like a sales tax in the U.S. and Value Added Tax (VAT) in EU and other countries. In addition to that, some products are tax-free or have lower tax rates and some of your customers may be eligible for tax exemption. See more about `international taxes <../../complete_reference/taxes/international-taxes-overview.html>`_.
 
 Tax management in OroCommerce helps you ensure compliance with the tax rules and regulations in global B2B online sales. With built in tax rules and tax reports you get timely and precise information for your sales tax, goods and services tax, or value added tax payment. You may inform your buyer about the volume of tax included into their order or quote, or may include the tax in the product price they see placing an order.
@@ -18,6 +15,8 @@ The following sections provide information and guidance on the following topics:
 
 * Controlling digital product taxes. Some states in USA and the EU have special rules for taxing digital products. OroCommerce takes those regulations into account and enforces destination-based taxation when the buyer's location is in EU or in the state with no digital product tax in USA. OroCommerce distinguishes purchases of digital products b y the product tax code. All digital items should be labeled with a special tax code for digital products. Moreover, all these tax codes should be listed in EU VAT Tax and US Sales Tax configuration, to launch special tax calculation rules. See `Before you begin`_ for detailed configuration information
 
+.. contents:: :local:
+  :depth: 2
 
 Before you begin
 ----------------

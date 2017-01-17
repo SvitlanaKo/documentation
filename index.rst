@@ -13,46 +13,46 @@ This section provides links to the online documentation for the latest OroCommer
    <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">   
          <div style="text-align: center;">
-            <a href="user-guide/gettingStarted">
+            <a href="user_guide/getting_started">
                <h3>Getting Started</h3>
             </a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
              <p>
                 <ul>
-                   <li><a href="user-guide/gettingStarted">B2B eCommerce Concepts</a></li>
-                   <li><a href="user-guide/gettingStarted">Navigation and UI</a></li>
-                   <li><a href="user-guide/gettingStarted">Architecture</a></li>
+                   <li><a href="user_guide/getting_started">B2B eCommerce Concepts</a></li>
+                   <li><a href="user_guide/getting_started">Navigation and UI</a></li>
+                   <li><a href="user_guide/getting_started">Architecture</a></li>
                 </ul>
              </p>
           </div>
       </div>
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a href="install-guide">
+            <a href="install_guide">
                <h3>Installation Guide</h3>
             </a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
              <p>
                 <ul>
-                   <li><a href="install-guide">Pre-Installation Checklist</a></li>
-                   <li><a href="install-guide">Cloud Installation</a></li>
-                   <li><a href="install-guide">Command Line Installation</a></li>
+                   <li><a href="install_guide">Pre-Installation Checklist</a></li>
+                   <li><a href="install_guide">Cloud Installation</a></li>
+                   <li><a href="install_guide">Command Line Installation</a></li>
                 </ul>
              </p>
           </div>
       </div>
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a href="guides-by-role/config-guide"><h3>Configuration Guide</h3></a>
+            <a href="guides_by_role/config_guide"><h3>Configuration Guide</h3></a>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
             <p>
                 <ul>
-                   <li><a href="guides-by-role/config-guide">Look and Feel</a></li>
-                   <li><a href="guides-by-role/config-guide">B2B eCommerce</a></li>
-                   <li><a href="guides-by-role/config-guide">Integration</a></li>
+                   <li><a href="guides_by_role/config_guide">Look and Feel</a></li>
+                   <li><a href="guides_by_role/config_guide">B2B eCommerce</a></li>
+                   <li><a href="guides_by_role/config_guide">Integration</a></li>
                 </ul>
             </p>
          </div>
@@ -64,46 +64,46 @@ This section provides links to the online documentation for the latest OroCommer
    <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">   
          <div style="text-align: center;">
-            <a href="user-guide"><h3>User Guide</h3></a>
+            <a href="user_guide"><h3>User Guide</h3></a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
              <p>
                 <ul>
-                   <li><a href="user-guide">Product Catalog and Inventory</a></li>
-                   <li><a href="user-guide">Web Catalogs</a></li>
-                   <li><a href="user-guide">Websites and Price Lists</a></li>
-                   <li><a href="user-guide">Marketing</a></li>
+                   <li><a href="user_guide">Product Catalog and Inventory</a></li>
+                   <li><a href="user_guide">Web Catalogs</a></li>
+                   <li><a href="user_guide">Websites and Price Lists</a></li>
+                   <li><a href="user_guide">Marketing</a></li>
                 </ul>
              </p>
           </div>
       </div>
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a href="admin-guide">
+            <a href="admin_guide">
                <h3>Administrator Guide</h3>
             </a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
              <p>
                 <ul>
-                   <li><a href="admin-guide">User and Access Management</a></li>
-                   <li><a href="admin-guide">Security</a></li>
-                   <li><a href="admin-guide">Troubleshooting</a></li>
+                   <li><a href="admin_guide">User and Access Management</a></li>
+                   <li><a href="admin_guide">Security</a></li>
+                   <li><a href="admin_guide">Troubleshooting</a></li>
                 </ul>
              </p>
           </div>
       </div>
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a href="dev-guide"><h3>Developer Guide</h3></a>
+            <a href="dev_guide"><h3>Developer Guide</h3></a>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
             <p>
                <ul>
-                   <li><a href="dev-guide">Oro Development Basics</a></li>
-                   <li><a href="dev-guide">Customizing OroCommerce</a></li>
-                   <li><a href="dev-guide">Developing an Integration</a></li>
-                   <li><a href="dev-guide">Developing a New Module</a></li>
+                   <li><a href="dev_guide">Oro Development Basics</a></li>
+                   <li><a href="dev_guide">Customizing OroCommerce</a></li>
+                   <li><a href="dev_guide">Developing an Integration</a></li>
+                   <li><a href="dev_guide">Developing a New Module</a></li>
                </ul>
             </p>
          </div>
@@ -120,15 +120,15 @@ This section provides links to additional information that delivers role-specifi
    <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">   
          <div style="text-align: center;">
-            <a href="release-notes">
+            <a href="release_notes">
                <h3>Announcements</h3>
             </a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
           <p>
              <ul>
-                <li><a href="release-notes/rc1">Jan xx, 2017 - Meet OroCommerce v1.0</a></li>
-                <li><a href="release-notes/rc1">Jan 5, 2017 - OroCommerce RC1 released</a></li>
+                <li><a href="release_notes/rc1">Jan xx, 2017 - Meet OroCommerce v1.0</a></li>
+                <li><a href="release_notes/rc1">Jan 5, 2017 - OroCommerce RC1 released</a></li>
              </ul>
           </p>
           </div>
