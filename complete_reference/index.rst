@@ -31,3 +31,5 @@ Reference Guide
    getting_started/index
 
    advanced/index
+
+   glossary

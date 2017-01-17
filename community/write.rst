@@ -5,7 +5,7 @@ Contributing to Documentation
 
 We use `reStructuredText`_ markup language to write the documentation and `Sphinx`_ generator to prepare it for the web publication at http://www.orocommerce.com/documentation. You can find more information about the syntax on the Sphinx website by reading `reStructuredText Primer`_. The most important information is provided in the sections below.
 
-Documentation source files are maintained in the dedicated `gitgub repository <https://github.com/orocommerce/documentation>`_.
+Documentation source files are maintained in the dedicated `github repository <https://github.com/orocommerce/documentation>`_.
 
 If you are willing to contribute - you are totally welcome. The information below should help you understand the documentation structure and topic organization, useful rst directives and a simple workflow that helps quickly publish a new topic.
 
@@ -208,7 +208,7 @@ Text Blocks
 Attention Block
 """""""""""""""
 
-Syntax in Rst: `\.\. attention:: The message text.
+Syntax in Rst: `\.\. attention:: The message text.`
 
 Preview:
 
@@ -306,11 +306,11 @@ File Naming Conventions
 
 Please follow the recommendations below when naming the new documenation file:
 
-* Use a topic-based approach (e.g. assign-user-management-permissions-to-the-organization.rst).
+* Use a topic-based approach (e.g. assign_user_management_permissions_to_the_organization.rst).
 
 * Use lowercase letters and Arabic numbers only.
 
-* Replace whitespace symbols with hyphens (e.g. file-naming-conventions.rst).
+* Replace whitespace symbols with underscores (e.g. file_naming_conventions.rst).
 
 * Avoid special symbols (/,$,#, etc).
 

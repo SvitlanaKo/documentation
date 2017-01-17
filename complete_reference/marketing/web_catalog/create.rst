@@ -23,7 +23,7 @@ The new Web Catalog is created.
 
 **Next steps**
 
-* `Edit Web Catalog Content Tree`_ to organize catalog content into a desired structure that will be visible on the OroCommerce Front Store.
+* `Edit Web Catalog Content Tree <edit_web_catalog_tree>`_ to organize catalog content into a desired structure that will be visible on the OroCommerce Front Store.
 
 .. finish
 
@@ -51,3 +51,8 @@ The new Web Catalog is created.
              #) a
              #) b
              #) c
+                
+
+
+.. include:: /include_images.rst
+   :start-after: begin
