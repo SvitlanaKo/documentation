@@ -1,8 +1,7 @@
+:orphan:
+
 Linking a Tax Code to a Product
 ===============================
-
-.. include:: /maintenance_note.rst
-   :start-after: begin
 
 .. comment
    # taxes_from_product_view

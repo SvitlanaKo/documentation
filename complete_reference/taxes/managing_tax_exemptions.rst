@@ -1,5 +1,7 @@
+:orphan:
+
 Manage Tax Exemptions
 =====================
-
-.. include:: /maintenance_note.rst
-   :start-after: begin
+.. comment:
+  #.. include:: /maintenance_note.rst
+  #   :start-after: begin

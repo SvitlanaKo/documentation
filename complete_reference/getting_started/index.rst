@@ -1,20 +1,17 @@
 Getting Started
 ===============
 
-.. warning:: Reused from OroCRM. Rework.
+This section of the guide will provide an introduction to OroCommerce's user interface as well as instructions for setting up your user profile. 
 
-This section of the guide will provide an introduction to OroCRM's user interface as well as instructions for setting up 
-your user profile. In the first article you will find an overview of the benefits  OroCRM  can bring to different 
-stakeholders of the customer-relationships management process, and links to let you know where to look for specifics 
-when you get up to speed with the basics.
+.. In the first article you will find an overview of the benefits OroCRM  can bring to different stakeholders of the customer-relationships management process, and links to let you know where to look for specifics when you get up to speed with the basics.
 
 .. contents:: :local:
 
 .. toctree::
-    :hidden:
     :maxdepth: 2
 
-    intro_log_in_and_edit_profile
+    intro_log_in
+    intro_user_profile
     intro_company_structure_org_selector
     intro_navigation
     intro_nav_shortcuts

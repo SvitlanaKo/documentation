@@ -18,4 +18,4 @@ For detailed information on these topics please see the following sections:
 
    ../configuration/general/language_settings
 
-   ../../../guides_by_role/config_guide/localization_configuration_in_locale_bundle
+..   ../../../guides_by_role/config_guide/localization_configuration_in_locale_bundle

@@ -1,17 +1,73 @@
 User Guide
 ==========
 
-This document contains infomration about core OrCommerce capabilities designed for sales, marketing, product catalog and front store management.
+.. contents:: :local:
+
+OroCommerce as a B2B eCommerce platform provides a number of self-serve capabilities, mature buyer-seller interaction processes (e.g. for placing orders, sharing pricing information, requesting quotes, and submitting proposals), and may be easily used as a B2B Marketplace that connects a wide range of suppliers with multiple buyers. Buyers may get multiple offers and bids across various goods and services.
+
+OroCommerce provides corporate accounts, multiple organizations, websites and stores, high-performance content management system (CMS) with `product </complete-reference/products/products>`_, `inventory </complete-reference/inventory/manage-inventory>`_ and `warehouse </complete-reference/inventory/warehouses>`_ management, personalized `web catalog management </complete-reference/marketing/web-catalog>`_, multiple and customized `price lists </complete-reference/sales/price-lists>`_ for your sales organization and multiple `shopping lists </complete-reference/sales/shopping-lists>`_ for your buyer's organization.
+
+Core Features
+-------------
+
+* `Corporate Accounts <../complete_reference/customers/index>`_: Manage complex, hierarchical corporate account structures via the seller admin console. Buyers can also configure their own corporate account structure, add authorized users, and create purchasing rules regardless of whether your account structure has multiple businesses, teams, departments, offices, or branches.
+* `Access Controls <../complete_reference/system/access_management>`_, `Roles & Permissions <../complete_reference/system/user_management/roles>`_: Providing the correct user the right access to the right information is a crucial capability. Both sellers and authorized buyers can manage access levels to information, like specific price lists and product catalogs, for both user groups or individual users.
+* Multiple `Organizations <../complete_reference/customers/index>`_, `Websites <../complete_reference/system/websites>`_ & `Stores <../complete_reference/marketing/web_catalog>`_: Many businesses manage multinational brands that operate across various countries, currencies, and tax regulations. OroCommerce Enterprise Edition comes out-of-the-box with flexible and robust multi-website management capabilities which allows organizations to easily orchestrate multiple businesses from one central admin console.
+* `Content Management System <../complete_reference/marketing/index>`_: Native CMS capabilities allow marketers and merchandise managers to manage robust digital media-enabled catalogs and rich product information pages providing buyers with the information they need to make purchasing decisions. In addition, OroCommerce’s theme is designed with an intuitive, user-friendly front-end which allows buyers to easily find the information and products they need.
+* `Personalized Catalog Management <../complete_reference/products/index>`_: Versatile catalog management capabilities allow B2B sellers to customize product catalogs to specific corporations, divisions, business units, and even individual buyers or customers. Each group has access to its own catalog where purchasing managers are able to view its content and purchase products.
+* `Multiple & Customized Price Lists <../complete_reference/sales/price_lists/index>`_: Create and manage multiple customized price lists for each customer, company, or business unit based on the negotiated contracts. Each price list can contain an unlimited number of price points, various tiers, and different currencies.
+* `Multiple Shopping Lists <../complete_reference/sales/shopping_lists>`_: Corporate buyers working on multiple projects, such as trade show displays, printed materials, or product/equipment for different business units, can manage and save multiple shopping lists in OroCommerce. This allows buyers to save shopping lists for future use and quickly purchase previously saved shopping lists.
+* `Streamline Buyer-Seller Interaction <../complete_reference/sales>`_: OroCommerce improves buyer-seller interactions by providing buyers an easy way to create and submit order forms, purchase orders, RFQs, and more. Sellers are then able to easily respond to orders & quote requests on the same platform thus facilitating an efficient negotiation process between the buyer and the seller.
+* `Segmentation & Custom Reports <../complete_reference/reports_and_segments>`_: The robust dashboard and reporting engine along with advanced segmentation capabilities allow sellers to gain actionable insight to their data. Leverage OroCommerce’s segmentation and reporting engine to track key business KPIs, understand customer’s purchasing patterns, and send timely, targeted marketing campaigns.
+* `Flexible Workflow Engine <../complete_reference/system/websites>`_: Create an unlimited number of custom eCommerce workflows to support both buyer and seller-related processes. The flexible workflow engine allows sellers to customize workflows like the checkout experience or order submission process. Automatic alerts can also be set to trigger when orders reach a certain value but haven’t been purchased.
+
+Community Edition vs Enterprise Edition
+---------------------------------------
+
+The key differences between CE and EE is the application’s enhanced performance scalability, extended functional capabilities and customer support.
+
+On top of the features available in OroCommerce CE, OroCommerce EE provides:
+
+* Big data processing with PostgreSQL database.
+* Big data search with ElasticSearch.
+* Integration with RabbitMQ to handle large amounts of job queues.
+* Multiple organizations support.
+* Multiple websites support.
+* Multiple currencies support.
+* Support for inventory management across multiple warehouses.
+* OroCRM capabilities integrated into OroCommerce interface.
+
+Orientation in the OroCommerce User Guide
+-----------------------------------------
+
+For detailed information on using OroCommerce CE and EE, please see the following topics:
+
+* `Navigation and using OroCommerce UI <../complete_reference/getting_started/index>`_
+
+* `Managing master catalog, product details, and price attributes <../complete_reference/products/index>`_
+
+* `Managing inventory and product availability in the warehouses <../complete_reference/inventory/index>`_
+
+* `Managing product prices <../complete_reference/sales/price_lists/index>`_
+
+* `Managing customers, their subsidiaries and users <../complete_reference/customers/index>`_
+
+* `Handling customer quotes <../complete_reference/sales/quotes/index>`_, `customer requests for quote <../complete_reference/sales/requests_for_quote/index>`_
+
+* Configuring `payment <../complete_reference/sales/payment/index>`_ and `shipping <../complete_reference/sales/shipping/index>`_ options available to the csutomer users during checkout.
+
+* `Using marketing tools: custom web catalog, landing pages, and customer login pages <../complete_reference/marketing/index>`_
+
+* `Controlling tax rates that are included in the customer order <../complete_reference/taxes/index>`_
 
 .. note:: Depending on your role in OroCommerce and custom system permissions, the available information and actions may vary.
+
 
 Table of Contents
 -----------------
 
 .. toctree::
    :maxdepth: 1
-
-   ../install_guide/index
 
    ../complete_reference/getting_started/index
 
@@ -34,6 +90,9 @@ Table of Contents
    ../complete_reference/marketing/index
 
    ../complete_reference/taxes/index
+
+..   install/index
+
 
 .. comment
    # Quick Start

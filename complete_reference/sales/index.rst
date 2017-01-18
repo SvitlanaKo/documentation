@@ -8,6 +8,8 @@ Sales
 
    orders/index
 
+   payment/index
+
    payment_terms/index
 
    price_lists/index
@@ -15,5 +17,7 @@ Sales
    quotes/index
 
    requests_for_quote/index
+
+   shipping/index
 
    shopping_lists/index

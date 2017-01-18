@@ -1,8 +1,7 @@
+:orphan:
+
 Linking a Tax Code to a Customer or Customer Group
 ==================================================
-
-.. include:: /maintenance_note.rst
-   :start-after: begin
 
 .. comment
    #.. image:: /complete_reference/img/taxes/taxes_from_account_view/   #AccountTaxCode_view.png
