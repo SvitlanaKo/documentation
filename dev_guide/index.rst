@@ -41,16 +41,16 @@ Developer Guide
 .. toctree::
    :maxdepth: 1
 
-   install_upgrade_and_patch/index
-
    basics/index
 
    extend_and_customize/index
 
    theme/index
 
+   install_upgrade_and_patch/index
+
+   reference/index
+
    entities/index
 
    other/index
-
-   reference/index

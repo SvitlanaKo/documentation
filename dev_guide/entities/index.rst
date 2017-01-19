@@ -2,27 +2,28 @@ Using and Managing Entities
 ===========================
 
 .. toctree::
+   :maxdepth: 1
 
-    introduction
+   introduction
 
-    creating_entities
+   creating_entities
 
-    data_fixtures
+   data_fixtures
 
-    datagrids
+   datagrids
 
-    managing_tasks
+   managing_tasks
 
-    deleting_tasks
+   deleting_tasks
 
-    adding_properties
+   adding_properties
 
-    acls
+   acls
 
-    import_export
+   import_export
 
-    report
+   report
 
-    dashboards
+   dashboards
 
-    using_entities
+   using_entities

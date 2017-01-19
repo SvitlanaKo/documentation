@@ -4,6 +4,7 @@ How to... Articles
 This section aggregates uncategorized information that might be usefull for Oro developers:
 
 .. toctree::
+   :maxdepth: 1
 
    how_to_accelerate_import
 
