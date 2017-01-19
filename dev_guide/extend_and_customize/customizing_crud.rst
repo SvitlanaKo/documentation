@@ -547,11 +547,11 @@ and one for the view:
 
 As a result, the following blocks will be shown on the product edit and create pages:
 
-.. image:: img\crud_result_edit.png
+.. image:: /dev_guide/img/crud_result_edit.png
 
 In view mode, the block looks as follows:
 
-.. image:: img\crud_result_view.png
+.. image:: /dev_guide/img/crud_result_view.png
 
 A fully working example, organized into a custom bundle is available `here <https://www.orocommerce.com/downloads/orob2bblogpostexamplebundle?wpdmdl=1732>`_ (Download 13.47 KB).
 

@@ -33,10 +33,9 @@ This section provides links to the online documentation for the latest OroCommer
          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
             <p>
                <ul>
-                   <li><a href="current/dev-guide/customizing-crud">Customizing CRUD Pages</a></li>
-                   <li><a href="current/dev-guide/customizing-data-grid-in-orocommerce">Customizing OroCommerce</a></li>
-                   <li><a href="current/dev-guide/customizing-import-export">Extending Entities to Support Bulk Import and Export</a></li>
-                   <li><a href="current/dev-guide/using-php-instead-of-twig-for-templates">Using PHP Instead of Twig for Templates</a></li>
+                   <li><a href="current/dev-guide/basics/frontend-architecture">OroPlatform Architecture</a></li>
+                   <li><a href="current/dev-guide/extend-and-customize">Customizing OroCommerce Capabilities</a></li>
+                   <li><a href="current/dev-guide/theme/layout">Customizing OroCommerce Theme</a></li>
                </ul>
             </p>
          </div>

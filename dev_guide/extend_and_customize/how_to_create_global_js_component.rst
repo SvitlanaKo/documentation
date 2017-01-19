@@ -5,12 +5,12 @@ A global component or global view is an instance that exists beyond the content 
 re-created in the course of navigation between different pages. A good example of a global
 component is the Pin Bar:
 
-.. image:: ./img/how_to_create_global_js_component/global-component-of-pin-bar.png
+.. image:: /dev_guide/img/how_to_create_global_js_component/global-component-of-pin-bar.png
 
 .. seealso::
 
     You can find more information about global components and global views and learn about
-    the App Module from the :doc:`Frontend Architecture chapter <frontend_architecture>`
+    the App Module from the :doc:`Frontend Architecture chapter </dev_guide/basics/frontend_architecture>`
     and from the `Page Component documentation`_.
 
 

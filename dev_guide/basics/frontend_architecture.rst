@@ -1,8 +1,9 @@
 Frontend Architecture
 =====================
 
-Intro
------
+Introduction
+------------
+
 Client Side Architecture of OroPlatform is built over `Chaplin`_
 (an architecture for JavaScript Web applications based on the `Backbone.js`_
 library).
@@ -106,7 +107,7 @@ Application Lifecycle
 Chaplin extends Backbone concept introducing missing parts (such as a controller)
 and providing solid lifecycle for application's components:
 
-.. image:: ./img/frontend_architecture/chaplin-lifecycle.png
+.. image:: /dev_guide/img/frontend_architecture/chaplin-lifecycle.png
    :target: http://docs.chaplinjs.org/
 
 
@@ -150,7 +151,7 @@ series of system events to notify the environment that the page content has chan
      * page:update
      * page:afterChange
 
-.. image:: ./img/frontend_architecture/page-controller.png
+.. image:: /dev_guide/img/frontend_architecture/page-controller.png
 
 These events are handled by global views (view components that exist throughout
 the navigation and are not deleted by a page change).
