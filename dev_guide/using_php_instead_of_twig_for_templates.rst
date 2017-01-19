@@ -1,4 +1,4 @@
-Using PHP instead of Twig for templates
+Using PHP Instead of Twig for Templates
 =======================================
 
 Symfony, the underlying framework used in OroCommerce, defaults to Twig for its template engine, but you can still use plain PHP templates if necessary. Symfony provides equally good support of both templating engines.
@@ -25,7 +25,7 @@ Only one templating engine can be used at a time in an OroPlatform application. 
             twig:
                 enabled: false
 
-Modify layouts to use PHP templates
+Modify Layouts to Use PHP Templates
 -----------------------------------
 
 The default “base” OroPlatform theme uses Twig templates. You should choose a different approach in your default.yml file in your theme’s folder:
@@ -72,7 +72,7 @@ The example above creates a standard web page structure (head, metadata, and bod
         - @setBlockTheme:
             themes: 'MyBundle:layouts/first_theme/php'
 
-Creating templates
+Creating Templates
 ------------------
 
 As you are not using Twig anymore, you should provide the PHP templates for the blocks used in the layout.

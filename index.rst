@@ -33,15 +33,21 @@ This section provides links to the online documentation for the latest OroCommer
          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
             <p>
                <ul>
-                   <li><a href="current/dev-guide">Oro Development Basics</a></li>
-                   <li><a href="current/dev-guide">Customizing OroCommerce</a></li>
-                   <li><a href="current/dev-guide">Developing an Integration</a></li>
-                   <li><a href="current/dev-guide">Developing a New Module</a></li>
+                   <li><a href="current/dev-guide/customizing-crud">Customizing CRUD Pages</a></li>
+                   <li><a href="current/dev-guide/customizing-data-grid-in-orocommerce">Customizing OroCommerce</a></li>
+                   <li><a href="current/dev-guide/customizing-import-export">Extending Entities to Support Bulk Import and Export</a></li>
+                   <li><a href="current/dev-guide/using-php-instead-of-twig-for-templates">Using PHP Instead of Twig for Templates</a></li>
                </ul>
             </p>
          </div>
       </div>
    </div>
+
+.. comment
+                   <li><a href="current/dev-guide">Oro Development Basics</a></li>
+                   <li><a href="current/dev-guide">Customizing OroCommerce</a></li>
+                   <li><a href="current/dev-guide">Developing an Integration</a></li>
+                   <li><a href="current/dev-guide">Developing a New Module</a></li>
 
 .. raw:: html
 
@@ -82,7 +88,7 @@ This section provides links to the online documentation for the latest OroCommer
       </div>
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a href="current/community">
+            <a href="https://orocommerce.oro-community.intra.orocrm.com/demo">
                <h3><i class="fa fa-laptop fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
                Online Demo</h3></a>
             </a>
