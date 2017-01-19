@@ -1,5 +1,5 @@
-Contributing to OroPlatform, OroCommerce and OroCRM Source Code
-===============================================================
+Contributing to Oro Source Code
+===============================
 
 We'd love for you to contribute to a free OroCommerce Community Edition open source code and related documentation. The following guidelines and recommendations help synchronize the community actions and provide a blueprint for seamless and non-intrusive collaboration.
 

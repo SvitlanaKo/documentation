@@ -36,6 +36,7 @@ This section provides links to the online documentation for the latest OroCommer
                    <li><a href="current/dev-guide/basics/frontend-architecture">OroPlatform Architecture</a></li>
                    <li><a href="current/dev-guide/extend-and-customize">Customizing Features</a></li>
                    <li><a href="current/dev-guide/theme/layout">Customizing a Theme</a></li>
+                   <li><a href="current/dev-guide/other">How to...</a></li>
                </ul>
             </p>
          </div>

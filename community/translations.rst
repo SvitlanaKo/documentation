@@ -1,5 +1,5 @@
-Translating OroCommerce into your Native Language
-=================================================
+Contributing to Translatiion
+============================
 
 .. contents:: :local:
 

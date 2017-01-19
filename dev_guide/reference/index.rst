@@ -1,5 +1,5 @@
-Annotation and Configuration Format Reference
-=============================================
+Annotation and Configuration Format
+===================================
 
 .. toctree::
    :maxdepth: 2
