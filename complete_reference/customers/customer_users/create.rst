@@ -24,7 +24,7 @@ To create a new Customer:
 
 #. Select the Website the customer user will be redirected to upon the login. See `Managing Websites <./../../system/websites>`_ for more information.
 
-#. Add billing and shipping address as described in the `Address Book <./../../shared/common_actions/manage-address-book>`_ section.
+#. Add billing and shipping address as described in the `Address Book <./../../common_actions/manage-address-book>`_ section.
 
 #. In the *Roles* section, select the roles that should apply to the customer user. When several roles are selected, granted premissions are accumulated from all the assigned roles. See `Managing Customer User Roles <./../customer_user_roles>`_ for more information.
 
