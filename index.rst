@@ -89,7 +89,7 @@ This section provides links to the online documentation for the latest OroCommer
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
             <p>
-               Check out the `OroCommerce Online Demo <https://orocommerce.oro-community.intra.orocrm.com/demo>`_ of the latest released version.
+               Check out the <a href="https://orocommerce.oro-community.intra.orocrm.com/demo">OroCommerce Online Demo</a> of the latest released version.
             </p>
           </div>
       </div>
