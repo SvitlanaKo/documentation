@@ -30,8 +30,6 @@ Reference Guide
 
    common_actions/index
 
-   getting_started/index
-
    advanced/index
 
    glossary
