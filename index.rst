@@ -41,6 +41,11 @@ This section provides links to the online documentation for the latest OroCommer
             </p>
          </div>
       </div>
+   </div>
+
+.. raw:: html
+
+   <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
             <a href="current/community">
@@ -57,11 +62,6 @@ This section provides links to the online documentation for the latest OroCommer
             </p>
          </div>
       </div>
-   </div>
-
-.. raw:: html
-
-   <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
             <a href="current/community">
