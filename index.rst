@@ -10,7 +10,7 @@ This section provides links to the online documentation for the latest OroCommer
    <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a href="current/user-guide"><h3><img alt="_images/user.png" src="https://orocommerce.oro-community.intra.orocrm.com/wp-content/uploads/sites/3/2016/12/user-1.png" style="width:30px"><br>
+            <a href="current/user-guide"><h3><i class="fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
             User Guide</h3></a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
@@ -27,7 +27,7 @@ This section provides links to the online documentation for the latest OroCommer
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
             <a href="current/dev-guide">
-            <h3><img alt="_images/home.png" src="https://orocommerce.oro-community.intra.orocrm.com/wp-content/uploads/sites/3/2016/12/lab-1.png" style="width:30px"><br>
+            <h3><i class="fa fa-flask fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
             Developer Guide</h3></a>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
@@ -44,7 +44,7 @@ This section provides links to the online documentation for the latest OroCommer
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
             <a href="current/community">
-               <h3><img alt="_images/contrib.png" src="_images/contrib.png" style="width:30px;"><br>
+               <h3><i class="fa fa-users fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
                Contributing</h3></a>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
@@ -65,7 +65,7 @@ This section provides links to the online documentation for the latest OroCommer
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
             <a href="current/community">
-               <h3><img alt="_images/announcement.png" src="_images/announcement.png" style="width:30px;"><br>
+               <h3><i class="fa fa-flag fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
                Support</h3></a>
             </a>
           </div>
