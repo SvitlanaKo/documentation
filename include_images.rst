@@ -47,3 +47,12 @@ Images
 .. |DActionIcons| image:: /complete_reference/img/dashboards/dashboard/dashboards/dashboard_action_icons.png
    :align: middle 
 
+.. |indexUser| image:: /complete_reference/img/icons/user.png
+
+.. |indexContrib| image:: /complete_reference/img/icons/contrib.png
+
+.. |indexAnnouncement| image:: /complete_reference/img/icons/announcement.png
+
+.. |indexDev| image:: /complete_reference/img/icons/lab.png
+
+.. |indexConfig| image:: /complete_reference/img/icons/gear.png

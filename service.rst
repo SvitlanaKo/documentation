@@ -1,5 +1,11 @@
 :orphan:
 
+Service page
+~~~~~~~~~~~~
+
+Images
+""""""
+
 .. image:: /complete_reference/img/icons/home.png
 
 .. image:: /complete_reference/img/icons/user.png
