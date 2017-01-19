@@ -1,5 +1,3 @@
-.. _user-guide-activities-events:
-
 Add and Assign Calendar Events
 ==============================
 

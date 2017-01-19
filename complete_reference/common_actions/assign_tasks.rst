@@ -1,5 +1,3 @@
-.. _user-guide-activities-tasks:
-
 Add Task and Assign Task
 ========================
 

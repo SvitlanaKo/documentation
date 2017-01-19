@@ -1,5 +1,3 @@
-.. _user-guide-activities-emails:
-
 Send Email
 ==========
 
@@ -67,8 +65,6 @@ For example, we have created an email for the contact Jeffrey Maynard:
 
     Some default email settings also depend on the `related configuration settings <../system/Emails>`_.
 
-	
-.. _user-guide-activities-emails-view:
 
 View and Process Emails
 -----------------------
@@ -112,8 +108,6 @@ To see the details, click on the email title or on the :guilabel:`+` to the left
 
 .. image:: /complete_reference/img/common/activities/send_email_view_detailed.png
 
-
-.. _user-guide-activities-emails-add-attachment:
 
 Add Attachments
 ^^^^^^^^^^^^^^^

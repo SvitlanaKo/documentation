@@ -89,7 +89,7 @@ Table of Contents
 
    ../complete_reference/marketing/index
 
-   ../complete_reference/taxes/index
+   taxes/index
 
 ..   install/index
 

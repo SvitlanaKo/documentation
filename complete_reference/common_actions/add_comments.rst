@@ -1,5 +1,3 @@
-.. _user-guide-activities-comments:
-
 Add Comment
 ===========
 

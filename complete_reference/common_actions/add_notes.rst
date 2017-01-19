@@ -1,5 +1,3 @@
-.. _user-guide-add-note:
-
 Add Note
 ========
 
