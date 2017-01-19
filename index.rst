@@ -99,6 +99,8 @@ Check out the `OroCommerce Online Demo <https://orocommerce.oro-community.intra.
 
     system_requirements
 
+    complete_reference/index
+
 ..     admin_guide/index
 
 ..     install_guide/index
