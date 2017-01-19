@@ -1,5 +1,5 @@
-Entities
-========
+Using and Managing Entities
+===========================
 
 .. toctree::
 

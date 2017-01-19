@@ -1,5 +1,5 @@
-Extend and Customize OroCommerce
---------------------------------
+Customizing Oro Features
+------------------------
 
 .. toctree::
    :maxdepth: 1

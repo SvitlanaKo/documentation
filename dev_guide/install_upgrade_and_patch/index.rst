@@ -1,5 +1,5 @@
-Getting Started
----------------
+Extension and Patch Installation
+--------------------------------
 
 This section contains information related to the OroCommerce installation, upgrade and patch.
 

@@ -244,7 +244,7 @@ Both APIs return a data object with three attributes:
         The record's title
 
 The simple Search API
-.....................
+^^^^^^^^^^^^^^^^^^^^^
 
 The simple search API can be used to remotely search in all text fields of
 all entities. It's driven by three parameters describing a query:
@@ -266,7 +266,7 @@ being the default version. The SOAP function name is ``search``.
 .. _advanced-search-api:
 
 The advanced Search API
-.......................
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Instead of searching in all fields of all entities, you can use the advanced
 search API to create your own remote search queries. Each query is passed

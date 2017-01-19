@@ -1,5 +1,5 @@
-Reference
-=========
+Annotation and Configuration Format Reference
+=============================================
 
 * :doc:`/dev_guide/reference/annotation/index`
 

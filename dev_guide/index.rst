@@ -51,14 +51,6 @@ Developer Guide
 
    entities/index
 
-   how_to_enable_https
-
-   how_to_use_wsse_authentication
-
-   how_to_pass_request_parameter_to_grid
-
-   how_to_accelerate_import
+   other/index
 
    reference/index
-
-   

@@ -1,5 +1,5 @@
-Customizing Theme
------------------
+Customizing the Theme
+---------------------
 
 .. toctree::
    

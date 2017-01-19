@@ -795,7 +795,7 @@ Creating Extended Entities
 .. _book-entities-many-to-one-associations:
 
 Many-to-one Associations
-........................
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 To explain how to create many-to-one associations, the following section explains some parts of the
 `OroNoteBundle`_ to show how an entity can be created to which you can then attach a collection of
@@ -999,7 +999,7 @@ migrations to make the association available through all stages of the entity ge
 .. _book-entities-many-to-many-associations:
 
 Many-to-Many Associations
-.........................
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When it comes to many-to-many associations, it's up to you as the developer to choose the owning
 side of the relation. The owning side of this association must be an extended entity and you need
