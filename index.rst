@@ -80,12 +80,20 @@ This section provides links to the online documentation for the latest OroCommer
             </p>
           </div>
       </div>
+      <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
+         <div style="text-align: center;">
+            <a href="current/community">
+               <h3><i class="fa fa-laptop fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+               Online Demo</h3></a>
+            </a>
+          </div>
+          <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
+            <p>
+               Check out the `OroCommerce Online Demo <https://orocommerce.oro-community.intra.orocrm.com/demo>`_ of the latest released version.
+            </p>
+          </div>
+      </div>
    </div>
-
-Online Demo
------------
-
-Check out the `OroCommerce Online Demo <https://orocommerce.oro-community.intra.orocrm.com/demo>`_ of the latest released version.
 
 .. toctree::
     :hidden:
