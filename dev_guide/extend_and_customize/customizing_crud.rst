@@ -397,7 +397,7 @@ UI Data Targets and Listener
 
 Once the entity, the form type, and the form type extension are created, we can start customizing the User Interface.
 
-.. note:: Additional information about the UI customization is available here.
+.. note:: Additional information about the UI customization is available `here </dev-guide/theme/layout>`_.
 
 In our case, the custom data should be added to the product view page and the product edit/create pages, so we will use the following dataTargets:
 
