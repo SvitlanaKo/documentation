@@ -1,6 +1,10 @@
 Developer Guide
 ===============
 
+This document is intended for Oro developers and contains information about OroPlatform architecture, guidance on customization and extension of the existing features in Oro applications, and how-to articles about configuration and setup necessary for development or future use of the applicaton.
+
+Please navigate to the following sections for the complete list of topics:
+
 .. comment
    #.. note:: Content is temporary unavailable due to severe maintenance works. Sorry for    #inconvenience.
    #
