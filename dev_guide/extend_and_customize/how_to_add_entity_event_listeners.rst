@@ -2,7 +2,7 @@
     single: Customization; Entity Event Listeners
     single: Events; Entity Event Listeners
 
-How to add entity event listeners
+How to Add Entity Event Listeners
 =================================
 
 *Used application: OroPlatform 1.7*

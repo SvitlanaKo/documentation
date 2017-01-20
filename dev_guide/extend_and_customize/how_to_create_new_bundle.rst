@@ -2,7 +2,7 @@
     single: Bundle; Create a Bundle
     single: Customization; Create a custom Bundle
 
-How to create new bundle
+How to Create New Bundle
 ========================
 
 *Used application: OroPlatform 1.7*
@@ -10,7 +10,7 @@ How to create new bundle
 New bundle can be created either manually, or automatically using standard Symfony console command.
 
 
-Create bundle manually
+Create Bundle Manually
 ----------------------
 
 First you need to specify name and namespace of your bundle. Symfony framework already has
@@ -104,7 +104,7 @@ Now you have all required files to enable your new bundle. To do that you have t
        If you are working in production environment you have to add parameter
        --env=prod.
 
-Now you can go to frontend in development mode (http://bap.tutorial/app_dev.php/) and click on
+Now you can go to frontend in development mode (use the link http\://<oro-application-base-url>/app_dev.php/) and click on
 `Symfony profiler`_ config icon:
 
 .. _Symfony profiler: http://symfony.com/doc/current/book/internals.html#profiler

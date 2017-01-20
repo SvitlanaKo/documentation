@@ -2,7 +2,7 @@
     single: Customization; User Validation Constraints
     single: Validation; User Validation Constraints
 
-How to Add custom User Validation Constraints
+How to Add Custom User Validation Constraints
 =============================================
 
 The UserBundle from OroPlatform already ships a set of

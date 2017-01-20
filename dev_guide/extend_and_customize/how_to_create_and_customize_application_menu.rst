@@ -4,7 +4,7 @@
     single: Menu; Create an Application Menu
     single: Menu; Extend an Application Menu
 
-How to create and customize application menu
+How to Create and Customize Application Menu
 ============================================
 
 *Used application: OroCRM 1.7*
@@ -13,10 +13,7 @@ In OroPlatform you can create your fully personalized menu or use a simple techn
 This tutorial describes how to override a section in the default menu.
 
 Let's assume that you already have a bundle with the namespace ``Acme\Bundle\NewBundle`` in the ``/src`` directory
-with annotation configuration format `generated or created manually`_.
-
-.. _generated or created manually: ./how_to_create_new_bundle.rst
-
+with annotation configuration format `generated or created manually <./how_to_create_new_bundle>`_.
 
 Create your route with annotation
 ---------------------------------

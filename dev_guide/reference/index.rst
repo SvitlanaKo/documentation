@@ -8,6 +8,4 @@ This topic contains information about the format of code annotation, configurati
 
    annotation/index
 
-   entity_config/index
-
    format/index

@@ -1,4 +1,4 @@
-How to Create a global JavaScript Component
+How to Create a Global JavaScript Component
 ===========================================
 
 A global component or global view is an instance that exists beyond the content area and is not
@@ -128,5 +128,5 @@ to the build-file (``oro.min.js``). Once the source file was added to the config
 
           $ php app/console oro:requirejs:build
 
-.. _`Page Component documentation`: https://github.com/orocommerce/platform/blob/master/src/Oro/Bundle/UIBundle/Resources/doc/reference/page-component.md
+.. _`Page Component documentation`: https://github.com/orocrm/platform/blob/master/src/Oro/Bundle/UIBundle/Resources/doc/reference/page-component.md
 .. _`Chaplin.Composer documentation`: http://docs.chaplinjs.org/chaplin.composer.html

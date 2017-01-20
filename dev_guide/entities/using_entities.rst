@@ -1,5 +1,5 @@
-Using Entities
-==============
+How to Use Entities
+===================
 
 OroPlatform makes it easy to manage your entities:
 
