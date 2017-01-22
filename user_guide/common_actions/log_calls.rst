@@ -55,7 +55,7 @@ For example, we have called Mr. Maynard to verify the email address:
 - We've defined the call subject and briefly described the call results in the "Additional comments" section.
 - We've specified the call duration (5 minutes).
 
-.. image:: /complete_reference/img/common/activities/log_call_ex.png  
+.. image:: /user_guide/img/common/activities/log_call_ex.png  
 
 .. hint::
 
@@ -73,7 +73,7 @@ Log Call from the Calls Grid
 
 3. The "Log Call" form will appear.
 
-.. image:: /complete_reference/img/common/activities/log_call_form.png
+.. image:: /user_guide/img/common/activities/log_call_form.png
 
 |
 
@@ -94,7 +94,7 @@ View and Manage Calls
 - All the calls logged for a record are displayed and can be reached from the *Record Activities* section on the 
   View page:
 
-.. image:: /complete_reference/img/common/activities/log_call_view.png
+.. image:: /user_guide/img/common/activities/log_call_view.png
 
 - To see the details, click on the call title or the :guilabel:`+` to the left of it.
 
@@ -109,11 +109,11 @@ From any of the grids above, you can manage the tasks using the action icons:
 - View the logged call details:  |IcView|
   
   
-.. |IcDelete| image:: /complete_reference/img/common/buttons/IcDelete.png
+.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
    :align: middle
 
-.. |IcEdit| image:: /complete_reference/img/common/buttons/IcEdit.png
+.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
    :align: middle
 
-.. |IcView| image:: /complete_reference/img/common/buttons/IcView.png
+.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
    :align: middle

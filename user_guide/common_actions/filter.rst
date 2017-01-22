@@ -137,7 +137,7 @@ To define the *"Activity"* setting:
 
 For example, we will select only those records, for which a call has been logged after the July 1, 2015
 
-.. image:: /complete_reference/img/common/filters/acivity_selector_ex.png
+.. image:: /user_guide/img/common/filters/acivity_selector_ex.png
 
 .. _user-guide-filters-audit:
 
@@ -161,7 +161,7 @@ To define the *"Data audit"* setting:
   
 For example, we will select only the records, for which Job Title value has been changed since July 1, 2015
 
-.. image:: /complete_reference/img/common/filters/audit_selector_ex.png
+.. image:: /user_guide/img/common/filters/audit_selector_ex.png
 
 .. note:: 
 
@@ -225,30 +225,30 @@ Subject to the conjunction with the rest of conditions the list will now contain
    
 
 
-.. |field_condition| image:: /complete_reference/img/common/filters/field_condition.png
+.. |field_condition| image:: /user_guide/img/common/filters/field_condition.png
 
-.. |field_condition_click| image:: /complete_reference/img/common/filters/field_condition_click.png
+.. |field_condition_click| image:: /user_guide/img/common/filters/field_condition_click.png
 
-.. |field_condition_fields| image:: /complete_reference/img/common/filters/field_condition_fields.png
+.. |field_condition_fields| image:: /user_guide/img/common/filters/field_condition_fields.png
 
-.. |field_condition_defined| image:: /complete_reference/img/common/filters/field_condition_defined.png
+.. |field_condition_defined| image:: /user_guide/img/common/filters/field_condition_defined.png
 
-.. |field_condition_rel_ent| image:: /complete_reference/img/common/filters/field_condition_rel_ent.png
+.. |field_condition_rel_ent| image:: /user_guide/img/common/filters/field_condition_rel_ent.png
 
-.. |field_condition_rel_ent_add| image:: /complete_reference/img/common/filters/field_condition_rel_ent_add.png
+.. |field_condition_rel_ent_add| image:: /user_guide/img/common/filters/field_condition_rel_ent_add.png
 
-.. |field_condition_rel_rel_ent| image:: /complete_reference/img/common/filters/field_condition_rel_rel_ent.png
+.. |field_condition_rel_rel_ent| image:: /user_guide/img/common/filters/field_condition_rel_rel_ent.png
 
-.. |field_condition_and| image:: /complete_reference/img/common/filters/field_condition_and.png
+.. |field_condition_and| image:: /user_guide/img/common/filters/field_condition_and.png
 
-.. |field_condition_value| image:: /complete_reference/img/common/filters/field_condition_value.png
+.. |field_condition_value| image:: /user_guide/img/common/filters/field_condition_value.png
 
-.. |segments| image:: /complete_reference/img/common/filters/segments.png
+.. |segments| image:: /user_guide/img/common/filters/segments.png
 
-.. |segments_choose| image:: /complete_reference/img/common/filters/segments_choose.png
+.. |segments_choose| image:: /user_guide/img/common/filters/segments_choose.png
 
-.. |activity_selector_1| image:: /complete_reference/img/common/filters/acivity_selector_1.png
+.. |activity_selector_1| image:: /user_guide/img/common/filters/acivity_selector_1.png
 
-.. |activity_selector_2| image:: /complete_reference/img/common/filters/acivity_selector_2.png
+.. |activity_selector_2| image:: /user_guide/img/common/filters/acivity_selector_2.png
 
-.. |audit_selector_1| image:: /complete_reference/img/common/filters/audit_selector_1.png
+.. |audit_selector_1| image:: /user_guide/img/common/filters/audit_selector_1.png

@@ -9,7 +9,7 @@ To create a new Customer:
 
    The following page opens:
 
-   .. image:: /complete_reference/img/customers/customer_users/CustomerUsersCreate.png
+   .. image:: /user_guide/img/customers/customer_users/CustomerUsersCreate.png
       :class: with-border
 
 #. Fill in customer **Name** and other personal information.

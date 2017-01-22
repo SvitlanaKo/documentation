@@ -1,7 +1,7 @@
 Web Catalogs
 ------------
 
-.. include:: /complete_reference/overview/marketing/web_catalogs_overview.rst
+.. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
   :start-after: begin
 
 .. contents:: :local:
@@ -31,5 +31,5 @@ Web Catalogs
 
    edit_web_catalog_content_tree
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

@@ -40,5 +40,5 @@ You can perform the following actions with every item in the Product Tax Codes l
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

@@ -5,11 +5,11 @@ To view all Price Attributes, navigate to **Products > Price Attributes** in the
 
 Preview:
 
-.. include:: /complete_reference/overview/products/price_attributes_overview.rst
+.. include:: /user_guide/overview/products/price_attributes_overview.rst
   :start-after: begin
 
 
-.. image:: /complete_reference/img/products/price_attributes/PriceAttributes.png
+.. image:: /user_guide/img/products/price_attributes/PriceAttributes.png
    :class: with-border
 
 The following information about the Price Attributes is available in the Price Attributes list:

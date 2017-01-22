@@ -5,7 +5,7 @@ To view all Warehouses, navigate to **Inventory > Warehouses** in the main menu,
 
 Preview:
 
-.. image:: /complete_reference/img/inventory/warehouses/WarehousesView.png
+.. image:: /user_guide/img/inventory/warehouses/WarehousesView.png
    :class: with-border
 
 Additionally, you can view the following information:

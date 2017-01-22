@@ -1,7 +1,7 @@
 Marketing
 =========
 
-.. include:: /complete_reference/overview/marketing_overview.rst
+.. include:: /user_guide/overview/marketing_overview.rst
    :start-after: begin
 
 **Related topics**

@@ -5,7 +5,7 @@ To view all Products, navigate to **Products > Products** in the main menu, and 
 
 Preview:
 
-.. image:: /complete_reference/img/products/products/ProductsView.png
+.. image:: /user_guide/img/products/products/ProductsView.png
    :class: with-border
 
 The following information about the ProductsView is available in the ProductsView list:

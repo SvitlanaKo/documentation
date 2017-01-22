@@ -1,7 +1,7 @@
 Product Attributes
 ------------------
 
-.. include:: /complete_reference/overview/products/product_attributes_overview.rst
+.. include:: /user_guide/overview/products/product_attributes_overview.rst
   :start-after: begin
 
 .. toctree::

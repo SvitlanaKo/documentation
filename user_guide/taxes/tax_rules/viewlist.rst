@@ -49,5 +49,5 @@ You can perform the following actions with every item in the Tax Rules list:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

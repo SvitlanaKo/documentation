@@ -65,7 +65,7 @@ a week (till April 5th). An email will be sent to Ellen Rowell one day before th
 
       |
   
-.. image:: /complete_reference/img/common/activities/add_task_ex.png
+.. image:: /user_guide/img/common/activities/add_task_ex.png
    
 4. Click the :guilabel:`Create Task` button and the Task will be added.
 
@@ -89,7 +89,7 @@ The task has no specific due date, but its priority is high.
 
       |
   
-.. image:: /complete_reference/img/common/activities/assign_task.png
+.. image:: /user_guide/img/common/activities/assign_task.png
 
 4. Click the :guilabel:`Create Task` button and the task will be added.
 
@@ -105,7 +105,7 @@ Create a Task from the Tasks Grid
 
       |
 
-.. image:: /complete_reference/img/common/activities/create_task.png
+.. image:: /user_guide/img/common/activities/create_task.png
 
 The form has the same fields as the "Add Task" form. By default, the "Assigned to" field is filled with the user
 creating the task but it can be edited.
@@ -128,7 +128,7 @@ View and Manage Tasks
 
   |
   
-.. image:: /complete_reference/img/common/activities/add_task_view.png
+.. image:: /user_guide/img/common/activities/add_task_view.png
 
 |
 
@@ -137,7 +137,7 @@ View and Manage Tasks
 - All the tasks assigned to a user will appear in the "User Tasks" grid in the "Additional Information" section of the 
   user's View page. 
 
-.. image:: /complete_reference/img/common/activities/assign_task_manage.png
+.. image:: /user_guide/img/common/activities/assign_task_manage.png
 
 |
 
@@ -145,7 +145,7 @@ From any of the grids above, you can manage the tasks using the action icons:
 
 - Delete the task: |IcDelete|
 
-- Get to the `Edit from <../../../complete_reference/advanced/data_management/form.html>`_ of the task: |IcEdit|
+- Get to the `Edit from <../../advanced/data_management/form.html>`_ of the task: |IcEdit|
 
 - Get to the task details page:  |IcView|
 
@@ -156,9 +156,9 @@ Tasks Assigned to You
 
 Once you have logged into the system, you can see the Task grid in "My Tasks" page.
 
-.. image:: /complete_reference/img/common/activities/my_tasks_menu.png
+.. image:: /user_guide/img/common/activities/my_tasks_menu.png
 
-.. image:: /complete_reference/img/common/activities/my_tasks.png
+.. image:: /user_guide/img/common/activities/my_tasks.png
 
 |
 
@@ -166,7 +166,7 @@ Tasks, for which a due date has been defined will also appear in the "My Calenda
 
       |
   
-.. image:: /complete_reference/img/common/activities/my_tasks_cal.png
+.. image:: /user_guide/img/common/activities/my_tasks_cal.png
 
 |
 
@@ -174,7 +174,7 @@ Click on the task in the calendar to get to its information tab. Use the buttons
 
       |
   
-.. image:: /complete_reference/img/common/activities/my_tasks_info.png
+.. image:: /user_guide/img/common/activities/my_tasks_info.png
 
 
 
@@ -182,11 +182,11 @@ Click on the task in the calendar to get to its information tab. Use the buttons
   
     The tasks can also be mapped to the Outlook account as described in the `Synchronization with Outlook <../system/configuration/integrations/ms-exchnage.html>`_ section.
 
-.. |IcDelete| image:: /complete_reference/img/common/buttons/IcDelete.png
+.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
    :align: middle
 
-.. |IcEdit| image:: /complete_reference/img/common/buttons/IcEdit.png
+.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
    :align: middle
 
-.. |IcView| image:: /complete_reference/img/common/buttons/IcView.png
+.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
    :align: middle

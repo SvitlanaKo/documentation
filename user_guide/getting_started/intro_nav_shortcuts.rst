@@ -13,7 +13,7 @@ Shortcuts are accessible via the icon in the navigation panel.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/shortcut_full.png
+.. image:: /user_guide/img/getting_started/navigation/panel/shortcut_full.png
 
 |
 
@@ -39,13 +39,13 @@ From here, you can:
 
 
 All the :ref:`menu and sub-menu items <user-guide-navigation-menu>` and 
-`Create forms <../../../complete_reference/advanced/data_management/form.html>`_ are available.
+`Create forms <../../advanced/data_management/form.html>`_ are available.
 
 
 
 
-.. |IcSearch| image:: /complete_reference/img/common/buttons/IcSearch.png
+.. |IcSearch| image:: /user_guide/img/common/buttons/IcSearch.png
 
-.. |shortcut| image:: /complete_reference/img/getting_started/navigation/panel/shortcut.png
+.. |shortcut| image:: /user_guide/img/getting_started/navigation/panel/shortcut.png
 
-.. |shortcut_all| image:: /complete_reference/img/getting_started/navigation/panel/shortcut_all.png
+.. |shortcut_all| image:: /user_guide/img/getting_started/navigation/panel/shortcut_all.png

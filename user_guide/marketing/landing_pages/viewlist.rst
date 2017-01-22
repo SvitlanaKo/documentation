@@ -5,7 +5,7 @@ To view all Landing Pages, navigate to **Marketing > Landing Pages** in the main
 
 Preview:
 
-.. image:: /complete_reference/img/marketing/landing_pages/LandingPages.png
+.. image:: /user_guide/img/marketing/landing_pages/LandingPages.png
    :class: with-border
 
 You can perform the following actions at the All Landing Pages page:
@@ -28,5 +28,5 @@ You can perform the following actions at the All Landing Pages page:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

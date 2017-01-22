@@ -20,7 +20,7 @@ to keep working with us at his new company.
 
       |
   
-.. image:: /complete_reference/img/common/activities/add_note_ex.png  
+.. image:: /user_guide/img/common/activities/add_note_ex.png  
 
 |
 
@@ -31,7 +31,7 @@ View page:
 
       |
   
-.. image:: /complete_reference/img/common/activities/add_note_view.png
+.. image:: /user_guide/img/common/activities/add_note_view.png
 
 |
 

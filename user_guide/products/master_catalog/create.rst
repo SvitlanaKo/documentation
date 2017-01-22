@@ -5,7 +5,7 @@ To create a new Master Catalog, navigate to **Products > Master Catalog** in the
 
 Preview:
 
-.. image:: /complete_reference/img/products/master_catalog/MasterCatalogCreate.png
+.. image:: /user_guide/img/products/master_catalog/MasterCatalogCreate.png
    :class: with-border
 
 The following information about the Master CatalogCreate is available in the Master CatalogCreate list:

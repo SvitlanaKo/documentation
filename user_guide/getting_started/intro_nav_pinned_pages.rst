@@ -28,7 +28,7 @@ To pin a page, click the pin icon in the top right corner of the page.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/pin.png  
+.. image:: /user_guide/img/getting_started/navigation/panel/pin.png  
 
 |
 
@@ -36,7 +36,7 @@ When you’ve pinned a page, the pin icon will turn yellow and a link to the pag
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/pin_1.png  
+.. image:: /user_guide/img/getting_started/navigation/panel/pin_1.png  
 
 |
 
@@ -48,7 +48,7 @@ If you have a lot of pinned pages and they do not fit into the pinbar, click the
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/pin_2.png  
+.. image:: /user_guide/img/getting_started/navigation/panel/pin_2.png  
 
 |
 

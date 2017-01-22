@@ -6,7 +6,7 @@ Overview
 
 .. rubric:: Master catalog
 
-Master catalog is a tree structure that organises all products you are selling. A category may group the products of the same type or may enforce the unified selling strategy, special `visibility <../../complete_reference/products/products/managing-product-visibility.html>`_ and SEO settings, `inventory management strategy <../../complete_reference/inventory/ManageInventory>`_, and the `default product options <../../complete_reference/products/products/product-units-and-precision.html>`_ (units and the value precision) that best fit the resulting product family.
+Master catalog is a tree structure that organises all products you are selling. A category may group the products of the same type or may enforce the unified selling strategy, special `visibility <../products/products/managing-product-visibility.html>`_ and SEO settings, `inventory management strategy <../inventory/ManageInventory>`_, and the `default product options <../products/products/product-units-and-precision.html>`_ (units and the value precision) that best fit the resulting product family.
 
 Watch this short video to see how to set up a basic category structure:
 
@@ -22,7 +22,7 @@ Once the categories are in place, you can:
 
 **WORK IN PROGRESS**
 
-.. image:: /complete_reference/img/concepts/masterCatalogInTheStore.png
+.. image:: /user_guide/img/concepts/masterCatalogInTheStore.png
            :class: with-border
 
 Personalized product catalogues with variable pricing

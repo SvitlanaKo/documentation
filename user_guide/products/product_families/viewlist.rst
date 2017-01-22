@@ -5,10 +5,10 @@ To view all Product Families, navigate to **Products > Product Families** in the
 
 Preview:
 
-.. include:: /complete_reference/overview/products/product_families_overview.rst
+.. include:: /user_guide/overview/products/product_families_overview.rst
   :start-after: begin
 
-.. image:: /complete_reference/img/products/product_families/ProductAttributeFamilies.png
+.. image:: /user_guide/img/products/product_families/ProductAttributeFamilies.png
    :class: with-border
 
 The following information about the Product Families is available in the Product Families list:

@@ -12,7 +12,7 @@ Success flash messages are displayed against a green background:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/popup/flash_success.png
+.. image:: /user_guide/img/getting_started/navigation/popup/flash_success.png
 
 |
 
@@ -21,7 +21,7 @@ attention.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/popup/flash_error.png
+.. image:: /user_guide/img/getting_started/navigation/popup/flash_error.png
 
 |
 
@@ -29,7 +29,7 @@ Other flash messages have a yellow background.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/popup/flash_task.png
+.. image:: /user_guide/img/getting_started/navigation/popup/flash_task.png
 
 |
 
@@ -38,7 +38,7 @@ message:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/popup/flash_link.png
+.. image:: /user_guide/img/getting_started/navigation/popup/flash_link.png
 
 |
 
@@ -49,4 +49,4 @@ buttons and will not disappear until a decision has been made:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/popup/pop_up.png
+.. image:: /user_guide/img/getting_started/navigation/popup/pop_up.png

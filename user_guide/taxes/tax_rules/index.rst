@@ -29,5 +29,5 @@ Tax Rules
 
    edit
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

@@ -5,7 +5,7 @@ Login
 
 To get to your OroCommerce account, enter the OroCommerce instance url.
 
-.. image:: /complete_reference/img/getting_started/intro/login.png
+.. image:: /user_guide/img/getting_started/intro/login.png
 
 .. hint::
 

@@ -5,11 +5,11 @@ To view all Manage Inventory, navigate to **Inventory > Manage Inventory** in th
 
 Preview:
 
-.. include:: /complete_reference/overview/inventory/manage_inventory_overview.rst
+.. include:: /user_guide/overview/inventory/manage_inventory_overview.rst
   :start-after: begin
 
 
-.. image:: /complete_reference/img/inventory/manage_inventory/ManageInventory.png
+.. image:: /user_guide/img/inventory/manage_inventory/ManageInventory.png
    :class: with-border
 
 The following information about the Manage Inventory is available in the Manage Inventory list:

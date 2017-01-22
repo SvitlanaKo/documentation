@@ -16,7 +16,7 @@ For example, we are searching for "Ann" all over the system:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_ex_1.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_ex_1.png
 
 |
 
@@ -25,7 +25,7 @@ These are our search results:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_ex_2.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_ex_2.png
 
 |
 
@@ -38,7 +38,7 @@ above:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_ex_3.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_ex_3.png
 
 |
 
@@ -50,12 +50,12 @@ you can look for "Ann" in Accounts only.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_ex_4.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_ex_4.png
 
 |
 
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_ex_5.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_ex_5.png
 
 |
 
@@ -70,11 +70,11 @@ In order to see all the records with a specific tag anywhere in the system, you 
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_vip.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_vip.png
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_vip_1.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_vip_1.png
 
 |
 
@@ -82,11 +82,11 @@ You will see a page that looks similar to the search results and that contains a
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/search_vip_2.png
+.. image:: /user_guide/img/getting_started/navigation/panel/search_vip_2.png
 
 |
 
 
 
-.. |IcSearch| image:: /complete_reference/img/common/buttons/IcSearch.png
+.. |IcSearch| image:: /user_guide/img/common/buttons/IcSearch.png
 

@@ -3,7 +3,7 @@ Tax Management Overview
 
 .. begin
 
-An international B2B selling business has certain international tax obligations, like a sales tax in the U.S. and Value Added Tax (VAT) in EU and other countries. In addition to that, some products are tax-free or have lower tax rates and some of your customers may be eligible for tax exemption. See more about `international taxes <../../complete_reference/taxes/international-taxes-overview.html>`_.
+An international B2B selling business has certain international tax obligations, like a sales tax in the U.S. and Value Added Tax (VAT) in EU and other countries. In addition to that, some products are tax-free or have lower tax rates and some of your customers may be eligible for tax exemption. See more about `international taxes <../taxes/international-taxes-overview.html>`_.
 
 Tax management in OroCommerce helps you ensure compliance with the tax rules and regulations in global B2B online sales. With built in tax rules and tax reports you get timely and precise information for your sales tax, goods and services tax, or value added tax payment. You may inform your buyer about the volume of tax included into their order or quote, or may include the tax in the product price they see placing an order.
 
@@ -11,9 +11,9 @@ The following sections provide information and guidance on the following topics:
 
 * Setting up tax rules that define the tax rate applied for a product group sold to a group of customers with similar tax obligations. The tax rate depends both on the tax jurisdiction, the tax status of your customers and the tax status of the products you are selling. When your customer files a purchase order, OroCommerce automatically picks the necessary tax rate and calculates the tax amount to be covered by your customer in this purchase order. See `Configure tax rules`_ for more information.
 
-* Managing tax exemption: enabling zero tax rates in certain jurisdictions for the selected product categories (e.g. medical products) or customers (e.g. schools, hospitals, government organizations). See `Configure tax exemptions <../../complete_reference/taxes/managing-tax-exemptions.html>`_.
+* Managing tax exemption: enabling zero tax rates in certain jurisdictions for the selected product categories (e.g. medical products) or customers (e.g. schools, hospitals, government organizations). See `Configure tax exemptions <../taxes/managing-tax-exemptions.html>`_.
 
-* Controlling digital product taxes. Some states in USA and the EU have special rules for taxing digital products. OroCommerce takes those regulations into account and enforces destination-based taxation when the buyer's location is in EU or in the state with no digital product tax in USA. OroCommerce distinguishes purchases of digital products b y the product tax code. All digital items should be labeled with a special tax code for digital products. Moreover, all these tax codes should be listed in EU VAT Tax and US Sales Tax configuration, to launch special tax calculation rules. See `Before you begin`_ for detailed configuration information
+* Controlling digital product taxes. Some states in USA and the EU have special rules for taxing digital products. OroCommerce takes those regulations into account and enforces destination-based taxation when the buyer's location is in EU or in the state with no digital product tax in USA. OroCommerce distinguishes purchases of digital products b y the product tax code. All digital items should be labeled with a special tax code for digital products. Moreover, all these tax codes should be listed in EU VAT Tax and US Sales Tax configuration, to launch special tax calculation rules. See `Before you begin`_ section for detailed configuration information.
 
 .. contents:: :local:
   :depth: 2
@@ -28,7 +28,7 @@ By default, OroCommerce calculates tax using a rate defined in the built-in tax 
 
 To edit configuration options that impact the way OroCommerce implies tax in the Purchase Order or Quote, navigate to **System > Configuration > Commerce > Taxation**. 
 
-See `Configuring tax calculation <../../complete_reference/system/configuration/taxation/tax-calculation.html>`_ topic for more information.
+See `Configuring tax calculation <../system/configuration/taxation/tax-calculation.html>`_ topic for more information.
 
 Set up US sales tax for digital products
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ To ensure that US sales tax for digital products is correctly calculated and inc
 
 Preview:
 
-.. image:: /complete_reference/img/system/configuration/taxation/us_sales_tax/unlooped_Digital.gif
+.. image:: /user_guide/img/system/configuration/taxation/us_sales_tax/unlooped_Digital.gif
 
 Set up a EU VAT tax for digital products
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ To configure the digital product codes that are taxable in EU:
 
 3. Click **Save**.
 
-.. image:: /complete_reference/img/system/configuration/taxation/eu_vat_tax/ConfigurationSystemTaxationEUVatTaxes.png
+.. image:: /user_guide/img/system/configuration/taxation/eu_vat_tax/ConfigurationSystemTaxationEUVatTaxes.png
 
 
 Configure tax rules
@@ -74,7 +74,7 @@ Tax rules help OroCommerce find the correct tax rate for the products listed in 
 
 Basically, in OroCommerce, tax rule binds the following items:
 
-.. image:: /complete_reference/img/taxes/tax_rules/TaxRuleIdea2.png
+.. image:: /user_guide/img/taxes/tax_rules/TaxRuleIdea2.png
    :width: 50%
 
 * tax jurisdiction - an address, usually a state in a country that have defined taxation policies that determine when and how the company should pay their sales or VAT tax, and what rates should be used, depending on the tax status of the products you sell and  parties you sell to. 
@@ -84,25 +84,3 @@ Basically, in OroCommerce, tax rule binds the following items:
 * product tax code - a label for a group of products that have similar taxation rules in at least one tax jurisdictions.
 
 * tax rate - the percentage of the sales income that should be payed as a tax in the particular tax jurisdiction for a certain type of products sold to a group of customers with the same tax status.
-
-
-To create tax rules for a particular tax jurisdiction: 
-
-1. Create a tax jurisdiction (country, state and a range of zip codes) where a special taxation rules apply. See `Creating a tax jurisdiction <../../complete_reference/taxes/tax_jurisdictions/create.html>`_ for more information.
-
-2. Create customer tax codes for every group of buyers that have fixed tax rates in this tax jurisdiction. Bind customer groups to their respective tax codes (see `Linking a tax code to a customer or customer group <../../complete_reference/taxes/link_a_tax_code_to_a_customer.html>`_).
-
-3. Create product tax codes for every group of products that have fixed tax rates in this tax jurisdiction. Ensure that these tax codes are assigned to the products (see `Linking a tax code to a product </complete_reference/taxes/link-a-tax-code-to-a-product.html>`_).
-
-4. Create all the tax rates defined by the tax jurisdiction for the customers you are serving and products you are selling (see `Creating a tax rate </complete_reference/taxes/taxes/create.html>`_). 
-   
-5. Finally, for every the valid combination of the tax rates, product types and customer types, create a tax rule:
-
-  a. Navigate to **Taxes > Tax Rules** and click **Create Tax Rule**.
-
-  .. image:: /complete_reference/img/taxes/tax_rules/CreateTaxRule_TaxRules_Taxes_drop.png
-     
-  b. Select the Account Tax Code (customer tax code), product tax code, tax jurisdiction, and tax (tax rate). Optionally, add description of the tax rate applied. 
-
-  c. Click **Save** or **Save and Close**.
-     

@@ -21,7 +21,7 @@ Its **General** section contains the basic profile details.
 
 |
 
-.. image:: /complete_reference/img/getting_started/my_profile.png
+.. image:: /user_guide/img/getting_started/my_profile.png
 
 |
 
@@ -45,13 +45,13 @@ The set of information available in the section depends on the
 
 If there is an email saved or/and a call logged in OroCommerce related to you, they will be displayed in the **Activities** section. 
 
-.. image:: /complete_reference/img/getting_started/intro/user_view_activities.png
+.. image:: /user_guide/img/getting_started/intro/user_view_activities.png
 
 If there is a :ref:`task <user-guide-activities-tasks>` assigned to you, they will be displayed in corresponding grids of the **Additional** section.
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_view_additional.png 
+.. image:: /user_guide/img/getting_started/intro/user_view_additional.png 
 
 |
 
@@ -65,7 +65,7 @@ Action buttons are available in the top left corner of **My User** page. The set
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_view_actions.png 
+.. image:: /user_guide/img/getting_started/intro/user_view_actions.png 
 
 |
 
@@ -112,7 +112,7 @@ Should an integration with a third-party software require an `API Key <https://e
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_view_apik.png
+.. image:: /user_guide/img/getting_started/intro/user_view_apik.png
 
 |
 
@@ -136,7 +136,7 @@ in OroCommerce based on emails from the Outlook side bar.
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_outlook.png
+.. image:: /user_guide/img/getting_started/intro/user_outlook.png
 
 |
 
@@ -152,7 +152,7 @@ Click the :guilabel:`Edit` button in the top left corner of the page to change a
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_edit.png
+.. image:: /user_guide/img/getting_started/intro/user_edit.png
     
 |
     
@@ -169,7 +169,7 @@ Manage Your User Details
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_edit_general.png
+.. image:: /user_guide/img/getting_started/intro/user_edit_general.png
 
 |
 
@@ -210,7 +210,7 @@ You can define and update the contact information in  the **General** section.
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_edit_contacts.png 
+.. image:: /user_guide/img/getting_started/intro/user_edit_contacts.png 
 
 |
   
@@ -264,7 +264,7 @@ To change your password, go to the **Password** section of the Edit page.
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_edit_password.png
+.. image:: /user_guide/img/getting_started/intro/user_edit_password.png
 
 |
 
@@ -294,7 +294,7 @@ your mailbox in OroCommerce in the **Email synchronization settings** section.
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/email_sync_1.png
+.. image:: /user_guide/img/getting_started/intro/email_sync_1.png
 
 |
 
@@ -465,44 +465,44 @@ Go to the User Menu in the top right corner of the page, and select the **Logout
 
 |
 
-.. image:: /complete_reference/img/getting_started/intro/user_logout.png
+.. image:: /user_guide/img/getting_started/intro/user_logout.png
 
 
 
 
 
-.. |IcEdit| image:: /complete_reference/img/common/buttons/IcEdit.png
+.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
    :align: middle
  
-.. |IntroTags| image:: /complete_reference/img/getting_started/intro/user_view_tags.png    
+.. |IntroTags| image:: /user_guide/img/getting_started/intro/user_view_tags.png    
 
-.. |IntroTags1| image:: /complete_reference/img/getting_started/intro/user_view_tags_1.png    
+.. |IntroTags1| image:: /user_guide/img/getting_started/intro/user_view_tags_1.png    
 
-.. |IntroTags2| image:: /complete_reference/img/getting_started/intro/user_view_tags_2.png    
+.. |IntroTags2| image:: /user_guide/img/getting_started/intro/user_view_tags_2.png    
 
-.. |EditAvatar| image:: /complete_reference/img/getting_started/intro/user_edit_avatar.png   
+.. |EditAvatar| image:: /user_guide/img/getting_started/intro/user_edit_avatar.png   
 
-.. |EmailFrom| image:: /complete_reference/img/getting_started/intro/user_edit_email_from.png   
+.. |EmailFrom| image:: /user_guide/img/getting_started/intro/user_edit_email_from.png   
 
-.. |EmailTo| image:: /complete_reference/img/getting_started/intro/user_edit_email_to.png   
+.. |EmailTo| image:: /user_guide/img/getting_started/intro/user_edit_email_to.png   
 
-.. |Phone| image:: /complete_reference/img/getting_started/intro/user_edit_phone.png   
+.. |Phone| image:: /user_guide/img/getting_started/intro/user_edit_phone.png   
 
-.. |EmailSync2| image:: /complete_reference/img/getting_started/intro/email_sync_2.png   
+.. |EmailSync2| image:: /user_guide/img/getting_started/intro/email_sync_2.png   
 
-.. |EmailSyncYahoo| image:: /complete_reference/img/getting_started/intro/email_sync_yahoo.png 
+.. |EmailSyncYahoo| image:: /user_guide/img/getting_started/intro/email_sync_yahoo.png 
 
-.. |EmailSync3| image:: /complete_reference/img/getting_started/intro/email_sync_3.png  
+.. |EmailSync3| image:: /user_guide/img/getting_started/intro/email_sync_3.png  
 
-.. |EmailSyncGM1| image:: /complete_reference/img/getting_started/intro/email_sync_gm_1.png  
+.. |EmailSyncGM1| image:: /user_guide/img/getting_started/intro/email_sync_gm_1.png  
 
-.. |EmailSyncGM2| image:: /complete_reference/img/getting_started/intro/email_sync_gm_2.png  
+.. |EmailSyncGM2| image:: /user_guide/img/getting_started/intro/email_sync_gm_2.png  
 
-.. |EmailSyncGM3| image:: /complete_reference/img/getting_started/intro/email_sync_gm_3.png  
+.. |EmailSyncGM3| image:: /user_guide/img/getting_started/intro/email_sync_gm_3.png  
 
-.. |EmailSyncGM4| image:: /complete_reference/img/getting_started/intro/email_sync_gm_4.png  
+.. |EmailSyncGM4| image:: /user_guide/img/getting_started/intro/email_sync_gm_4.png  
 
-.. |EmailSyncGM5| image:: /complete_reference/img/getting_started/intro/email_sync_gm_5.png  
+.. |EmailSyncGM5| image:: /user_guide/img/getting_started/intro/email_sync_gm_5.png  
 
 
 

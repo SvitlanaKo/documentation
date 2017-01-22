@@ -19,5 +19,5 @@ The Tax Rule is updated.
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

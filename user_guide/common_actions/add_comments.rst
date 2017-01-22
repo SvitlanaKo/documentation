@@ -45,21 +45,21 @@ Mr. Jeffrey Maynard.
 
 - First, Ellen Rowel opened the "My Tasks" grid.
 
-.. image:: /complete_reference/img/common/activities/comments_01.png  
+.. image:: /user_guide/img/common/activities/comments_01.png  
 
 - Then she went to the View page of the task and left a comment.
 
-.. image:: /complete_reference/img/common/activities/comments_02.png  
+.. image:: /user_guide/img/common/activities/comments_02.png  
 
 - John Doe opened the task details on the View page of Jeffrey Maynard's contact record.
 
-.. image:: /complete_reference/img/common/activities/comments_03.png 
+.. image:: /user_guide/img/common/activities/comments_03.png 
 
 - Then he left a comment and attached Maynard's profile to it.
   
-.. image:: /complete_reference/img/common/activities/comments_04.png 
+.. image:: /user_guide/img/common/activities/comments_04.png 
 
 - Michael Buckley from the Marketing department opened the Tasks grid and opened the task View page. He can see both 
   comments made by Ellen Rowel and John Doe.
 
-  .. image:: /complete_reference/img/common/activities/comments_05.png 
+  .. image:: /user_guide/img/common/activities/comments_05.png 

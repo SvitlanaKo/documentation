@@ -3,12 +3,12 @@ Viewing and Filtering All Customer Groups
 
 To view all Customer Groups, navigate to **Customers > Customer Groups** in the main menu.
 
-.. include:: /complete_reference/overview/customers/customer_groups_overview.rst
+.. include:: /user_guide/overview/customers/customer_groups_overview.rst
   :start-after: begin
 
 Preview:
 
-.. image:: /complete_reference/img/customers/customer_groups/CustomerGroups.png
+.. image:: /user_guide/img/customers/customer_groups/CustomerGroups.png
    :class: with-border
 
 The following information about the Customer Groups is available in the Customer Groups list:
@@ -41,5 +41,5 @@ You can perform the following actions on the Customer User Roles page:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

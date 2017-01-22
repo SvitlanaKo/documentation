@@ -12,7 +12,7 @@ All the page names available in the lists are clickable links to the relevant pa
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/hamburger.png  
+.. image:: /user_guide/img/getting_started/navigation/panel/hamburger.png  
 
 |
 
@@ -37,7 +37,7 @@ In order to do so, click the star-shaped *"Mark as favorite*" icon in the top ri
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/favorite.png  
+.. image:: /user_guide/img/getting_started/navigation/panel/favorite.png  
 
 |
 
@@ -45,7 +45,7 @@ The icon will turn yellow and a link to the page will appear in the *"Favorites*
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel/favorite_1.png  
+.. image:: /user_guide/img/getting_started/navigation/panel/favorite_1.png  
 
 |
 

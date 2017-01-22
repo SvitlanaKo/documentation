@@ -1,7 +1,7 @@
 Products
 ========
 
-.. include:: /complete_reference/overview/Products_overview.rst
+.. include:: /user_guide/overview/Products_overview.rst
   :start-after: begin
 
 .. toctree::

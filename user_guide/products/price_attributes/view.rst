@@ -5,7 +5,7 @@ To view all Price Attributes, navigate to **Products > Price Attributes** in the
 
 Preview:
 
-.. image:: /complete_reference/img/products/price_attributes/PriceAttributesView.png
+.. image:: /user_guide/img/products/price_attributes/PriceAttributesView.png
    :class: with-border
 
 Additionally, you can view the following information:

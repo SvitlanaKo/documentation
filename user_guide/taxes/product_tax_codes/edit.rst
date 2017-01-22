@@ -31,5 +31,5 @@ You can edit the association of the Product Tax Code with the tax when `editing 
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

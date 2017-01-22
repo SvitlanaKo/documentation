@@ -8,7 +8,7 @@ To create a new Web Catalog:
 #. Click **Create Web Catalog**.
    The following page opens:
 
-   .. image:: /complete_reference/img/marketing/web_catalogs/WebCatalogCreate1.png
+   .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreate1.png
       :class: with-border
 
 #. Fill in **Name** and **Description** for the Web Catalog you are creating.
@@ -54,5 +54,5 @@ The new Web Catalog is created.
                 
 
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

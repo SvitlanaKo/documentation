@@ -18,4 +18,4 @@ To configure the digital product codes that are taxable in EU:
 
 3. Click **Save**.
 
-.. image:: /complete_reference/img/system/configuration/taxation/eu_vat_tax/ConfigurationSystemTaxationEUVatTaxes.png
+.. image:: /user_guide/img/system/configuration/taxation/eu_vat_tax/ConfigurationSystemTaxationEUVatTaxes.png

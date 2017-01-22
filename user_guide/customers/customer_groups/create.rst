@@ -9,7 +9,7 @@ To create a new Customer Groups:
 
    The following page opens:
 
-   .. image:: /complete_reference/img/customers/customer_groups/CustomerGroupsCreate.png
+   .. image:: /user_guide/img/customers/customer_groups/CustomerGroupsCreate.png
       :class: with-border
 
 #. Fill in the customer **Name**.

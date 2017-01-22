@@ -5,7 +5,7 @@ To create a new Customer Login Pages, navigate to **Marketing > Customer Login P
 
 Preview:
 
-.. image:: /complete_reference/img/marketing/customer_login_pages/CustomerLoginPagesCreate.png
+.. image:: /user_guide/img/marketing/customer_login_pages/CustomerLoginPagesCreate.png
    :class: with-border
 
 You can perform the following actions at the Customer Login PagesCreate page:

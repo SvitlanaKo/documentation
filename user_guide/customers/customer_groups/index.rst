@@ -1,7 +1,7 @@
 Customer Groups
 ---------------
 
-.. include:: /complete_reference/overview/customers/customer_groups_overview.rst
+.. include:: /user_guide/overview/customers/customer_groups_overview.rst
   :start-after: begin
 
 .. toctree::

@@ -53,7 +53,7 @@ For example, we have created an email for the contact Jeffrey Maynard:
 - We've chosen the Happy Birthday template, which automatically defined the  subject and body. 
 - This email is related to the chosen contact.  
 
-.. image:: /complete_reference/img/common/activities/send_email_ex.png  
+.. image:: /user_guide/img/common/activities/send_email_ex.png  
 
 .. hint::
 
@@ -76,7 +76,7 @@ All the emails sent for a record are displayed in and can be reached from the *R
 
       |
 	  
-.. image:: /complete_reference/img/common/activities/send_email_view.png
+.. image:: /user_guide/img/common/activities/send_email_view.png
 
 You can use the action icons to
 
@@ -110,7 +110,7 @@ You can use the action icons to
     
 To see the details, click on the email title or on the :guilabel:`+` to the left of it.
 
-.. image:: /complete_reference/img/common/activities/send_email_view_detailed.png
+.. image:: /user_guide/img/common/activities/send_email_view_detailed.png
 
 
 .. _user-guide-activities-emails-add-attachment:
@@ -125,19 +125,19 @@ To add an attachment to the email, use the *"From Record"* and *"Upload"* links 
 - Click *"From Record"* to re-use an attachment from another email in the thread or to choose 
   an `attachment <./add_attachment.html>` assigned to the records.
 
-.. image:: /complete_reference/img/common/activities/send_email_buttons.png
+.. image:: /user_guide/img/common/activities/send_email_buttons.png
 
-.. |email_context| image:: /complete_reference/img/common/activities/email_add_context.png
+.. |email_context| image:: /user_guide/img/common/activities/email_add_context.png
    :align: middle
    
-.. |email_context_form| image:: /complete_reference/img/common/activities/email_add_context_form.png
+.. |email_context_form| image:: /user_guide/img/common/activities/email_add_context_form.png
    :align: middle
    
-.. |email_reply| image:: /complete_reference/img/common/activities/email_reply.png
+.. |email_reply| image:: /user_guide/img/common/activities/email_reply.png
    :align: middle
    
-.. |email_forward| image:: /complete_reference/img/common/activities/email_forward.png
+.. |email_forward| image:: /user_guide/img/common/activities/email_forward.png
    :align: middle
 
-.. |email_context_view| image:: /complete_reference/img/common/activities/email_context.png
+.. |email_context_view| image:: /user_guide/img/common/activities/email_context.png
    :align: middle

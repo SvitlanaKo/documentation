@@ -5,7 +5,7 @@ Default Product Family may not be enough to cover all your needs. To create a ne
 1. Navigate to **Products > Product Families** using the main menu.
 2. Click **Create Product Family**.
 
-   .. image:: /complete_reference/img/products/product_families/ProductAttributeFamiliesCreate.png
+   .. image:: /user_guide/img/products/product_families/ProductAttributeFamiliesCreate.png
       :class: with-border
 
 3. Provide the product family details:
@@ -41,7 +41,7 @@ Moving a Product Attribute to Another Attribute Group
 1. Navigate to **Products > Product Families** using the main menu.
 2. When an attribute you are adding to the group is already a member of another attribute group in this product family, the *(move from \<attribute group\>* will be shown next to the attribute name in the hint list that appears as you type.
    
-   .. image:: /complete_reference/img/products/product_families/ProductAttributeFamiliesMove.png
+   .. image:: /user_guide/img/products/product_families/ProductAttributeFamiliesMove.png
       :class: with-border
    
    Adding such attribute to another group will remove it from it's current group.

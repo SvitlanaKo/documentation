@@ -11,7 +11,7 @@ To add attachment to the item:
 
 1. Click **Add Attachment**. It may be nesting in the **More Actions** menu.
    
-   .. image:: /complete_reference/img/common/activities/add_attachment.png
+   .. image:: /user_guide/img/common/activities/add_attachment.png
 
 2. In the Add Attachment page:
    
@@ -33,7 +33,7 @@ View and Manage Attachments
 
 Attachments are available in the **Additional Information** section of the item details:
 
-.. image:: /complete_reference/img/common/activities/add_attachment_view.png
+.. image:: /user_guide/img/common/activities/add_attachment_view.png
 
 Available actions:
 
@@ -41,8 +41,8 @@ Available actions:
 * |IcDelete|: Delete an existing attachment.
 * |IcEdit|: Edit the attachment (upload updated file, change the comment text, and change the owner).
 
-.. |IcDelete| image:: /complete_reference/img/common/buttons/IcDelete.png
+.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
    :align: middle
 
-.. |IcEdit| image:: /complete_reference/img/common/buttons/IcEdit.png
+.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
    :align: middle

@@ -5,12 +5,12 @@ To create a new Product Attribute:
 
 1. Navigate to **Products > Product Attributes** using the main menu.
 
-.. image:: /complete_reference/img/products/product_attributes/ProductAttributes.png
+.. image:: /user_guide/img/products/product_attributes/ProductAttributes.png
    :class: with-border
 
 2. Click **Create attribute**. The following page opens:
 
-.. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate.png
+.. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate.png
    :class: with-border
 
 3. Fill in the field name using only alphabetic symbols, underscore and numbers. It should be between 2 and 22 characters long.
@@ -20,34 +20,34 @@ To create a new Product Attribute:
    - Attribute label
    - Attribute description
      
-     .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1.png
+     .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1.png
         :class: with-border
 
    - Additional information for the product attributes of the following types:
       - **Select**, **Multi-Select**:
          - Click **+ Add** next to the *Options*.
            
-           .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_Select1.png
+           .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_Select1.png
               :class: with-border
            
          - Type in the option label. Tick the box next to the default option.
            
-           .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_Select2.png
+           .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_Select2.png
               :class: with-border
            
         - Repeat for more options.
           
-          .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_Select3.png
+          .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_Select3.png
               :class: with-border
 
       - **Image**: Enter maximum allowed file size and provide the thumbnail dimensions.
         
-        .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_Image.png
+        .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_Image.png
               :class: with-border
 
       - **File**: Enter maximum allowed file size.
         
-        .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_File.png
+        .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_File.png
               :class: with-border
         
 6. Fill in details for the product attribute import/export:
@@ -56,7 +56,7 @@ To create a new Product Attribute:
    - Use As Identity Field (options: **No**, Only when not empty, Always)
    - Exclude Column (options: **No**, Yes)
    
-   .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_Import.png
+   .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_Import.png
       :class: with-border
    
 7. In the Other section, specify the configuration options for the product attribute view, search and use in other areas in OroCommerce:
@@ -75,7 +75,7 @@ To create a new Product Attribute:
    - Sortable (**No**, Yes)
    - Enabled (**No**, Yes)
    
-   .. image:: /complete_reference/img/products/product_attributes/ProductAttributesCreate2_1_Other1.png
+   .. image:: /user_guide/img/products/product_attributes/ProductAttributesCreate2_1_Other1.png
       :class: with-border
       
 8. Once all options and information are provided, click **Save**.

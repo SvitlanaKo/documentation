@@ -7,7 +7,7 @@ To create a new Landing Page:
 
 #. Click **Create Landing Page**. The following page opens:
 
-   .. image:: /complete_reference/img/marketing/landing_pages/LandingPagesCreate2.png
+   .. image:: /user_guide/img/marketing/landing_pages/LandingPagesCreate2.png
        :class: with-border
 
 #. Fill in the landing page title (**Titles**) and translate it into the languages supported in your OroCommerce configuration. 
@@ -44,5 +44,5 @@ Use the landing page URL in your marketing activities (email campaigns, advertis
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

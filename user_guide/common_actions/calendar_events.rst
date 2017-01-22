@@ -52,7 +52,7 @@ For example, we want Ellen Rowell from the sales team and Michael Buckley from t
 meeting with a new contact from the Cal Stereo company. We have chosen a red color to display the event in the users' 
 calendars.
 
-.. image:: /complete_reference/img/common/activities/add_event_ex.png
+.. image:: /user_guide/img/common/activities/add_event_ex.png
    
 4. Click the :guilabel:`Save` button and the event will be added.
 
@@ -71,7 +71,7 @@ Assign an Event to a User
 
 For example, we also need Ellen Rowell to visit a sales conference on April 8th.
 
-.. image:: /complete_reference/img/common/activities/assign_event_ex.png
+.. image:: /user_guide/img/common/activities/assign_event_ex.png
 
 4. Click the :guilabel:`Save` button and the event will be saved.
 
@@ -85,7 +85,7 @@ Create an Event from the Events Grid
 
 3. The "Create Calendar Event" form will appear.
 
-.. image:: /complete_reference/img/common/activities/create_event.png
+.. image:: /user_guide/img/common/activities/create_event.png
 
 
 The form has the same fields as the "Add Event" form. The "Guest" field relates to attendees other than
@@ -105,7 +105,7 @@ View and Manage Events
 
   |
   
-.. image:: /complete_reference/img/common/activities/add_event_view.png
+.. image:: /user_guide/img/common/activities/add_event_view.png
 
 |
   
@@ -113,7 +113,7 @@ View and Manage Events
 
   |
   
-.. image:: /complete_reference/img/common/activities/add_event_view_detailed.png
+.. image:: /user_guide/img/common/activities/add_event_view_detailed.png
 
 
 - All your calendar events assigned to you are displayed and can be reached from the Events grid.
@@ -122,13 +122,13 @@ View and Manage Events
   
   - Go to "My Calendar".
 
-.. image:: /complete_reference/img/common/activities/assign_events_cal.png  
+.. image:: /user_guide/img/common/activities/assign_events_cal.png  
 
 |
 
 - Choose the user in the drop-down on the left.
 
-.. image:: /complete_reference/img/common/activities/assign_events_cal_add.png  
+.. image:: /user_guide/img/common/activities/assign_events_cal_add.png  
 
 - From any of the grids above, you can manage the events using the action icons:
 
@@ -144,18 +144,18 @@ View and Manage Events
   
   - Use the buttons at the bottom to manage the task.
 
-.. image:: /complete_reference/img/common/activities/my_tasks_info.png
+.. image:: /user_guide/img/common/activities/my_tasks_info.png
 
 .. note::
   
     The calendar events can also be mapped to the Oulook account as described in the `Synchronization with Outlook <../system/configuration/integrations/ms-exchnage.html>`_ section.
 
 
-.. |IcDelete| image:: /complete_reference/img/common/buttons/IcDelete.png
+.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
    :align: middle
 
-.. |IcEdit| image:: /complete_reference/img/common/buttons/IcEdit.png
+.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
    :align: middle
 
-.. |IcView| image:: /complete_reference/img/common/buttons/IcView.png
+.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
    :align: middle

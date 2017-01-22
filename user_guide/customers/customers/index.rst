@@ -1,7 +1,7 @@
 Customers
 ---------
 
-.. include:: /complete_reference/overview/customers/customers_overview.rst
+.. include:: /user_guide/overview/customers/customers_overview.rst
   :start-after: begin
 
 .. toctree::

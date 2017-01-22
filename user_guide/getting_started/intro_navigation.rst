@@ -23,11 +23,11 @@ displayed as icons.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/menu/nav_bar_top.png
+.. image:: /user_guide/img/getting_started/navigation/menu/nav_bar_top.png
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/menu/nav_bar_side.png
+.. image:: /user_guide/img/getting_started/navigation/menu/nav_bar_side.png
 
 |
 
@@ -35,7 +35,7 @@ In the mobile version, the menu bar can be accessed via the "hamburger" button n
 
 |
     
-.. image:: /complete_reference/img/getting_started/navigation/menu/header_mobile.png
+.. image:: /user_guide/img/getting_started/navigation/menu/header_mobile.png
 
 |
 
@@ -56,7 +56,7 @@ At the very top of the page, there is a navigation panel that contains different
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/panel.png
+.. image:: /user_guide/img/getting_started/navigation/panel.png
 
 
 .. csv-table::
@@ -69,7 +69,7 @@ At the very top of the page, there is a navigation panel that contains different
   "2","**Shortcuts**",Quickly perform the most common actions from anywhere in the system.","
   :ref:`Shortcuts <user-guide-getting-started-shortcuts>`"
   "3","**Search**","Find a specific record's 
-  `View page <../../complete_reference/advanced/data_management/view.html>`_.","
+  `View page <../advanced/data_management/view.html>`_.","
   :ref:`Search <user-guide-getting-started-search>`"
   "4","**Pinned pages**","Open pages preserved in the state they were pinned in.",
   ":ref:`Pinned Page <user-guide-ui-components-pinned>`"

@@ -5,11 +5,11 @@ To view all Customer Login Pages, navigate to **Marketing > Customer Login Pages
 
 Preview:
 
-.. include:: /complete_reference/overview/marketing/customer_login_pages_overview.rst
+.. include:: /user_guide/overview/marketing/customer_login_pages_overview.rst
   :start-after: begin
 
 
-.. image:: /complete_reference/img/marketing/customer_login_pages/CustomerLoginPages.png
+.. image:: /user_guide/img/marketing/customer_login_pages/CustomerLoginPages.png
    :class: with-border
 
 The following information about the Customer Login Pages is available in the Customer Login Pages list:

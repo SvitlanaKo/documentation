@@ -8,7 +8,7 @@ To edit the Landing Page title, slug prototypes, content or meta information:
 #. Hower over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details. 
    The following page opens:
 
-   .. image:: /complete_reference/img/marketing/landing_pages/LandingPagesCreate2.png
+   .. image:: /user_guide/img/marketing/landing_pages/LandingPagesCreate2.png
        :class: with-border
 
 #. Update the necessary information.
@@ -19,5 +19,5 @@ The Landing Page is updated.
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

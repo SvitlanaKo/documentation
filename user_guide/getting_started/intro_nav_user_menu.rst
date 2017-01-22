@@ -10,7 +10,7 @@ On the right side of the screen, under your username, you will find the User Men
 access your user profile, calendar, mailbox, and task list. It is also used to log out of the system.
 
 
-.. image:: /complete_reference/img/getting_started/intro/user_menu.png
+.. image:: /user_guide/img/getting_started/intro/user_menu.png
 
 My User
 -------

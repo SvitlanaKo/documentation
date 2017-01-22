@@ -5,7 +5,7 @@ Overview
 
 Landing page is a marketing tool that generates interest and leads for your sales pipeline and has a distinct call to action with a single focused objective. 
 
-.. image:: /complete_reference/img/marketing/landing_pages/LandingPagesSample.png
+.. image:: /user_guide/img/marketing/landing_pages/LandingPagesSample.png
    :class: with-border
 
 In a landing page, you can:

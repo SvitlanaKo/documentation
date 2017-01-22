@@ -3,12 +3,12 @@ Viewing and filtering all Customer User Roles
 
 To view all Customer User Roles, navigate to **Customers > Customer User Roles** in the main menu.
 
-.. include:: /complete_reference/overview/customers/customer_user_roles_overview.rst
+.. include:: /user_guide/overview/customers/customer_user_roles_overview.rst
   :start-after: begin
 
 Preview:
 
-.. image:: /complete_reference/img/customers/customer_user_roles/CustomerUserRoles.png
+.. image:: /user_guide/img/customers/customer_user_roles/CustomerUserRoles.png
    :class: with-border
 
 The following information about the Customer User Roles is available in the Customer User Roles list:
@@ -43,5 +43,5 @@ You can perform the following actions at the Customer User Roles page:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

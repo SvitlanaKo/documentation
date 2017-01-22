@@ -18,4 +18,4 @@ To label digital product codes in OroCommerce as taxable in US:
 
 Preview:
 
-.. image:: /complete_reference/img/system/configuration/taxation/us_sales_tax/unlooped_Digital.gif
+.. image:: /user_guide/img/system/configuration/taxation/us_sales_tax/unlooped_Digital.gif

@@ -5,11 +5,11 @@ To view all Products, navigate to **Products > Products** in the main menu.
 
 Preview:
 
-.. include:: /complete_reference/overview/products/products_overview.rst
+.. include:: /user_guide/overview/products/products_overview.rst
   :start-after: begin
 
 
-.. image:: /complete_reference/img/products/products/Products.png
+.. image:: /user_guide/img/products/products/Products.png
    :class: with-border
 
 The following information about the Products is available in the Products list:

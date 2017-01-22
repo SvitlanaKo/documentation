@@ -5,7 +5,7 @@ To create a new Warehouses, navigate to **Inventory > Warehouses** in the main m
 
 Preview:
 
-.. image:: /complete_reference/img/inventory/warehouses/WarehousesCreate.png
+.. image:: /user_guide/img/inventory/warehouses/WarehousesCreate.png
    :class: with-border
 
 You can perform the following actions at the WarehousesCreate page:

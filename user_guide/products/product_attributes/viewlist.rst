@@ -5,11 +5,11 @@ To view all Product Attributes, navigate to **Products > Product Attributes** in
 
 Preview:
 
-.. include:: /complete_reference/overview/products/product_attributes_overview.rst
+.. include:: /user_guide/overview/products/product_attributes_overview.rst
   :start-after: begin
 
 
-.. image:: /complete_reference/img/products/product_attributes/ProductAttributes.png
+.. image:: /user_guide/img/products/product_attributes/ProductAttributes.png
    :class: with-border
 
 The following information about the Product Attributes is available in the Product Attributes list:

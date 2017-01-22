@@ -3,7 +3,7 @@ Viewing details of Product Families
 
 To view all Product Families, navigate to **Products > Product Families** in the main menu, and click on the line with the necessary Product Families.
 
-.. Preview: .. image:: /complete_reference/img/products/product_families/ProductFamiliesView.png :class: with-border
+.. Preview: .. image:: /user_guide/img/products/product_families/ProductFamiliesView.png :class: with-border
 
 Additionally, you can view the following information:
 

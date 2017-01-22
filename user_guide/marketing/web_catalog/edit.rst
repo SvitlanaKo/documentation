@@ -44,7 +44,7 @@ To edit the Web Catalog details:
 
    The following page opens:
 
-   .. image:: /complete_reference/img/taxes/customer_tax_codes/FOREIGNGOVERNMENTSEditAccountTaxCodesTaxes.png
+   .. image:: /user_guide/img/taxes/customer_tax_codes/FOREIGNGOVERNMENTSEditAccountTaxCodesTaxes.png
       :class: with-border
 
 #. Update the **Code** and **Description** with new information about the Web Catalog.
@@ -67,5 +67,5 @@ You can edit the association of the Web Catalog with the tax when `editing the t
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

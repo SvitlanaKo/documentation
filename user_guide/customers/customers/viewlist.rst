@@ -3,12 +3,12 @@ Viewing and Filtering All Customers
 
 To view all Customers, navigate to **Customers > Customers** in the main menu.
 
-.. include:: /complete_reference/overview/customers/Customers_overview.rst
+.. include:: /user_guide/overview/customers/Customers_overview.rst
   :start-after: begin
 
 Preview:
 
-.. image:: /complete_reference/img/customers/customers/Customers.png
+.. image:: /user_guide/img/customers/customers/Customers.png
    :class: with-border
 
 The following information about Customers is available in the Customers list:
@@ -47,5 +47,5 @@ You can perform the following actions on the Customer User Roles page:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

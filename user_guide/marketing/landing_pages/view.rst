@@ -31,5 +31,5 @@ You can perform the following actions with a Landing Page:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

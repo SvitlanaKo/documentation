@@ -1,7 +1,7 @@
 Landing Pages
 -------------
 
-.. include:: /complete_reference/overview/marketing/landing_pages_overview.rst
+.. include:: /user_guide/overview/marketing/landing_pages_overview.rst
   :start-after: begin
 
 The topics below provide guidance on using and managing landing pages in OroCommerce:
@@ -31,5 +31,5 @@ The topics below provide guidance on using and managing landing pages in OroComm
 
    edit
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

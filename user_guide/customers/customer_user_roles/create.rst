@@ -5,7 +5,7 @@ To create a new Customer User Roles, navigate to **Customers > Customer User Rol
 
 Preview:
 
-.. image:: /complete_reference/img/customers/customer_user_roles/CustomerUserRolesCreate.png
+.. image:: /user_guide/img/customers/customer_user_roles/CustomerUserRolesCreate.png
    :class: with-border
 
 The following information about the Customer User RolesCreate is available in the Customer User RolesCreate list:

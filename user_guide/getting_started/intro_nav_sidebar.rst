@@ -21,7 +21,7 @@ Out of the box, any sidebar can contain widgets of three types:
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_icons.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_icons.png
 
 
 1 - The *"Recent Emails"* widget: Set up the widget to get access to your emails in one or several of the 
@@ -41,7 +41,7 @@ Click the :guilabel:`+` button to add a widget, then select the widget type an c
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_select.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_select.png
 
 |
 
@@ -60,7 +60,7 @@ Initially, the sidebar panel is minimized. Hover over the icon to see the widget
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_hover.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_hover.png
 
 |
 
@@ -68,7 +68,7 @@ Initially, the sidebar panel is minimized. Hover over the icon to see the widget
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_expand.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_expand.png
 
 |
 
@@ -78,7 +78,7 @@ Now you can see the widget headers. To collapse the panel back, click the double
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_fold.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_fold.png
 
 |
 
@@ -94,7 +94,7 @@ In order to see the widget content:
     
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_expand_view.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_expand_view.png
 
 | 
 
@@ -107,7 +107,7 @@ This way, you can keep some of the content visible at all times, and keep fewer 
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_expand_view_1.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_expand_view_1.png
 
 | 
 
@@ -118,7 +118,7 @@ As shown below, each widget contains a header (1), content (2), and icons (3).
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_view.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_view.png
 
 |
 
@@ -153,7 +153,7 @@ The widget informs you about new and unread emails, and gives you a convenient w
 
 |
  
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_emails.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_emails.png
 
 |
 
@@ -184,7 +184,7 @@ Click the |IcSettings| icon to configure the widget. The settings window will em
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_emails_set.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_emails_set.png
 
 |
 
@@ -210,7 +210,7 @@ Click the |IcSettings| to change the content of a note.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_note.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_note.png
 
 |
 
@@ -227,7 +227,7 @@ date.
 
 |
 
-.. image:: /complete_reference/img/getting_started/navigation/sidebar/sb_task.png
+.. image:: /user_guide/img/getting_started/navigation/sidebar/sb_task.png
 
 |
 
@@ -241,14 +241,14 @@ Set up the sidebar widgets in the way that is most convenient for you. This will
 a minimum amount of effort.
 
 
-.. |IcDelete| image:: /complete_reference/img/common/buttons/IcDelete.png
+.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
    :align: middle
    
-.. |IcSettings| image:: /complete_reference/img/common/buttons/IcSettings.png
+.. |IcSettings| image:: /user_guide/img/common/buttons/IcSettings.png
    :align: middle
    
-.. |BRefresh| image:: /complete_reference/img/common/buttons/BRefresh.png
+.. |BRefresh| image:: /user_guide/img/common/buttons/BRefresh.png
    :align: middle
    
-.. |BCrLOwnerClear| image:: /complete_reference/img/common/buttons/BCrLOwnerClear.png
+.. |BCrLOwnerClear| image:: /user_guide/img/common/buttons/BCrLOwnerClear.png
    :align: middle

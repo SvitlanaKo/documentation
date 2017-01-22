@@ -3,12 +3,12 @@ Viewing and filtering all Customer Users
 
 To view all Customer Users, navigate to **Customers > Customer Users** in the main menu.
 
-.. include:: /complete_reference/overview/customers/customer_users_overview.rst
+.. include:: /user_guide/overview/customers/customer_users_overview.rst
   :start-after: begin
 
 Preview:
 
-.. image:: /complete_reference/img/customers/customer_users/CustomerUsers.png
+.. image:: /user_guide/img/customers/customer_users/CustomerUsers.png
    :class: with-border
 
 The following information about the Customer Users is available in the Customer Users list:
@@ -47,5 +47,5 @@ You can perform the following actions at the Customer User Roles page:
 
 .. finish
 
-.. include:: /include_images.rst
+.. include:: /user_guide/include_images.rst
    :start-after: begin

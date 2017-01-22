@@ -1,7 +1,7 @@
 Inventory
 =========
 
-.. include:: /complete_reference/overview/Inventory_overview.rst
+.. include:: /user_guide/overview/Inventory_overview.rst
   :start-after: begin
   
 .. toctree::
