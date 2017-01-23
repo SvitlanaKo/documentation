@@ -3,9 +3,6 @@ View and Filter Tax Jurisdictions
 
 To view all Tax Jurisdictions, navigate to **Taxes > Tax Jurisdictions** in the main menu.
 
-.. include:: /user_guide/overview/taxes/tax_jurisdictions_overview.rst
-  :start-after: begin
-
 .. image:: /user_guide/img/taxes/tax_jurisdictions/TaxJurisdictions.png
    :class: with-border
 

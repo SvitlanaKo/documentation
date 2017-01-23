@@ -18,43 +18,34 @@ Before You Begin: Taxation Configuration
    :start-after: begin
    :end-before: finish
 
-Managing Tax Rules
-------------------
+Manage Tax Rules
+----------------
 
-.. include:: /user_guide/taxes/tax_rules/index.rst
+.. include:: /user_guide/overview/taxes/tax_rules_overview.rst
    :start-after: begin
-   :end-before: finish
 
-Managing Tax Jurisdictions
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: /user_guide/img/taxes/tax_rules/All_TaxRules_Taxes.png
+   :class: with-border
 
-.. include:: /user_guide/taxes/tax_jurisdictions/index.rst
-   :start-after: begin
-   :end-before: finish
+.. include:: /user_guide/taxes/tax_rules/create.rst
+   :end-before: stop
 
-Managing Tax Rates
-~~~~~~~~~~~~~~~~~~
+.. include:: /user_guide/taxes/tax_jurisdictions/create.rst
+   :end-before: stop
 
-.. include:: /user_guide/taxes/taxes/index.rst
-   :start-after: begin
-   :end-before: finish
+.. include:: /user_guide/taxes/taxes/create.rst
+   :end-before: stop
 
-Managing Product Tax Codes
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. include:: /user_guide/taxes/product_tax_codes/create.rst
+   :end-before: stop
 
-.. include:: /user_guide/taxes/product_tax_codes/index.rst
-   :start-after: begin
-   :end-before: finish
+.. include:: /user_guide/taxes/customer_tax_codes/create.rst
+   :end-before: stop
 
-Managing Customer Tax Codes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. include:: /user_guide/taxes/customer_tax_codes/index.rst
-   :start-after: begin
-   :end-before: finish
+**Related Information**
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
 
    configuration/index
 

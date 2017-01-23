@@ -3,9 +3,6 @@ View and Filter Tax Rules
 
 To view all Tax Rules, navigate to **Taxes > Tax Rules** in the main menu.
 
-.. include:: /user_guide/overview/taxes/tax_rules_overview.rst
-  :start-after: begin
-
 .. image:: /user_guide/img/taxes/tax_rules/All_TaxRules_Taxes.png
    :class: with-border
 

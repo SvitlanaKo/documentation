@@ -1,5 +1,5 @@
 Create a Product Tax Code
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To create a new Product Tax Code:
 
