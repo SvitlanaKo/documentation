@@ -1,6 +1,8 @@
 Configure US Sales Tax for Digital Products
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. begin
+
 When the digital product is purchased from the shipping origin address in the state with zero tax rate for digital products, the tax is calculated based on the shipping destination, and the global system tax calculation rules are ignored. 
 
 .. note:: To ensure that US sales tax for digital products is correctly calculated and included in your purchase quotes and orders when you sell to the US customers or from the US warehouse, label the necessary digital product tax codes in OroCommerce as taxable in US.

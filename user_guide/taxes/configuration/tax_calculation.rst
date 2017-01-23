@@ -1,6 +1,8 @@
 Tax Calculation
 ~~~~~~~~~~~~~~~
 
+.. begin
+
 By default, OroCommerce calculates tax using a rate defined in the built-in tax rule for the default shipping origin address.
 
 You can modify the following configuration settings that impact the way OroCommerce implies tax in the Purchase Order or Quote (see `Configure Tax Calculation`_ for detailed guidance):
