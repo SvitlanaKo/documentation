@@ -1,5 +1,5 @@
-Taxes
------
+Taxes (Tax Rates)
+-----------------
 
 .. begin
 
