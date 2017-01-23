@@ -42,23 +42,23 @@ Orientation in the OroCommerce User Guide
 
 For detailed information on using OroCommerce CE and EE, please see the following topics:
 
-* `Navigation and using OroCommerce UI <./getting_started/index>`_
+* `Navigation and using OroCommerce UI <./getting_started>`_
 
-* `Managing master catalog, product details, and price attributes <./products/index>`_
+* `Managing master catalog, product details, and price attributes <./products>`_
 
-* `Managing inventory and product availability in the warehouses <./inventory/index>`_
+* `Managing inventory and product availability in the warehouses <./inventory>`_
 
-* `Managing product prices <./sales/price-lists/index>`_
+* `Managing product prices <./sales/price-lists>`_
 
 * `Managing customers, their subsidiaries and users <./customers/index>`_
 
-* `Handling customer quotes <./sales/quotes/index>`_, `customer requests for quote <./sales/requests-for-quote/index>`_
+* `Handling customer quotes <./sales/quotes>`_, `customer requests for quote <./sales/requests-for-quote>`_
 
-* Configuring `payment <./sales/payment/index>`_ and `shipping <./sales/shipping/index>`_ options available to the csutomer users during checkout.
+* Configuring `payment <./sales/payment>`_ and `shipping <./sales/shipping>`_ options available to the csutomer users during checkout.
 
-* `Using marketing tools: custom web catalog, landing pages, and customer login pages <./marketing/index>`_
+* Using marketing tools: `custom web catalog <./marketing-web-catalog>`_, `landing pages <./marketing-landing-pages>`_, and `customer login pages <./marketing-customer-login-pages>`_
 
-* `Controlling tax rates that are included in the customer order <./taxes/index>`_
+* `Controlling tax rates that are included in the customer order <./taxes>`_
 
 .. note:: Depending on your role in OroCommerce and custom system permissions, the available information and actions may vary.
 

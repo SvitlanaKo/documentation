@@ -13,6 +13,7 @@ While each country has a single tax rate, the seller must track which country is
 
 * Depending on the tax jurisdiction, your company may be bound with tax obligation in the shipment origin (physical location of your warehouse storing the product you are selling), or in the selling destination - either shipment or billing address provided in the customer order.
 
-**European Union value added tax**
-
-* **To be continued (VAT tax; VAT registration; VAT-Number validation can be executed in the VAT Information Exchange System (EU VIES) of the European Union; deduction of VAT amounts charged to them by their suppliers)...**
+.. comment
+   #**European Union value added tax**
+   #
+   #* **To be continued (VAT tax; VAT registration; VAT-Number validation can be executed in the VAT Information Exchange System (EU VIES) of the European Union; deduction of VAT amounts charged to them by their suppliers)...**
