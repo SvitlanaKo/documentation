@@ -9,7 +9,7 @@ You can modify the following configuration settings that impact the way OroComme
 
 - Enable or disable tax calculation for the products you sell.
 
-- Select a tax provider. OroCommerce build-in Table Rates - the tax rules defined in `Manage tax rules </user-guide/taxes/index#manage-tax-rules>`_ section - are used by default. Alternatively, with some customization, you can use external tax management and compliance system, like AvaTax or Vertex, as a tax provider.
+- Select a tax provider. OroCommerce build-in Table Rates - the tax rules defined in Manage Tax Rules section below - are used by default. Alternatively, with some customization, you can use external tax management and compliance system, like AvaTax or Vertex, as a tax provider.
 
 .. comment See `Integration with external tax management systems </user-guide/taxes/index#integration-with-external-tax-management-systems>`_ for more information.
 
@@ -67,9 +67,9 @@ To customize tax calculation in OroCommerce:
 
    a) Select the default tax jurisdiction base:
 
-    * For origin-based jurisdiction, select **Shipping Origin**, or
+      * For origin-based jurisdiction, select **Shipping Origin**, or
 
-    * For destination-based jurisdiction, select **Destination**.
+      * For destination-based jurisdiction, select **Destination**.
 
    b) Specify all countries and states/regions that do not follow the default tax jurisdiction base. Click **+ Add**, select a country, type in state or region and select the alternative tax jurisdiction base.
 
