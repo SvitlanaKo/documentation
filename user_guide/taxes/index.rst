@@ -1,6 +1,8 @@
 Taxes
 =====
 
+.. contents:: :local:
+
 Overview
 --------
 
