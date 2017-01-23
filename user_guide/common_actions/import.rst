@@ -4,9 +4,9 @@ Importing bulk items
 .. after
 .. begin
 
-To streamline adding large bulk of items, like products, prices or inventory information, you can import the bulk details from a .csv file.
+To streamline adding a large bulk of items, like products, prices or inventory information, you can import the bulk details from a .csv file.
 
-1. **Get a sample:** To download a sample csv file with the necessary headers, click **Download Data Template** in the dropdown list next to **Import**. For the inventory template, select one of the options: a) inventory statuses only or b) detailed inventory levels.
+1. **Get a sample:** To download a sample csv file with the necessary headers, click **Download Data Template** in the list next to **Import**. For the inventory template, select one of the options: a) inventory statuses only or b) detailed inventory levels.
 
 3. **Prepare data for import**: Based on the downloaded file, create your bulk information in csv format. Once your file is ready, click **Import**, select the prepared comma-separated values (.csv) file and click **Submit**.
 

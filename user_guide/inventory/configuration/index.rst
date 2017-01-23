@@ -5,7 +5,7 @@ Configuring Inventory
 
 ..  begin
 
-OroCommerce groups inventory configuration options into the following categoiries:
+OroCommerce groups inventory configuration options into the following categories:
 
 * `Allowed Inventory Statuses`_
 
@@ -13,7 +13,7 @@ OroCommerce groups inventory configuration options into the following categoirie
 
 * `Warehouses`_
 
-* `Order Qunatity Limitations`_
+* `Order Quantity Limitations`_
 
 Allowed Inventory Statuses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,7 +33,7 @@ Warehouses
 .. include:: /user_guide/inventory/configuration/warehouses.rst
   :start-after: begin
 
-Order Qunatity Limitations
+Order Quantity Limitations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. include:: /user_guide/inventory/configuration/limitations.rst

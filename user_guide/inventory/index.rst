@@ -24,7 +24,7 @@ Product-level Inventory Configuration
 Bulk Update
 ~~~~~~~~~~~
 
-To manage quntities for all products in multiple warehouses:
+To manage quantities for all products in multiple warehouses:
 
 1. Navigate to the **Inventory > Manage Inventory** in the main menu.
 
@@ -32,16 +32,16 @@ To manage quntities for all products in multiple warehouses:
 
 3. Edit inventory status and quantity in the respective columns by clicking on the current value, typing in the new one, and pressing **Enter**.
 
-Updated information is autmatically saved.
+Updated information is automatically saved.
 
 Per Product
 ~~~~~~~~~~~
 
-To manage quntities for a single product in multiple warehouses:
+To manage quantities for a single product in multiple warehouses:
 
 1. Navigate to the product details:
 
-   a) Click **Products > Prodcuts** in the main menu.
+   a) Click **Products > Products** in the main menu.
    b) Search for the necessary product and view its details.
 
 2. Click **Inventory** on the top right of the page.
@@ -58,14 +58,14 @@ To manage quntities for a single product in multiple warehouses:
 Manage Inventory in the External Systems
 ----------------------------------------
 
-When your need OroCommerce and other systems (like asset mangement and accounting software) exchange and synchronize product inventory information, you may transfer the inventory data from and into OroCommerce in the csv format.
+When your need OroCommerce and other systems (like asset management and accounting software) exchange and synchronize product inventory information, you may transfer the inventory data from and into OroCommerce in the csv format.
 
 Export
 ~~~~~~
 
 You can export the inventory information in the csv format: 
 
-1. Select the items to export using a box to the left from the Name. You can filter the list and use **Select All** option in the header, if necessary.
+1. Select the items to export using a box to the left of the Name. You can filter the list and use **Select All** option in the header, if necessary.
 2. Click **Export**.
 
 .. comment TODO clarify the remaining part of the procedure.
@@ -82,7 +82,7 @@ Import
 Import Inventory Statuses and Levels
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Sample for importing bulk product inventory statuses (In Stock, Out of Stock, or Discontinued) and levels (quantity and unit) for the warehouses:
+The sample for importing bulk product inventory statuses (In Stock, Out of Stock, or Discontinued) and levels (quantity and unit) for the warehouses:
 
 .. include:: /user_guide/common_actions/import_inventory_levels.rst
   :start-after: start
@@ -91,7 +91,7 @@ Sample for importing bulk product inventory statuses (In Stock, Out of Stock, or
 Import Inventory Statuses Only
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Sample for importing bulk product inventory statuses (In Stock, Out of Stock, or Discontinued) only:
+The sample for importing bulk product inventory statuses (In Stock, Out of Stock, or Discontinued) only:
 
 .. include:: /user_guide/common_actions/import_inventory_statuses.rst
   :start-after: start
