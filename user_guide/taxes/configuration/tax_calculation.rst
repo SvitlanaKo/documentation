@@ -44,29 +44,37 @@ To customize tax calculation in OroCommerce:
 
 5. In **Calculator** section:
 
-  a. With **Start Calculation With**, specify the formula for tax calculation. Tax is calculated either for unit price or for a product total price. Formula for *Unit price* is:
+   a) With **Start Calculation With**, specify the formula for tax calculation. Tax is calculated either for unit price or for a product total price. Formula for *Unit price* is:
 
-    | tax = [ ( unit price * tax rate ) * unit quantity ] + ... + [ ( unit price * tax rate ) * unit quantity ].
+      |
 
-    Formula for *Row Total* is:
+      tax = [ ( unit price * tax rate ) * unit quantity ] + ... + [ ( unit price * tax rate ) * unit quantity ].
 
-    | tax = [ (unit price * unit quantity) * tax rate ] + ... + [ (unit price * unit quantity) * tax rate ].
+      |
 
-  b. With **Start Calculation On** option, select when the rounding off shall happen. For **Item**, the taxable ammount is rounded up for every item. For **Total**, the total tax is aggregated as is, and the final amount is rounded up.
+      Formula for *Row Total* is:
 
-  c. Set or clear the **Product prices include tax** option. When product prices include tax, the tax ammount is substructed from unit, product, or total price. Otherwise, the tax is added on top of the unit, product, or total price.
+      |
+
+      tax = [ (unit price * unit quantity) * tax rate ] + ... + [ (unit price * unit quantity) * tax rate ].
+
+      |
+
+   b) With **Start Calculation On** option, select when the rounding off shall happen. For **Item**, the taxable ammount is rounded up for every item. For **Total**, the total tax is aggregated as is, and the final amount is rounded up.
+
+   c) Set or clear the **Product prices include tax** option. When product prices include tax, the tax ammount is substructed from unit, product, or total price. Otherwise, the tax is added on top of the unit, product, or total price.
 
 6. In **Matcher** section:
 
-   a. Select the default tax jurisdiction base:
+   a) Select the default tax jurisdiction base:
 
     * For origin-based jurisdiction, select **Shipping Origin**, or
 
     * For destination-based jurisdiction, select **Destination**.
 
-   b. Specify all countries and states/regions that do not follow the default tax jurisdiction base. Click **+ Add**, select a country, type in state or region and select the alternative tax jurisdiction base.
+   b) Specify all countries and states/regions that do not follow the default tax jurisdiction base. Click **+ Add**, select a country, type in state or region and select the alternative tax jurisdiction base.
 
-   c. If you use destination as tax jurisdiction base by default or for any exclusions, select either **Shipping Address** or **Billing Address** as **Destination**.
+   c) If you use destination as tax jurisdiction base by default or for any exclusions, select either **Shipping Address** or **Billing Address** as **Destination**.
 
 7. In **Origin** section, provide the origin address (e.g. location of your warehouse or company legal address). For the origin-based jurisdictions, OroCommerce uses this address to find the matching tax rule.
 

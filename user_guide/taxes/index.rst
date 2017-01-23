@@ -1,8 +1,18 @@
 Taxes
 =====
 
+Overview
+--------
+
 .. include:: /user_guide/overview/taxes_overview.rst
   :start-after: begin
+
+Taxation Configuration
+----------------------
+
+.. include:: /user_guide/taxes/configuration/index.rst
+   :start-after: begin
+   :end-before: finish
 
 **Related topics**
 
