@@ -1,5 +1,5 @@
-Getting Started
-===============
+Getting Started with Management Console
+=======================================
 
 This section of the guide will provide an introduction to OroCommerce's user interface as well as instructions for setting up your user profile. 
 

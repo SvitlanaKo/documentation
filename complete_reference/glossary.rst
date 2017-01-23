@@ -27,7 +27,10 @@ Glossary
 
 .. glossary::
    :sorted:
-    
+   
+   Backorder
+      An order that cannot be currently filled or shipped, but is requested nonetheless for when the item becomes available again.
+
    Entity
       A grouping of things with common rules that represent objects of similar nature. For    #example, orders, customers,
       addresses, etc.

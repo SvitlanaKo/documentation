@@ -1,5 +1,5 @@
-Customers
-=========
+Managain Customers and Customer Users
+=====================================
 
 .. include:: /user_guide/overview/customers_overview.rst
   :start-after: begin

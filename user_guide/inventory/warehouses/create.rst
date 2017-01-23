@@ -1,17 +1,24 @@
-Creating Warehouses
--------------------
+Creating a Warehouse
+--------------------
 
-To create a new Warehouses, navigate to **Inventory > Warehouses** in the main menu and click **Create Warehouses**.
+To create a new Warehouse:
 
-Preview:
+1. Navigate to **Inventory > Warehouses** using the main menu.
+
+.. image:: /user_guide/img/inventory/warehouses/Warehouses.png
+   :class: with-border
+
+2. Click **Create Warehouses**. The following page opens:
 
 .. image:: /user_guide/img/inventory/warehouses/WarehousesCreate.png
    :class: with-border
 
-You can perform the following actions at the WarehousesCreate page:
+3. Enter the warehouse name.
 
- * Cancel
+4. Fill in the address:
 
- * Save And Close
+     * To use the default warehouse address from shipping system configuration, set the **Use Shipping Origin** box.
 
+     * To use custom warehouse address, enter the Country, Region/State, Zip/Postal code, City, and street address.
 
+5. Click **Save**.

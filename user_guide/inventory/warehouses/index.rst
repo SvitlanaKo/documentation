@@ -8,6 +8,4 @@ Warehouses
 
    viewlist
 
-   view
-
    create

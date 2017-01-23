@@ -3,6 +3,8 @@ Importing Inventory Levels
 
 You can import the product inventory statuses (In Stock, Out of Stock, or Discontinued) and levels (quantity and unit) for the warehouses using the bulk import capabilities.
 
+.. start
+
 Import csv file should follow the inventory details data structure.
 
 **Example of inventory levels bulk import template**
@@ -16,6 +18,8 @@ Import csv file should follow the inventory details data structure.
 .. note::
    * Inventory Status may be *In Stock*, *Out of Stock*, and *Discontinued*.
    * The warehouse and unit should be created prior to the inventory levels import.
+
+.. stop
 
 .. include:: /complete_reference/common_actions/import.rst
    :start-after: after

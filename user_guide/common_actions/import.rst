@@ -2,6 +2,7 @@ Importing bulk items
 --------------------
 
 .. after
+.. begin
 
 To streamline adding large bulk of items, like products, prices or inventory information, you can import the bulk details from a .csv file.
 
@@ -14,6 +15,8 @@ To streamline adding large bulk of items, like products, prices or inventory inf
 5. **Launch import:** After successful validation, click **Import**.
 
 Interactive status messages report the progress and once the import is complete, the imported products appear in the product catalog.
+
+.. finish
 
 See this two minute demo of the inventory import:
 
