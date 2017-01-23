@@ -42,6 +42,12 @@ Manage Tax Rules
 .. include:: /user_guide/taxes/customer_tax_codes/create.rst
    :end-before: stop
 
+.. include:: /user_guide/taxes/link_a_tax_code_to_a_customer.rst
+   :end-before: stop
+
+.. include:: /user_guide/taxes/link_a_tax_code_to_a_product.rst
+   :end-before: stop
+
 **Related Information**
 
 .. toctree::
@@ -59,11 +65,11 @@ Manage Tax Rules
 
    taxes/index
 
+   link_a_tax_code_to_a_customer
+
+   link_a_tax_code_to_a_product
+
    international_taxes_overview
-
-..   link_a_tax_code_to_a_customer
-
-..   link_a_tax_code_to_a_product
 
 ..   managing_tax_exemptions
 
