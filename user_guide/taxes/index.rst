@@ -8,6 +8,8 @@ Taxes
 
 .. toctree::
 
+   configuration/index
+
    customer_tax_codes/index
 
    product_tax_codes/index
