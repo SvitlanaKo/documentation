@@ -71,7 +71,11 @@ Table of Contents
 
    getting_started/index
 
+   products_master_catalog/index
+
    products/index
+
+   products_misc/index
 
    inventory/index
 
@@ -93,10 +97,13 @@ Table of Contents
 
    sales_shopping_lists/index
 
-   marketing/index
+   marketing_web_catalog/index
+
+   marketing_customer_login_pages/index
+
+   marketing_landing_pages/index
 
    taxes/index
-
 
 ..   install/index
 

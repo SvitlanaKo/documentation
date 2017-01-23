@@ -1,17 +1,17 @@
-Product Catalog and Product Details
-===================================
+Products
+--------
 
-.. include:: /user_guide/overview/Products_overview.rst
+.. include:: /user_guide/overview/products/products_overview.rst
   :start-after: begin
 
 .. toctree::
 
-   master_catalog/index
+   viewlist
 
-   price_attributes/index
+   view
 
-   product_families/index
+   create
 
-   product_attributes/index
+   managing_product_visibility
 
-   products/index
+   product_units_and_precision

@@ -38,7 +38,7 @@ Concept Guide
 
    marketing_overview
 
-   products_overview
+   products_misc_overview
 
    reports_and_segments_overview
 
