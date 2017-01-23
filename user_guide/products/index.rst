@@ -1,5 +1,5 @@
-Managing Product Catalog and Product Details
-============================================
+Product Catalog and Product Details
+===================================
 
 .. include:: /user_guide/overview/Products_overview.rst
   :start-after: begin

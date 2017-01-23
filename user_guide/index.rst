@@ -75,29 +75,28 @@ Table of Contents
 
    inventory/index
 
-   sales/index
+   sales_price_lists/index
 
    customers/index
+
+   sales_quotes/index
+
+   sales_requests_for_quote/index
+
+   sales_orders/index
+
+   sales_payment/index
+
+   sales_payment_terms/index
+
+   sales_shipping/index
+
+   sales_shopping_lists/index
 
    marketing/index
 
    taxes/index
 
-   sales/price_lists_summary
-
-   sales/quotes_summary
-
-   sales/orders_summary
-
-   sales/requests_for_quote_summary
-
-   sales/payment_summary
-
-   sales/payment_terms_summary
-
-   sales/shipping_summary
-
-   sales/shopping_lists_summary
 
 ..   install/index
 

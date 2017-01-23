@@ -1,5 +1,5 @@
-Manage Web Catalog, Landing Pages, and Customer Login Pages
-===========================================================
+Web Catalogs, Landing Pages, and Customer Login Pages
+=====================================================
 
 .. include:: /user_guide/overview/marketing_overview.rst
    :start-after: begin

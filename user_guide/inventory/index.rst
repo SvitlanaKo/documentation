@@ -1,5 +1,5 @@
-Managing Warehouses and Inventory
-=================================
+Warehouses and Inventory
+========================
 
 This topic contains the following sections:
 
