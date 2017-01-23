@@ -18,8 +18,9 @@ To create a new Tax Rate:
 
 The new Tax Rate is created.
 
+.. stop
+
 **Next steps**
 
 `Create a tax rule <../tax-rules/create>`_ that associates this tax rate or tax exemption (zero rate) with other tax components (`products <../product-tax-codes>`_, `customer acounts <../customer-tax-codes>`_ and `tax jurisdictions <../tax-jurisdictions>`_).
 
-.. stop

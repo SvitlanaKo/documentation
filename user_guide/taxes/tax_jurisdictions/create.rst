@@ -27,8 +27,8 @@ To create a new Tax Jurisdiction:
 
 The new Tax Jurisdiction is created.
 
+.. stop
+
 **Next steps**
 
 `Create a tax rule <../tax-rules/create>`_ that associates this tax jurisdiction with other tax components (`products <../product-tax-codes>`_, `customer acounts <../customer-tax-codes>`_ and `tax code <../taxes>`_).
-
-.. stop
