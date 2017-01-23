@@ -6,6 +6,7 @@ To create a new Tax Rate:
 #. Navigate to **Taxes > Taxes** in the main menu.
 
 #. Click **Create Tax**.
+
    The following page opens:
 
    .. image:: /user_guide/img/taxes/taxes/TaxesCreate.png
@@ -19,6 +20,6 @@ The new Tax Rate is created.
 
 **Next steps**
 
-`Create a tax rule <../tax_rules/create.html>`_ that associates this tax rate or tax exemption (zero rate) with other tax components (`products <../ProductTaxCodes>`_, `customer acounts <../ProductTaxCodes>`_ and `tax jurisdictions <../TaxJurisdictions>`_).
+`Create a tax rule <../tax-rules/create>`_ that associates this tax rate or tax exemption (zero rate) with other tax components (`products <../product-tax-codes>`_, `customer acounts <../customer-tax-codes>`_ and `tax jurisdictions <../tax-jurisdictions>`_).
 
 .. stop

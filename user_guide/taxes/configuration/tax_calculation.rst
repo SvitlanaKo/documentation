@@ -9,7 +9,7 @@ You can modify the following configuration settings that impact the way OroComme
 
 - Enable or disable tax calculation for the products you sell.
 
-- Select a tax provider. OroCommerce build-in Table Rates - the tax rules defined in `Managing tax rules </user-guide/taxes/index#managing-tax-rules>`_ section - are used by default. Alternatively, with some customization, you can use external tax management and compliance system, like AvaTax or Vertex, as a tax provider.
+- Select a tax provider. OroCommerce build-in Table Rates - the tax rules defined in `Manage tax rules </user-guide/taxes/index#manage-tax-rules>`_ section - are used by default. Alternatively, with some customization, you can use external tax management and compliance system, like AvaTax or Vertex, as a tax provider.
 
 .. comment See `Integration with external tax management systems </user-guide/taxes/index#integration-with-external-tax-management-systems>`_ for more information.
 

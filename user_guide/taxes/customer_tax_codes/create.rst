@@ -6,6 +6,7 @@ To create a new Customer Tax Code:
 #. Navigate to **Taxes > Customer Tax Codes** in the main menu.
 
 #. Click **Create Customer Tax Codes**.
+
    The following page opens:
 
    .. image:: /user_guide/img/taxes/customer_tax_codes/CreateAccountTaxCodeAccountTaxCodesTaxes.png
@@ -20,6 +21,6 @@ The new Customer Tax Code is created.
 
 **Next steps**
 
-Link the tax code to `a customer <../link_a_tax_code_to_a_customer.html>`_ and `create a tax rule <../tax_rules/create.html>`_ that associates the customer tax code with the tax rate or tax exemption (zero rate).
+Link the tax code to `a customer <../link-a-tax-code-to-a-customer>`_ and `create a tax rule <../tax-rules/create>`_ that associates the customer tax code with the tax rate or tax exemption (zero rate).
 
 .. stop

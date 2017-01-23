@@ -6,6 +6,7 @@ To create a new Tax Jurisdiction:
 #. Navigate to **Taxes > Tax Jurisdictions** in the main menu.
 
 #. Click **Create Tax Jurisdiction**.
+
    The following page opens:
 
    .. image:: /user_guide/img/taxes/tax_jurisdictions/TaxJurisdictionsCreate.png
@@ -28,6 +29,6 @@ The new Tax Jurisdiction is created.
 
 **Next steps**
 
-`Create a tax rule <../tax_rules/create.html>`_ that associates this tax jurisdiction with other tax components (`products <../ProductTaxCodes>`_, `customer acounts <../ProductTaxCodes>`_ and `tax code <../Taxes>`_).
+`Create a tax rule <../tax-rules/create>`_ that associates this tax jurisdiction with other tax components (`products <../product-tax-codes>`_, `customer acounts <../customer-tax-codes>`_ and `tax code <../taxes>`_).
 
 .. stop
