@@ -1,22 +1,26 @@
 Taxes
 -----
 
+.. begin
+
 .. include:: /user_guide/overview/taxes/taxes_overview.rst
-  :start-after: begin
+   :start-after: begin
 
 .. contents:: :local:
 
-.. include:: viewlist.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/taxes/viewlist.rst
+   :end-before: stop
 
-.. include:: create.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/taxes/create.rst
+   :end-before: stop
 
-.. include:: view.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/taxes/view.rst
+   :end-before: stop
 
-.. include:: edit.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/taxes/edit.rst
+   :end-before: stop
+
+.. finish
 
 .. toctree::
    :hidden:

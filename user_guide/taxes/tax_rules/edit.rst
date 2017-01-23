@@ -1,5 +1,5 @@
 Edit a Tax Rule
-^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 To edit the Tax Rule: 
 
@@ -17,7 +17,7 @@ To edit the Tax Rule:
 
 The Tax Rule is updated.
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

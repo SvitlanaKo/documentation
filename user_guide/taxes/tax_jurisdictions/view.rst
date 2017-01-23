@@ -30,7 +30,7 @@ You can perform the following actions with a Tax Jurisdiction:
 
  * Delete a Tax Jurisdiction: Click |IcDelete| **Delete** to the top right of the page.
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

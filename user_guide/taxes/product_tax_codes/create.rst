@@ -22,4 +22,4 @@ The new Product Tax Code is created.
 
 Link the tax code to `a product <../link-a-tax-code-to-a-product.html>`_ and `create a tax rule <../tax_rules/create.html>`_ that associates the product tax code with the tax rate or tax exemption (zero rate).
 
-.. finish
+.. stop

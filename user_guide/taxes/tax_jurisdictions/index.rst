@@ -1,22 +1,26 @@
 Tax Jurisdictions
 -----------------
 
+.. begin
+
 .. include:: /user_guide/overview/taxes/tax_jurisdictions_overview.rst
   :start-after: begin
 
 .. contents:: :local:
 
-.. include:: viewlist.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_jurisdictions/viewlist.rst
+  :end-before: stop
 
-.. include:: create.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_jurisdictions/create.rst
+  :end-before: stop
 
-.. include:: view.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_jurisdictions/view.rst
+  :end-before: stop
 
-.. include:: edit.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_jurisdictions/edit.rst
+  :end-before: stop
+
+.. finish
 
 .. toctree::
    :hidden:

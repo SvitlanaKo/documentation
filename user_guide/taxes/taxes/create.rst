@@ -21,4 +21,4 @@ The new Tax Rate is created.
 
 `Create a tax rule <../tax_rules/create.html>`_ that associates this tax rate or tax exemption (zero rate) with other tax components (`products <../ProductTaxCodes>`_, `customer acounts <../ProductTaxCodes>`_ and `tax jurisdictions <../TaxJurisdictions>`_).
 
-.. finish
+.. stop

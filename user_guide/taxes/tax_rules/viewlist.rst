@@ -1,5 +1,5 @@
 View and Filter Tax Rules
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To view all Tax Rules, navigate to **Taxes > Tax Rules** in the main menu.
 
@@ -47,7 +47,7 @@ You can perform the following actions with every item in the Tax Rules list:
 
  * `Create Tax Rule <create.html>`_: Click **Create Tax Rule** to the top right from the list. 
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

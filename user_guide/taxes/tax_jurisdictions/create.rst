@@ -30,4 +30,4 @@ The new Tax Jurisdiction is created.
 
 `Create a tax rule <../tax_rules/create.html>`_ that associates this tax jurisdiction with other tax components (`products <../ProductTaxCodes>`_, `customer acounts <../ProductTaxCodes>`_ and `tax code <../Taxes>`_).
 
-.. finish
+.. stop

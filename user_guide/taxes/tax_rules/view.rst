@@ -1,5 +1,5 @@
 View Tax Rule Details
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 To view a Tax Rule details: 
 
@@ -30,7 +30,7 @@ You can perform the following actions with a Tax Rule:
 
  * Delete a Tax Rule: Click |IcDelete| **Delete** to the top right of the page.
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

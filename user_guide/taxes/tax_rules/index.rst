@@ -1,22 +1,26 @@
 Tax Rules
 ---------
 
+.. begin
+
 .. include:: /user_guide/overview/taxes/tax_rules_overview.rst
-  :start-after: begin
+   :start-after: begin
 
 .. contents:: :local:
 
-.. include:: viewlist.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_rules/viewlist.rst
+   :end-before: stop
 
-.. include:: create.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_rules/create.rst
+   :end-before: stop
 
-.. include:: view.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_rules/view.rst
+   :end-before: stop
 
-.. include:: edit.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/tax_rules/edit.rst
+   :end-before: stop
+
+.. finish
 
 .. toctree::
    :hidden:

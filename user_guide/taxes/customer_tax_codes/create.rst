@@ -22,4 +22,4 @@ The new Customer Tax Code is created.
 
 Link the tax code to `a customer <../link_a_tax_code_to_a_customer.html>`_ and `create a tax rule <../tax_rules/create.html>`_ that associates the customer tax code with the tax rate or tax exemption (zero rate).
 
-.. finish
+.. stop

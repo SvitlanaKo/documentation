@@ -22,7 +22,7 @@ Association of the Tax Rate with the Tax Rule
 
 You can edit the association of the Tax Rate with other tax components when `editing the tax rule details <../tax_rule/edit.html>`_ (see the respective topic for more information).
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

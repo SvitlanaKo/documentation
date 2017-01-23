@@ -1,5 +1,5 @@
 Create a Tax Rule
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 To create tax rules for a particular tax jurisdiction:
 
@@ -21,4 +21,4 @@ To create tax rules for a particular tax jurisdiction:
 
   c. Click **Save** or **Save and Close**.
 
-.. finish
+.. stop

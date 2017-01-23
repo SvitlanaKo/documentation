@@ -38,7 +38,7 @@ You can perform the following actions with every item in the Product Tax Codes l
 
  * `Create Account Tax Code <create.html>`_: Click **Create Account Tax Code** to the top right from the list. 
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

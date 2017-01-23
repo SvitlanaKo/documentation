@@ -41,7 +41,7 @@ You can perform the following actions with every item in the Tax Jurisdictions l
 
  * `Create Tax Jurisdiction <create.html>`_: Click **Create Tax Jurisdiction** to the top right from the list. 
 
-.. finish
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

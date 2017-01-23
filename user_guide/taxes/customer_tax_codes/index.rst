@@ -1,22 +1,26 @@
 Customer Tax Codes
 ------------------
 
+.. begin
+
 .. include:: /user_guide/overview/taxes/customer_tax_codes_overview.rst
   :start-after: begin
 
 .. contents:: :local:
 
-.. include:: viewlist.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/customer_tax_codes/viewlist.rst
+  :end-before: stop
 
-.. include:: create.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/customer_tax_codes/create.rst
+  :end-before: stop
 
-.. include:: view.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/customer_tax_codes/view.rst
+  :end-before: stop
 
-.. include:: edit.rst
-  :end-before: finish
+.. include:: /user_guide/taxes/customer_tax_codes/edit.rst
+  :end-before: stop
+
+.. finish
 
 .. toctree::
    :hidden:

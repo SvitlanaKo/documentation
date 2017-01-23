@@ -11,16 +11,50 @@ Overview
 .. include:: /user_guide/overview/taxes_overview.rst
   :start-after: begin
 
-Taxation Configuration
-----------------------
+Before You Begin: Taxation Configuration
+----------------------------------------
 
 .. include:: /user_guide/taxes/configuration/index.rst
    :start-after: begin
    :end-before: finish
 
-**Related topics**
+Managing Tax Rules
+------------------
+
+.. include:: /user_guide/taxes/tax_rules/index.rst
+   :start-after: begin
+   :end-before: finish
+
+Managing Tax Jurisdictions
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/taxes/tax_jurisdictions/index.rst
+   :start-after: begin
+   :end-before: finish
+
+Managing Tax Rates
+~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/taxes/taxes/index.rst
+   :start-after: begin
+   :end-before: finish
+
+Managing Product Tax Codes
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/taxes/product_tax_codes/index.rst
+   :start-after: begin
+   :end-before: finish
+
+Managing Customer Tax Codes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/taxes/customer_tax_codes/index.rst
+   :start-after: begin
+   :end-before: finish
 
 .. toctree::
+   :hidden:
 
    configuration/index
 
@@ -46,3 +80,7 @@ Taxation Configuration
 
 ..   Taxes in the customer order <../../guides_by_role/buyer_guide/taxes>
 
+.. finish 
+
+.. include:: /user_guide/include_images.rst
+   :start-after: begin
