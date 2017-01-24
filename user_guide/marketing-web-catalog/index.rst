@@ -1,6 +1,8 @@
 Web Catalogs
 ------------
 
+`test </user_guide/include_images.rst>`_
+
 .. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
   :start-after: begin
 
