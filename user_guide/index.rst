@@ -265,7 +265,7 @@ Table of Contents
       * Homepage
       * Promotions
         
-    * Taxes
+    * Taxes                               DONE =============
       * USA
       * Canada
       * European Union
