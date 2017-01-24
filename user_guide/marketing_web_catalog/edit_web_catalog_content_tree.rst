@@ -14,31 +14,39 @@ To edit a web catalog content tree:
    .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreate2.png
       :class: with-border
 
-#. Create the root node of the web catalog as described in the `Root Content Node Configuration`_ section. It is recommended to use Oro Frontend Root system page as a root node of your web catalog.
+#. Create the root node of the web catalog as described in the `Set Up a Root Content Node`_ section. It is recommended to use Oro Frontend Root system page as a root node of your web catalog.
+
 
 #. Click **Save** on the top right of the page.
 
-The web catalog root node is saved.
+   Once the web catalog root node is saved, create the nested nodes on the second level that will be shown as main menu items on the OroCommerce Store Front:
 
-Now, create the nested nodes that will be shown as main menu items on the OroCommerce Store Front:
+   #) Ensure that the root node is selected in the content nodes structure to the left.
 
-#. Ensure that the root node is selected in the content nodes structure to the left.
+   #) Click **Create Content Node** on the top right of the page.
 
-#. Click **Create Content Node** on the top right of the page.
+      The following page opens:
 
-   The following page opens:
+      .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreate_demo.png
+         :class: with-border
 
-   .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreate_demo.png
-      :class: with-border
+   #) Set up the node as described in the `Set Up a Content Node for Menu or Sub-Menu Item`_ section.
 
-#. Set up the node as described in the `Content Node Configuration`_ section.
+   #) Click **Save** on the top right of the page.
 
-#. Click **Save** on the top right of the page.
+      Set up as many sub-menu nodes as you need.
 
-To enable sub-menu and populate it with links to the content variants, select a second level node in the Content Nodes tree to the left and click **Create Content Node** on the top right of the page. Set up as many sub-menu nodes as you need. Follow the process described in the `Content Node Configuration`_ section.
+      To enable sub-menu and populate it with links to the content variants:
 
-Root Content Node Configuration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      #. Select a second level node in the Content Nodes tree to the left.
+
+      #. Click **Create Content Node** on the top right of the page and follow the process described in the `Set Up a Content Node for Menu or Sub-Menu Item`_ section.
+
+      Set up as many sub-menu nodes as you need.
+
+
+Set Up a Root Content Node
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To map an entry point for the web catalog content tree:
 
@@ -67,15 +75,14 @@ To map an entry point for the web catalog content tree:
 
      .. note:: The first content variant that is added to the node is marked as default variant. When you add more content variants, please, specify the restrictions next to the content variant details, that limits the use of this content variant to just some particular cases.
 
-Content Node Configuration
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Set Up a Content Node for Menu or Sub-Menu Item
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To set up the mapping of the content to the web catalog content tree:
 
 #) In the *General* section, fill in content node title that will show as a caption in your OroCommerce Store Front menu or submenu (depending on the level in the content tree.
 
    If necessary, translate the title into the languages supported in your OroCommerce configuration. To manage title translations, click next to the Titles box and follow the `content translation guidance here <./../common-actions/manage-translation>`_).
-
 
 #) Set **Rewrite Variant Title** to force override the native title of the content you are mapping to this catalog node.
 
@@ -107,13 +114,16 @@ To set up the mapping of the content to the web catalog content tree:
 Content Variants Configuration for the Content Node
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+This section provides an overview of the content node types and a brief guidance on their set up.
+
 .. note:: The first content variant that is added to the node is marked as default variant. When you add more content variants, please, specify the restrictions next to the content variant details, that limits the use of this content variant to just some particular cases.
 
 .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreate_demo4.png
    :class: with-border
 
 System Page
-^^^^^^^^^^^
+"""""""""""
+
 System page is one of the standard pre-designed pages of OroCommerce Store Front (e.g. Requests for Quotes, Open Orders).
 
 To add a system page to the menu on the OroCommerce Store Front:
@@ -130,7 +140,8 @@ To add a system page to the menu on the OroCommerce Store Front:
 #. Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
 
 Product Page
-^^^^^^^^^^^^
+""""""""""""
+
 Product page node is a direct link to the product details in OroCommerce Store Front.
 
 To add a product page node to the menu on the OroCommerce Store Front:
@@ -147,7 +158,7 @@ To add a product page node to the menu on the OroCommerce Store Front:
 #. Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
 
 Category
-^^^^^^^^
+""""""""
 
 Category node is a direct link to the product category with the list of products in OroCommerce Store Front.
 
@@ -165,7 +176,7 @@ To add a category node to the menu on the OroCommerce Store Front:
 #. Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
 
 Landing Page
-^^^^^^^^^^^^
+""""""""""""
 
 Landing Page node is a link to the `custom content page <./marketing-landing-pages>`_ created in the **Marketing > Landing Pages** section. 
 

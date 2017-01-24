@@ -7,9 +7,9 @@ Web catalog is a content management tool that helps build a highly personalized 
 
 With OroCommerce web catalog and content tree, you can organize the target web site structure to gain improved buyers experience and use a set of in-place SEO tools to make it reachable for your target audience.
 
-The following types of content are available as Web Catalog content nodes:
+The Web Catalog content nodes may be of the following types:
 
 * System page - one of the standard eCommerce website pages (e.g. sign in, user profile, open orders, etc). 
-* Landing page - a custom landing page created in the **Marketing > Landing Pages** section.
+* Landing page - a custom `landing page <./marketing-landing-page>`_ created in the **Marketing > Landing Pages** section.
 * Category - a category of the `master catalog <./products/master-catalog>`_.
 * Product - direct link to `product <./products/products>`_ details.
