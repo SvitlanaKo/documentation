@@ -192,8 +192,8 @@ To add a landing page node to the menu on the OroCommerce Store Front:
 #. Select the existing landing page from the list. To use search, start typing the product name or SKU in the box. To use filtering, click on the **bars**, and select the filtering conditions in the *Manage filters* section. Alternatively, you can create a new landing page:
 
      #) Click **+** to the right from the Landing page list.
-     
-     the Create Landing Page pops up.
+
+        The Create Landing Page pops up.
 
      #) Fill in the landing page details and contents as described `here <./marketing-landing-pages/create>`_.
 
