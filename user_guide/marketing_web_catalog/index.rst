@@ -11,8 +11,10 @@ Overview
 .. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
   :start-after: begin
 
-.. include:: viewlist.rst
-  :end-before: finish
+To view all Web Catalogs, navigate to **Marketing > Web Catalogs** in the main menu.
+
+.. image:: /user_guide/img/marketing/web_catalogs/WebCatalogs.png
+   :class: with-border
 
 .. include:: create.rst
   :end-before: finish
@@ -25,8 +27,6 @@ Overview
 
 .. toctree::
    :hidden:
-
-   viewlist
 
    create
 

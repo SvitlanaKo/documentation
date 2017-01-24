@@ -1,7 +1,44 @@
 Edit Web Catalog Content Tree
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
+To edit a web catalog content tree:
 
+#. Navigate to **Marketing > Web Catalogs** in the main menu.
+
+#. Click on the web catalog to open its details.
+
+.. begin
+
+#. Click the |IcEditContentTree| on the top right of the page.
+
+     #) 
+
+     #) In the *General* section:
+
+          #. a
+          #. b
+          #. c
+
+     #) In the *SEO* section:
+
+          #. a
+          #. b
+          #. c
+
+     #) In the Restriction section:
+
+          #. a
+          #. b
+
+     #) In the *Content Variants* section:
+
+          #. a
+          #. b
+          #. c
+             
+#. Click **Save** on the top right of the page.
+
+The Web Catalog is updated.
 
 
 Edit content tree preview:
@@ -33,3 +70,8 @@ Landing Page
 
 .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreateContentVariantsLandingPage.png
    :class: with-border
+
+.. stop
+
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

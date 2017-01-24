@@ -1,5 +1,5 @@
 Edit Web Catalog Details and Content Nodes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 
 To edit the Web Catalog details: 
 
