@@ -1,8 +1,6 @@
 Web Catalogs
 ------------
 
-`test </user_guide/include_images>`_
-
 .. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
   :start-after: begin
 
@@ -31,7 +29,7 @@ Web Catalogs
 
    edit
 
-   edit_web_catalog_content_tree
+   edit-web-catalog-content-tree
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin
