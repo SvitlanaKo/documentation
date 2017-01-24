@@ -54,16 +54,16 @@ To edit the Web Catalog details:
 The Web Catalog is updated.
 
 Association of the Web Catalog with the Customer
-""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""
 
-You can edit the association of the Web Catalog with the customer when `editing the customer details <../../customer/customers/edit.html>`_.
+You can edit the association of the Web Catalog with the customer when `editing the customer details <../customers/customers/edit>`_.
 
-See information on `linking a tax code to a customer <../link_a_tax_code_to_a_customer.html>`_ for more information.
+See information on `linking a tax code to a customer <../taxes/link_a_tax_code_to_a_customer.html>`_ for more information.
 
 Association of the Web Catalog with the Tax Rule
-""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""
 
-You can edit the association of the Web Catalog with the tax when `editing the tax rule details <../tax_rule/edit.html>`_ (see the respective topic for more information).
+You can edit the association of the Web Catalog with the tax when `editing the tax rule details <../taxes/tax-rules/edit>`_ (see the respective topic for more information).
 
 .. finish
 

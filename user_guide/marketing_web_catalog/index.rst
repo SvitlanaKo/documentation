@@ -1,10 +1,15 @@
 Web Catalogs
 ------------
 
-.. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
-  :start-after: begin
+This topic contains the following sections:
 
 .. contents:: :local:
+
+Overview
+--------
+
+.. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
+  :start-after: begin
 
 .. include:: viewlist.rst
   :end-before: finish

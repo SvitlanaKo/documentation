@@ -28,4 +28,4 @@ You can perform the following actions with every item in the Customer Login Page
 
  * View
 
-
+.. finish
