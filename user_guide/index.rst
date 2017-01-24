@@ -97,7 +97,7 @@ Table of Contents
 
    sales_shopping_lists/index
 
-   marketing-web-catalog/index
+   marketing_web_catalog/index
 
    marketing_customer_login_pages/index
 
