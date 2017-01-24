@@ -1,5 +1,5 @@
-Viewing and filtering all Warehouses
-------------------------------------
+View and filter all Warehouses
+------------------------------
 
 To view all Warehouses, navigate to **Inventory > Warehouses** in the main menu.
 

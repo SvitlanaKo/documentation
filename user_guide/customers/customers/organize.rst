@@ -1,6 +1,8 @@
 Customer Organization Structure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. begin
+
 .. note:: For customer management, navigate to the **Cutomers > Customers** in the main menu.
 
 You can create a hierarchy of business units or customer divisions by providing a parent company when editing the company details.

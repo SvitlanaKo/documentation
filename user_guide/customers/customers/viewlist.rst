@@ -1,10 +1,7 @@
-Viewing and Filtering All Customers
------------------------------------
+View and Filter Customers
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To view all Customers, navigate to **Customers > Customers** in the main menu.
-
-.. include:: /user_guide/overview/customers/Customers_overview.rst
-  :start-after: begin
 
 Preview:
 
@@ -28,6 +25,8 @@ The following information about Customers is available in the Customers list:
 +-----------------+-------------+
 | PAYMENT TERM    |             |
 +-----------------+-------------+
+
+.. stop
 
 **Next steps**
 

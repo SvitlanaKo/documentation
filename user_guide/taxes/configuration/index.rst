@@ -1,6 +1,8 @@
 Configuring Taxation
 --------------------
 
+.. begin
+
 OroCommerce groups taxation configuration options into the following categories:
 
 * `Tax Calculation`_
@@ -9,7 +11,6 @@ OroCommerce groups taxation configuration options into the following categories:
 
 * `EU VAT Tax for Digital Products`_
 
-.. begin
 
 Tax Calculation
 ~~~~~~~~~~~~~~~

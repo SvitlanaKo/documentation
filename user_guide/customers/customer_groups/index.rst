@@ -1,8 +1,23 @@
 Customer Groups
 ---------------
 
+.. begin
+
 .. include:: /user_guide/overview/customers/customer_groups_overview.rst
   :start-after: begin
+
+.. image:: /user_guide/img/customers/customer_groups/CustomerGroups.png
+   :class: with-border
+
+.. contents:: :local:
+
+.. include:: /user_guide/customers/customer_groups/create.rst
+  :end-before: stop
+
+.. include:: /user_guide/customers/customer_groups/pricelist.rst
+  :end-before: stop
+
+.. finish
 
 .. toctree::
 

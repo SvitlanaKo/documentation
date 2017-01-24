@@ -1,5 +1,5 @@
-Creating a Warehouse
---------------------
+Create a Warehouse
+------------------
 
 To create a new Warehouse:
 

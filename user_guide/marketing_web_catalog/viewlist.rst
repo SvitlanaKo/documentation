@@ -1,12 +1,9 @@
-Viewing and filtering all Web Catalogs
---------------------------------------
+View and Filter Web Catalogs
+----------------------------
 
 To view all Web Catalogs, navigate to **Marketing > Web Catalogs** in the main menu.
 
 Preview:
-
-.. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
-  :start-after: begin
 
 .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogs.png
    :class: with-border

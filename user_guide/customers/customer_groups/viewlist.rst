@@ -1,10 +1,7 @@
-Viewing and Filtering All Customer Groups
------------------------------------------
+View and Filter Customer Groups
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To view all Customer Groups, navigate to **Customers > Customer Groups** in the main menu.
-
-.. include:: /user_guide/overview/customers/customer_groups_overview.rst
-  :start-after: begin
 
 Preview:
 
@@ -22,7 +19,9 @@ The following information about the Customer Groups is available in the Customer
 +--------------+-------------+
 | PAYMENT TERM |             |
 +--------------+-------------+
-   
+
+.. stop
+
 **Next steps**
 
 You can perform the following actions with every item in the Customers list:

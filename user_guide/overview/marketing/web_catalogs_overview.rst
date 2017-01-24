@@ -13,6 +13,6 @@ With a Web catalog, you can supports the following types of content:
 
 * System page: One of the standard eCommerce website pages (e.g. sign in, user profile, open orders, etc). 
 * Landing page: A custom landing page created in the **Marketing > Landing Pages** section.
-* Category: A category of the `master catalog <./../products/MasterCatalog>`_.
-* Product: Direct link to a `product <./../products/Products>`_ details.
+* Category: A category of the `master catalog <./products/master-catalog>`_.
+* Product: Direct link to a `product <./products/products>`_ details.
 

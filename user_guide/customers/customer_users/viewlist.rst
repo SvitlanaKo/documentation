@@ -1,10 +1,7 @@
-Viewing and filtering all Customer Users
-----------------------------------------
+View and Filter Customer Users
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To view all Customer Users, navigate to **Customers > Customer Users** in the main menu.
-
-.. include:: /user_guide/overview/customers/customer_users_overview.rst
-  :start-after: begin
 
 Preview:
 
@@ -28,6 +25,8 @@ The following information about the Customer Users is available in the Customer 
 +---------------+-------------+
 | CONFIRMED     |             |
 +---------------+-------------+
+
+.. stop
 
 **Next steps**
 

@@ -1,5 +1,5 @@
-Creating Customer User Roles
-----------------------------
+Create a Customer User Role
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To create a new Customer User Roles, navigate to **Customers > Customer User Roles** in the main menu and click **Create Customer User Roles**.
 
@@ -34,4 +34,4 @@ You can perform the following actions at the Customer User RolesCreate page:
 
  * Save And Close
 
-
+.. stop

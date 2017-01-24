@@ -182,12 +182,12 @@ Table of Contents
       * Landing pages & embedding product info & add to card
       * Product visibility
         
-    * Inventory
-      * Overview
-      * Configuration options
-      * Product-level configuration
-      * Working with multiple warehouses
-      * Export/import inventory
+    * Inventory                              DONE =============
+      * Overview                             DONE =============
+      * Configuration options                DONE =============
+      * Product-level configuration          DONE =============
+      * Working with multiple warehouses     DONE =============
+      * Export/import inventory              DONE =============
         
     * Pricing
       * Overview
@@ -202,13 +202,13 @@ Table of Contents
       * Price list ownership
       * Internal price lists
         
-    * Customers
-      * Customer accounts
-      * Managing users
-      * Roles and permissions
-      * Account hierarchy
-      * Customer groups
-      * Delegate account management to customers
+    * Customers                              DONE =============
+      * Customer accounts                    DONE =============
+      * Managing users                       DONE =============
+      * Roles and permissions                DONE =============
+      * Account hierarchy                    DONE =============
+      * Customer groups                      DONE =============
+      * Delegate account management to customers   DONE =============
         
     * Quotes & Proposals
       * RFQs

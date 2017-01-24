@@ -20,6 +20,8 @@ OroCommerce provides the following tools for streamlined communication inside an
 
    manage_translation
 
+   manage_address_book
+
    using_WYSIWYG_text_editor
 
    ../../service
