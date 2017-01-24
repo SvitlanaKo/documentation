@@ -16,10 +16,15 @@ To create a new Web Catalog:
 
 #. Click **Save** on the top right of the page.
 
-The new Web Catalog is created and may be populated with the content. Organize catalog content into a desired structure that will define the menu look and feel on the OroCommerce Front Store:
+The new Web Catalog is created.
+
+.. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreate_demo.png
+   :class: with-border
+
+Now you are ready to organize catalog content into a desired structure that will define the menu look and feel on the OroCommerce Front Store:
 
 .. include:: edit_web_catalog_content_tree.rst
-   :start-after: begin
+   :start-after: start
    :end-before: stop
 
 .. finish

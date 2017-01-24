@@ -19,20 +19,10 @@ To view all Web Catalogs, navigate to **Marketing > Web Catalogs** in the main m
 .. include:: create.rst
   :end-before: finish
 
-.. include:: view.rst
-  :end-before: finish
-
-.. include:: edit.rst
-  :end-before: finish
-
 .. toctree::
    :hidden:
 
    create
-
-   view
-
-   edit
 
    edit_web_catalog_content_tree
 
