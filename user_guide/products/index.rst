@@ -1,4 +1,11 @@
 Products
+========
+
+This topic contains the following sections:
+
+.. contents:: :local:
+
+Overview
 --------
 
 .. include:: /user_guide/overview/products/products_overview.rst

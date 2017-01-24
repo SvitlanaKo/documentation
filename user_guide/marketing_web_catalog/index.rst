@@ -1,5 +1,5 @@
 Web Catalogs
-------------
+============
 
 This topic contains the following sections:
 
