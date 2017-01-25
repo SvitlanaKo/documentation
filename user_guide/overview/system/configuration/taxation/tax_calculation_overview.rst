@@ -3,13 +3,13 @@ Overview
 
 .. begin
 
-By default, OroCommerce calculates tax using a rate defined in the built-in tax rule (`Managing tax rules </complete_reference/taxes/TaxRules>`_) for the default shipping origin address.
+By default, OroCommerce calculates tax using a rate defined in the built-in tax rule (`Managing tax rules </user_guide/taxes/TaxRules>`_) for the default shipping origin address.
 
 To edit configuration options that impact the way OroCommerce implies tax in the Purchase Order or Quote, navigate to **System > Configuration > Commerce > Taxation** and perform the necessary configuration:
 
 - Enable or disable tax calculation for the products you sell.
 
-- Select a tax provider. OroCommerce build-in Table Rates (the tax rules defined in `Managing tax rules </complete_reference/taxes/TaxRules>`_ section) are used by default. Alternatively, with some customization, you can use external tax management and compliance system, like AvaTax or Vertex, as a tax provider. See `Integration with external tax management systems </user-guide/taxes/index.html#integration-with-external-tax-management-systems>`_ for more information.
+- Select a tax provider. OroCommerce build-in Table Rates (the tax rules defined in `Managing tax rules </user_guide/taxes/TaxRules>`_ section) are used by default. Alternatively, with some customization, you can use external tax management and compliance system, like AvaTax or Vertex, as a tax provider. See `Integration with external tax management systems </user-guide/taxes/index.html#integration-with-external-tax-management-systems>`_ for more information.
 
 - Apply taxes per single item in the purchase order or per total for the requested amount of the items of same kind. This may minimize roundoff accumulated error and secure you and your customers from over or under paying.
 

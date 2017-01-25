@@ -14,5 +14,5 @@ Product Attributes
 
 **Related topics**
 
-* `Using product attributes in product families </complete_reference/products/ProductFamilies#using-product-attributes-in-product-families>`_
-* `Binding a Product to a Product Family </complete_reference/products/products/create#binding-a-product-to-a-product-family>`_
+* `Using product attributes in product families </user_guide/products/ProductFamilies#using-product-attributes-in-product-families>`_
+* `Binding a Product to a Product Family </user_guide/products/products/create#binding-a-product-to-a-product-family>`_

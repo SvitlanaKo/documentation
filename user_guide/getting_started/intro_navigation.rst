@@ -3,8 +3,6 @@
 Navigation Basics
 =================
 
-.. warning:: Reused from OroCRM. Rework.
-
  OroCRM provides a broad set of navigation tools that allow you to easily access necessary information and tools. The 
  system helps to ensure that frequent actions can be performed with minimal effort by keeping required information at 
  hand. This means no important updates are missed.
@@ -43,8 +41,7 @@ The list of menu items that are available to you depends on your access and perm
 organization.
 
 Hover the cursor over a menu item to expand the drop-down menu with see the second-level items. Click on them to access 
-any corresponding pages or grids. (See :ref:`Data management basics <user-guide-data-management-basics>` for further 
-details.)
+any corresponding pages or grids.
   
   
 .. _user-guide-navigation-panel:

@@ -1,10 +1,7 @@
 .. _user-guide-getting-started-user-menu:
 
-
 User Menu 
 =========
-
-.. warning:: Reused from OroCRM. Rework.
 
 On the right side of the screen, under your username, you will find the User Menu drop-down. It provides a fast way to 
 access your user profile, calendar, mailbox, and task list. It is also used to log out of the system.
@@ -15,9 +12,7 @@ access your user profile, calendar, mailbox, and task list. It is also used to l
 My User
 -------
 
-This link opens your user profile that is described in the 
-:ref:`corresponding section <user-guide-getting-started-my-user-overview>` of the 
-*Log In, View Your User Page, and Set Up Your Profile* guide.
+This link opens your `user profile <intro-user-profile>`_.
 
 My Emails
 ---------
@@ -42,14 +37,12 @@ Click the :guilabel:`Compose` button to create a new email.
 My Tasks
 --------    
   
-On this page you can see all the :ref:`tasks <user-guide-activities-tasks>` that have been assigned to you. 
+On this page you can see all the `tasks <./common-actions/assign-tasks>`_ that have been assigned to you. 
 
 My Calendar
 -----------
 
-This link opens your calendar. Here you can see all the important events and tasks that have deadlines. If permitted, 
-you can also access system calendars and calendars of other users. Please see 
-`Calendar events <../Activities/calendar_events>` and `Calendar configuration <../system/system-calendars>` to learn more about using the Calendars.
+This link opens your calendar. Here you can see all the important events and tasks that have deadlines. If permitted, you can also access system calendars and calendars of other users.
 
 Logout
 ------

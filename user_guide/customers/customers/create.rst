@@ -22,7 +22,7 @@ To create a new Customer:
 
 #. Select **Tax Code** that will label the customer group taxation schema.
 
-#. Add a billing and shipping address as described in `the address book <./../common-actions/manage-address-book>`_ section.
+#. Add a billing and shipping address as described in `the address book <./../getting-started/common-actions/manage-address-book>`_ section.
 
 #. In the *Additional* section, select a Payment term to be used as a payment option available to the customer users during on the checkout.
 

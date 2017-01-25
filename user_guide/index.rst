@@ -105,6 +105,7 @@ Table of Contents
 
    taxes/index
 
+   system/index
 ..   install/index
 
 

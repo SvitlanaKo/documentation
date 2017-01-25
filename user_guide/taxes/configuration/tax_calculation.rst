@@ -33,7 +33,7 @@ To customize tax calculation in OroCommerce:
 
    The following page opens.
 
-   .. image:: /complete_reference/img/system/configuration/taxation/tax_calculation/TaxCalculation.png
+   .. image:: /user_guide/img/system/configuration/taxation/tax_calculation/TaxCalculation.png
 
    .. note:: Remember to clear the **Use default** flag before setting a custom option.
 

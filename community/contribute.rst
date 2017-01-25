@@ -269,7 +269,7 @@ To run the check manually from the command line:
 
     npm install
 
-(`package.json <https://github.com/laboro/crm-enterprise-dev/blob/master/package.json>`_ added to each dev-repo to root folder)
+(package.json file is added to each dev-repo to root folder)
 
 - Execute the following command to run JSCS check:
 

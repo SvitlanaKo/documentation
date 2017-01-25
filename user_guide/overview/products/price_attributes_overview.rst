@@ -15,4 +15,4 @@ Watch this 40 seconds video that guides you through adding a *Maximum retail pri
 
 **Related topics**
 
-You can use price attribute as a base value for manually or `automatically generated price list </complete_reference/sales/pricelists>`_.  
+You can use price attribute as a base value for manually or `automatically generated price list </user_guide/sales/pricelists>`_.  

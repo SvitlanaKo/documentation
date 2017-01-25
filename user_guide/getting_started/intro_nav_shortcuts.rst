@@ -3,8 +3,6 @@
 Shortcuts
 =========
 
-.. warning:: Reused from OroCRM. Rework.
-
 Shortcuts are used to quickly perform common actions from anywhere. They can also be used to create new records and to 
 navigate through the system with ease. Shortcuts are particularly useful when you are not sure where an entity is in a 
 menu.

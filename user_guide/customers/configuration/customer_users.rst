@@ -12,7 +12,7 @@ To change the default settings:
 
    The following page opens.
 
-   .. image:: /complete_reference/img/system/configuration/customer/customer_users/CustomerUsers.png
+   .. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsers.png
       :class: with-border
 
    The following table describes the options available on the page:

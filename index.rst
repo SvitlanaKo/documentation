@@ -113,14 +113,6 @@ This section provides links to the online documentation for the latest OroCommer
 
     system_requirements
 
-    complete_reference/index
-
 ..     admin_guide/index
 
 ..     install_guide/index
-
-.. dev_guide
-
-..     complete_reference/index
-
-.. community

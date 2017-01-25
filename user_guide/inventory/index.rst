@@ -75,7 +75,7 @@ Later you can import the updated or processed inventory using import as describe
 Import
 ~~~~~~
 
-.. include:: /user_guide/common_actions/import.rst
+.. include:: /user_guide/getting_started/common_actions/import.rst
   :start-after: begin
   :end-before: finish
 
@@ -84,7 +84,7 @@ Import Inventory Statuses and Levels
 
 The sample for importing bulk product inventory statuses (In Stock, Out of Stock, or Discontinued) and levels (quantity and unit) for the warehouses:
 
-.. include:: /user_guide/common_actions/import_inventory_levels.rst
+.. include:: /user_guide/getting_started/common_actions/import_inventory_levels.rst
   :start-after: start
   :end-before: stop
 
@@ -93,7 +93,7 @@ Import Inventory Statuses Only
 
 The sample for importing bulk product inventory statuses (In Stock, Out of Stock, or Discontinued) only:
 
-.. include:: /user_guide/common_actions/import_inventory_statuses.rst
+.. include:: /user_guide/getting_started/common_actions/import_inventory_statuses.rst
   :start-after: start
   :end-before: stop
 
