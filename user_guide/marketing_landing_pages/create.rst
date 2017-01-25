@@ -1,5 +1,5 @@
-Creating a Landing Page
-^^^^^^^^^^^^^^^^^^^^^^^
+Create a Landing Page
+---------------------
 
 To create a new Landing Page:
 

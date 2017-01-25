@@ -3,8 +3,9 @@ User Guide
 
 OroCommerce as a B2B eCommerce platform provides a number of self-serve capabilities, mature buyer-seller interaction processes (e.g. for placing orders, sharing pricing information, requesting quotes, and submitting proposals), and may be easily used as a B2B Marketplace that connects a wide range of suppliers with multiple buyers. Buyers may get multiple offers and bids across various goods and services.
 
-OroCommerce provides corporate accounts, multiple organizations, websites and stores, high-performance content management system (CMS) with `product <./products/products>`_, `inventory <./inventory/manage-inventory>`_ and `warehouse <./inventory/warehouses>`_ management, personalized `web catalog management <./marketing/web-catalog>`_.
+OroCommerce provides corporate accounts, multiple organizations, websites and stores, high-performance content management system (CMS) with product, `inventory <./inventory/manage-inventory>`_ and `warehouse <./inventory/warehouses>`_ management, personalized `web catalog management <./marketing/web-catalog>`_.
 
+.. `product <./products/products>`_
 .. , multiple and customized `price lists <./sales/price-lists>`_ for your sales organization and multiple `shopping lists <./sales/shopping-lists>`_ for your buyer's organization.
 
 .. contents:: :local:
@@ -19,9 +20,12 @@ Core Features
 
 .. `Websites <./system/websites>`_ &
 
-* Multiple `Organizations <./customers>`_, Websites and `Stores <./marketing/web_catalog>`_: Many businesses manage multinational brands that operate across various countries, currencies, and tax regulations. OroCommerce Enterprise Edition comes out-of-the-box with flexible and robust multi-website management capabilities which allows organizations to easily orchestrate multiple businesses from one central admin console.
+* Multiple `Organizations <./customers>`_, Websites and `Stores <./marketing-web-catalog>`_: Many businesses manage multinational brands that operate across various countries, currencies, and tax regulations. OroCommerce Enterprise Edition comes out-of-the-box with flexible and robust multi-website management capabilities which allows organizations to easily orchestrate multiple businesses from one central admin console.
 * `Content Management System <./marketing-web-catalog>`_: Native CMS capabilities allow marketers and merchandise managers to manage robust digital media-enabled catalogs and rich product information pages providing buyers with the information they need to make purchasing decisions. In addition, OroCommerce’s theme is designed with an intuitive, user-friendly front-end which allows buyers to easily find the information and products they need.
-* `Personalized Catalog Management <./products-master-catalog>`_: Versatile catalog management capabilities allow B2B sellers to customize product catalogs to specific corporations, divisions, business units, and even individual buyers or customers. Each group has access to its own catalog where purchasing managers are able to view its content and purchase products.
+
+.. `Personalized Catalog Management <./products-master-catalog>`_
+
+* **Personalized Catalog Management**: Versatile catalog management capabilities allow B2B sellers to customize product catalogs to specific corporations, divisions, business units, and even individual buyers or customers. Each group has access to its own catalog where purchasing managers are able to view its content and purchase products.
 * **Multiple & Customized Price Lists**: Create and manage multiple customized price lists for each customer, company, or business unit based on the negotiated contracts. Each price list can contain an unlimited number of price points, various tiers, and different currencies.
 
 .. * `Multiple & Customized Price Lists <./sales/price-lists/index>`_: Create and manage multiple customized price lists for each customer, company, or business unit based on the negotiated contracts. Each price list can contain an unlimited number of price points, various tiers, and different currencies.
@@ -64,8 +68,9 @@ For detailed information on using OroCommerce CE and EE, please see the followin
 
 * `Navigation and using OroCommerce UI <./getting_started>`_
 
-* Managing `master catalog <./products-master-catalog>`_, `product details <./products>`_, and price attributes <./products-misc/price-attributes>`_
+.. * Managing master catalog, `product details <./products>`_, and price attributes <./products-misc/price-attributes>`_
 
+.. `master catalog <./products-master-catalog>`_
 .. * `Managing master catalog, product details, and price attributes <./products>`_
 
 * `Managing inventory and product availability in the warehouses <./inventory>`_
@@ -95,12 +100,6 @@ Table of Contents
 
    getting_started/index
 
-   products_master_catalog/index
-
-   products/index
-
-   products_misc/index
-
    inventory/index
 
    customers/index
@@ -112,6 +111,7 @@ Table of Contents
    taxes/index
 
    system/index
+
 ..   install/index
 
 

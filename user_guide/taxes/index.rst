@@ -69,8 +69,6 @@ Manage Tax Rules
 
    link_a_tax_code_to_a_product
 
-   international_taxes_overview
-
 ..   managing_tax_exemptions
 
 ..   integration_with_external_tax_management_systems

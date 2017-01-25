@@ -1,5 +1,5 @@
-Viewing and filtering all Landing Pages
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+View and Filter Landing Pages
+-----------------------------
 
 To view all Landing Pages, navigate to **Marketing > Landing Pages** in the main menu.
 

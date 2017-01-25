@@ -63,7 +63,10 @@ Delegate Account Management to a Customer User
 .. include:: /user_guide/include_images.rst
    :start-after: begin
 
+**Related Information**
+
 .. toctree::
+   :maxdepth: 1
 
    customer_groups/index
 

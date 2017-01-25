@@ -197,7 +197,7 @@ To add a landing page node to the menu on the OroCommerce Store Front:
 
      #) Fill in the landing page details and contents as described `here <./marketing-landing-pages/create>`_.
 
-* Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
+#. Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
 
 .. stop
 

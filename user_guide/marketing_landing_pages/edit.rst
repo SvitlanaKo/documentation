@@ -1,5 +1,5 @@
-Editing a Landing Page
-^^^^^^^^^^^^^^^^^^^^^^
+Edit a Landing Page
+-------------------
 
 To edit the Landing Page title, slug prototypes, content or meta information: 
 

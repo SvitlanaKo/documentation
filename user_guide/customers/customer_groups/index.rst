@@ -22,7 +22,10 @@ Customer Groups
 .. include:: /user_guide/include_images.rst
    :start-after: begin
 
+**Related Information**
+
 .. toctree::
+   :maxdepth: 1
 
    viewlist
 

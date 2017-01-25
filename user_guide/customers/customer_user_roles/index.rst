@@ -15,7 +15,10 @@ Customer User Roles
 
 .. finish
 
+**Related Information**
+
 .. toctree::
+   :maxdepth: 1
 
    viewlist
 

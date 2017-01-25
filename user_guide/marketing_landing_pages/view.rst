@@ -1,5 +1,5 @@
-Viewing Landing Page Details
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+View Landing Page Details
+-------------------------
 
 To view a Landing Page details: 
 
