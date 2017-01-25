@@ -123,26 +123,6 @@ Should an integration with a third-party software require an `API Key <https://e
 
     Only one API key may exist for the user at the same time. If you choose to generate another API key over the existing one, the old key is discarded and cannot be used to access OroCommerce.
 
-.. _user-guide-getting-started-my-user-outlook:
-    
-Download the Outlook Add-in
-"""""""""""""""""""""""""""
-
-OroCommerce Enterprise Edition users will also find a link to the latest version of OroCommerce add-in for Outlook. 
-With this add-in you can synchronize contacts, tasks, and calendar events between OroCommerce and your Outlook.  
-You can associate emails to accounts, contacts, opportunities, and cases and create leads, opportunities and cases 
-in OroCommerce based on emails from the Outlook side bar.
-
-|
-
-.. image:: /user_guide/img/getting_started/intro/user_outlook.png
-
-|
-
-Click the link to start the download. The file will be saved subject to your browser settings. 
-
-To learn more about the add-in, please refer to the `Integration with Outlook guide <../system/configuration/integrations/ms-exchnage.html>`_.
-
 
 Get to the Edit Page of Your User Profile
 """""""""""""""""""""""""""""""""""""""""

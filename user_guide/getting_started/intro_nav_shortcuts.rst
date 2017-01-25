@@ -37,7 +37,7 @@ From here, you can:
 
 
 All the :ref:`menu and sub-menu items <user-guide-navigation-menu>` and 
-`Create forms <../../advanced/data_management/form.html>`_ are available.
+Create forms are available.
 
 
 

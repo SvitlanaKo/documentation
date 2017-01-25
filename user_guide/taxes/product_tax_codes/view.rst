@@ -34,7 +34,7 @@ You can perform the following actions with a Product Tax Code:
    .. image:: /user_guide/img/taxes/product_tax_codes/ProductTaxCodeLinkedProduct.png
       :class: with-border
 
- * `Edit a Product Tax Code details <edit.html>`_: Click |IcEdit| **Edit** to the top right of the page.
+ * `Edit a Product Tax Code details <edit>`_: Click |IcEdit| **Edit** to the top right of the page.
 
  * Delete a Product Tax Code: Click |IcDelete| **Delete** to the top right of the page.
 

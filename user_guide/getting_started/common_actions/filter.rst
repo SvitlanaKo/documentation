@@ -9,7 +9,7 @@ To define filters you can use any of the following filters or combine them:
 
 - **Field Condition**: select only the records with specific values of chosen fields.
 
-- **Activity**: select only the records to which a specific kind of `activity <actions.html>`_ has been or hasn't been assigned.
+- **Activity**: select only the records to which a specific kind of `activity <actions>`_ has been or hasn't been assigned.
 
 - **Data Audit**: select the records that have been modified in a specific way (available for auditable entities only).
 

@@ -26,7 +26,7 @@ To view a Tax Rule details:
 
 You can perform the following actions with a Tax Rule:
 
- * `Edit a Tax Rule details <edit.html>`_: Click |IcEdit| **Edit** to the top right of the page.
+ * `Edit a Tax Rule details <edit>`_: Click |IcEdit| **Edit** to the top right of the page.
 
  * Delete a Tax Rule: Click |IcDelete| **Delete** to the top right of the page.
 

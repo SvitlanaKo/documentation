@@ -144,16 +144,5 @@ View and Manage Events
 
 .. image:: /user_guide/img/common/activities/my_tasks_info.png
 
-.. note::
-  
-    The calendar events can also be mapped to the Oulook account as described in the `Synchronization with Outlook <../system/configuration/integrations/ms-exchnage.html>`_ section.
-
-
-.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
-   :align: middle
-
-.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
-   :align: middle
-
-.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
-   :align: middle
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

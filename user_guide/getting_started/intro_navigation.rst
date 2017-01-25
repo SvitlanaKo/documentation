@@ -65,8 +65,7 @@ At the very top of the page, there is a navigation panel that contains different
   *Company Structure and Organization Selector* guide`"
   "2","**Shortcuts**",Quickly perform the most common actions from anywhere in the system.","
   :ref:`Shortcuts <user-guide-getting-started-shortcuts>`"
-  "3","**Search**","Find a specific record's 
-  `View page <../advanced/data_management/view.html>`_.","
+  "3","**Search**","Find a specific record details.","
   :ref:`Search <user-guide-getting-started-search>`"
   "4","**Pinned pages**","Open pages preserved in the state they were pinned in.",
   ":ref:`Pinned Page <user-guide-ui-components-pinned>`"

@@ -26,7 +26,7 @@ To view a Tax Jurisdiction details:
 
 You can perform the following actions with a Tax Jurisdiction:
 
- * `Edit a Tax Jurisdiction details <edit.html>`_: Click |IcEdit| **Edit** to the top right of the page.
+ * `Edit a Tax Jurisdiction details <edit>`_: Click |IcEdit| **Edit** to the top right of the page.
 
  * Delete a Tax Jurisdiction: Click |IcDelete| **Delete** to the top right of the page.
 

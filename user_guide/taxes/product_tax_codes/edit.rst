@@ -20,14 +20,14 @@ The Product Tax Code is updated.
 Association of the Product Tax Code with the Product
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
-You can edit the association of the Product Tax Code with the product when `editing the product details <../../product/products/edit.html>`_.
+You can edit the association of the Product Tax Code with the product when `editing the product details <../../product/products/edit>`_.
 
-See information on `linking a tax code to a product <../link-a-tax-code-to-a-product.html>`_ for more information.
+See information on `linking a tax code to a product <../link-a-tax-code-to-a-product>`_ for more information.
 
 Association of the Product Tax Code with the Tax Rule
 """""""""""""""""""""""""""""""""""""""""""""""""""""
 
-You can edit the association of the Product Tax Code with the tax when `editing the tax rule details <../tax_rule/edit.html>`_ (see the respective topic for more information).
+You can edit the association of the Product Tax Code with the tax when `editing the tax rule details <../tax_rule/edit>`_ (see the respective topic for more information).
 
 .. stop
 

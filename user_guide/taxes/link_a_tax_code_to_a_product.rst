@@ -9,9 +9,11 @@ To link a tax code to a product:
 
 #. In the **General** section, in the Tax Code list, select the tax code that matches tax regulation for the product.
 
-.. image:: /user_guide/img/taxes/taxes_from_product_view/ProductTaxCode.png
+   .. image:: /user_guide/img/taxes/taxes_from_product_view/ProductTaxCode.png
 
-# Click **Save**.
+#. Click **Save**.
+
+A clickable tax code link is now available in the Product details.
 
 .. image:: /user_guide/img/taxes/taxes_from_product_view/ProductTaxCode_view.png
 

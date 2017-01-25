@@ -22,7 +22,7 @@ To view a Tax Rate details:
 
 You can perform the following actions with a Tax Rate:
 
- * `Edit a Tax Rate details <edit.html>`_: Click |IcEdit| **Edit** to the top right of the page.
+ * `Edit a Tax Rate details <edit>`_: Click |IcEdit| **Edit** to the top right of the page.
 
  * Delete a Tax Rate: Click |IcDelete| **Delete** to the top right of the page.
 

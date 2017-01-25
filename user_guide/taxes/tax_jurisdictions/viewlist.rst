@@ -26,17 +26,17 @@ The following information about the Tax Jurisdictions is available in the Tax Ju
 
 You can perform the following actions with every item in the Tax Jurisdictions list:
 
- * `View a Tax Jurisdiction details <view.html>`_: Click on the item to open its details page.
+ * `View a Tax Jurisdiction details <view>`_: Click on the item to open its details page.
    
    OR
    
    Aternatively: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcView| to open its details page.
 
- * `Edit a Tax Jurisdiction details <edit.html>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
+ * `Edit a Tax Jurisdiction details <edit>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
 
  * Delete a Tax Jurisdiction: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcDelete| to remove the Tax Jurisdiction.
 
- * `Create Tax Jurisdiction <create.html>`_: Click **Create Tax Jurisdiction** to the top right from the list. 
+ * `Create Tax Jurisdiction <create>`_: Click **Create Tax Jurisdiction** to the top right from the list. 
 
 .. stop
 

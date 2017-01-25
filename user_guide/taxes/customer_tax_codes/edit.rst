@@ -20,14 +20,14 @@ The Customer Tax Code is updated.
 Association of the Customer Tax Code with the Customer
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
-You can edit the association of the Customer Tax Code with the customer when `editing the customer details <../../customer/customers/edit.html>`_.
+You can edit the association of the Customer Tax Code with the customer when `editing the customer details <../../customer/customers/edit>`_.
 
-See information on `linking a tax code to a customer <../link_a_tax_code_to_a_customer.html>`_ for more information.
+See information on `linking a tax code to a customer <../link-a-tax-code-to-a-customer>`_ for more information.
 
 Association of the Customer Tax Code with the Tax Rule
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
-You can edit the association of the Customer Tax Code with the tax when `editing the tax rule details <../tax_rule/edit.html>`_ (see the respective topic for more information).
+You can edit the association of the Customer Tax Code with the tax when `editing the tax rule details <../tax-rule/edit>`_ (see the respective topic for more information).
 
 .. stop
 

@@ -26,17 +26,17 @@ The following information about the Product Tax Codes is available in the Produc
 
 You can perform the following actions with every item in the Product Tax Codes list:
 
- * `View a Product Tax Code details <view.html>`_: Click on the item to open its details page.
+ * `View a Product Tax Code details <view>`_: Click on the item to open its details page.
    
    OR
    
    Aternatively: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcView| to open its details page.
 
- * `Edit a Product Tax Code details <edit.html>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
+ * `Edit a Product Tax Code details <edit>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
 
  * Delete a Product Tax Code: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcDelete| to remove the Product Tax Code.
 
- * `Create Account Tax Code <create.html>`_: Click **Create Account Tax Code** to the top right from the list. 
+ * `Create Account Tax Code <create>`_: Click **Create Account Tax Code** to the top right from the list. 
 
 .. stop
 

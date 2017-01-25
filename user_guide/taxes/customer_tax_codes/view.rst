@@ -36,7 +36,7 @@ You can perform the following actions with a Customer Tax Code:
    .. image:: /user_guide/img/taxes/customer_tax_codes/CustomerTaxCodeLinkedCustomerAccount.png
       :class: with-border
 
- * `Edit a Customer Tax Code details <edit.html>`_: Click |IcEdit| **Edit** to the top right of the page.
+ * `Edit a Customer Tax Code details <edit>`_: Click |IcEdit| **Edit** to the top right of the page.
 
  * Delete a Customer Tax Code: Click |IcDelete| **Delete** to the top right of the page.
 

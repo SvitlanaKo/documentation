@@ -30,10 +30,10 @@ See this two minute demo of the inventory import:
 Related Topics
 ^^^^^^^^^^^^^^
 
-* `Importing product details <import-products.html>`_
-* `Importing price information <import-price-lists.html>`_
-* `Importing inventory status <import-inventory-status.html>`_
-* `Importing inventory levels <import-inventory-levels.html>`_
+* `Importing product details <import-products>`_
+* `Importing price information <import-price-lists>`_
+* `Importing inventory status <import-inventory-status>`_
+* `Importing inventory levels <import-inventory-levels>`_
   
 .. toctree::
    :hidden:

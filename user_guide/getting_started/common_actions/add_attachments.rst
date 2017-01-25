@@ -41,8 +41,5 @@ Available actions:
 * |IcDelete|: Delete an existing attachment.
 * |IcEdit|: Edit the attachment (upload updated file, change the comment text, and change the owner).
 
-.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
-   :align: middle
-
-.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
-   :align: middle
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

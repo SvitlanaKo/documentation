@@ -25,7 +25,7 @@ The *"Log Call"* action will be available for records of entities with the *"Cal
   :widths: 10, 30
 
   "**Owner***","Limits the list of users that can manage the log (view, edit) to users,  whose 
-  `roles <../system/user_management/roles.html>`_ allow managing 
+  `roles <../../system/user-management/roles>`_ allow managing 
   calls assigned to the owner (e.g. the owner, members of the same business unit, system administrator, etc.).
 
   By default, it is set to the user logging the call.  
@@ -103,13 +103,7 @@ From any of the grids above, you can manage the tasks using the action icons:
 - Edit the logged call: |IcEdit|
 
 - View the logged call details:  |IcView|
-  
-  
-.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
-   :align: middle
 
-.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
-   :align: middle
 
-.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
-   :align: middle
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

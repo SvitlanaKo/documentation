@@ -32,17 +32,17 @@ The following information about the Tax Rules is available in the Tax Rules list
 
 You can perform the following actions with every item in the Tax Rules list:
 
- * `View a Tax Rule details <view.html>`_: Click on the item to open its details page.
+ * `View a Tax Rule details <view>`_: Click on the item to open its details page.
    
    OR
    
    Aternatively: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcView| to open its details page.
 
- * `Edit a Tax Rule details <edit.html>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
+ * `Edit a Tax Rule details <edit>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
 
  * Delete a Tax Rule: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcDelete| to remove the Tax Rule.
 
- * `Create Tax Rule <create.html>`_: Click **Create Tax Rule** to the top right from the list. 
+ * `Create Tax Rule <create>`_: Click **Create Tax Rule** to the top right from the list. 
 
 .. stop
 

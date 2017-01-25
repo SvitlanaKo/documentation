@@ -60,6 +60,9 @@ Delegate Account Management to a Customer User
 .. include:: /user_guide/customers/delegate.rst
   :start-after: begin
 
+.. include:: /user_guide/include_images.rst
+   :start-after: begin
+
 .. toctree::
 
    customer_groups/index

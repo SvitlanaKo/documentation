@@ -140,7 +140,7 @@ From any of the grids above, you can manage the tasks using the action icons:
 
 - Delete the task: |IcDelete|
 
-- Get to the `Edit from <../../advanced/data_management/form.html>`_ of the task: |IcEdit|
+- Edit the task: |IcEdit|
 
 - Get to the task details page:  |IcView|
 
@@ -172,16 +172,5 @@ Click on the task in the calendar to get to its information tab. Use the buttons
 .. image:: /user_guide/img/common/activities/my_tasks_info.png
 
 
-
-.. note::
-  
-    The tasks can also be mapped to the Outlook account as described in the `Synchronization with Outlook <../system/configuration/integrations/ms-exchnage.html>`_ section.
-
-.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
-   :align: middle
-
-.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
-   :align: middle
-
-.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
-   :align: middle
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

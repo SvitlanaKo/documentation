@@ -35,7 +35,7 @@ The  action will be available for records of entities with the *"Emails"* activi
    
   At least one of the fields (*To*, *Cc* or *Bcc*) must be filled in."
   "**Subject***","A topic of the email. The field must be filled in."
-  "**Apply template**","You can choose an `email template <../system/emails/templates.html>`_ to use from the drop-down
+  "**Apply template**","You can choose an email template to use from the drop-down
   menu."
   "**Type***","Choose whether you want to use html or plain text for the email. The type is by default set to html."
   "**Body**","Define the email body."

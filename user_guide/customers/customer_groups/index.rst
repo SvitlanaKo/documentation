@@ -19,6 +19,9 @@ Customer Groups
 
 .. finish
 
+.. include:: /user_guide/include_images.rst
+   :start-after: begin
+
 .. toctree::
 
    viewlist
