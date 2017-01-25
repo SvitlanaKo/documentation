@@ -21,8 +21,8 @@ System-wide Inventory Configuration
 Product-level Inventory Configuration
 -------------------------------------
 
-Bulk Update
-~~~~~~~~~~~
+In the Inventory Registry
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To manage quantities for all products in multiple warehouses:
 

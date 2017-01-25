@@ -5,32 +5,44 @@ Images
 
 .. begin
 
-.. |IcTranslate| image:: /user_guide/img/common/buttons/IcTranslate.png
-   :align: middle
+.. |IcTranslate| raw:: html
 
-.. |IcDelete| image:: /user_guide/img/common/buttons/IcDelete.png
-   :align: middle
+   <i class="fa fa-folder-o fa-lg" aria-hidden="true"></i>
 
-.. |IcEdit| image:: /user_guide/img/common/buttons/IcEdit.png
-   :align: middle
+.. |IcDelete| raw:: html
 
-.. |IcView| image:: /user_guide/img/common/buttons/IcView.png
-   :align: middle
+   <i class="fa fa-trash fa-lg" aria-hidden="true"></i>
+
+.. |IcEdit| raw:: html
+
+   <i class="fa fa-edit fa-lg" aria-hidden="true"></i>
+
+.. |IcView| raw:: html
+
+   <i class="fa fa-eye fa-lg" aria-hidden="true"></i>
    
-.. |Bplus| image:: /user_guide/img/common/buttons/Bplus.png
-   :align: middle
+.. |Bplus| raw:: html
+
+   <i class="fa fa-plus fa-lg" aria-hidden="true"></i>
    
 .. |IcBulk| image:: /user_guide/img/common/buttons/IcBulk.png
    :align: middle
 
-.. |IcMore| image:: /user_guide/img/common/buttons/IcMore.png
-   :align: middle
-   
-.. |IcDashboard| image:: /user_guide/img/common/buttons/IcDashboard.png
-   :align: middle   
+.. |IcBars| raw:: html
 
-.. |IcEditContentTree| image:: /user_guide/img/common/buttons/IcEditContentTree.png
-   :align: middle
+   <i class="fa fa-navicon fa-lg" aria-hidden="true"></i>
+
+.. |IcMore| raw:: html
+
+   <i class="fa fa-ellipsis-h fa-lg" aria-hidden="true"></i>
+   
+.. |IcDashboard| raw:: html
+
+   <i class="fa fa-bar-chart fa-lg" aria-hidden="true"></i>
+
+.. |IcEditContentTree| raw:: html
+
+   <i class="fa fa-sitemap fa-lg" aria-hidden="true"></i>
 
 .. |SectionDropD| image:: /user_guide/img/dashboards/dashboard/dashboards/section_dd.png
    :align: middle   
@@ -46,13 +58,3 @@ Images
    
 .. |DActionIcons| image:: /user_guide/img/dashboards/dashboard/dashboards/dashboard_action_icons.png
    :align: middle 
-
-.. |indexUser| image:: /user_guide/img/icons/user.png
-
-.. |indexContrib| image:: /user_guide/img/icons/contrib.png
-
-.. |indexAnnouncement| image:: /user_guide/img/icons/announcement.png
-
-.. |indexDev| image:: /user_guide/img/icons/lab.png
-
-.. |indexConfig| image:: /user_guide/img/icons/gear.png

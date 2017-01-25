@@ -19,7 +19,7 @@ To view a Landing Page details:
 
 **Next steps**
 
-You can perform the following actions with a Landing Page:
+You can do the following changes to the landing page in `edit mode <edit>`_ (click |IcEdit| **Edit** on the top right of the page to get there).
 
  * Update content
 

@@ -10,9 +10,9 @@ To change the default product and category visibility settings:
 1. Navigate to the system configuration (click **System > Configuration** in the main menu).
 2. Select **Commerce > Customer > Visibility** in the menu to the left.
 
-..    The following page opens.
+   The following page opens.
 
-..    .. image:: /user_guide/img/system/configuration/customer/Visibility/Visibility.png
+   .. image:: /user_guide/img/system/configuration/customer/Visibility/Visibility.png
       :class: with-border
 
 3. To customize any of the options:
