@@ -16,10 +16,10 @@ This section provides links to the online documentation for the latest OroCommer
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
              <p>
                 <ul>
-                   <li><a href="current/user-guide">Product Catalog and Inventory</a></li>
-                   <li><a href="current/user-guide">Web Catalogs</a></li>
-                   <li><a href="current/user-guide">Websites and Price Lists</a></li>
-                   <li><a href="current/user-guide">Marketing</a></li>
+                   <li><a href="current/user-guide/inventory">Warehouses and Inventory</a></li>
+                   <li><a href="current/user-guide/marketing-web-catalog">Web Catalogs</a></li>
+                   <li><a href="current/user-guide/customers">Customers</a></li>
+                   <li><a href="current/user-guide/taxes">Taxes</a></li>
                 </ul>
              </p>
           </div>

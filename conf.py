@@ -33,11 +33,15 @@ from pygments.lexers.web import PhpLexer
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 # https://github.com/nyergler/hieroglyph
 #https://pypi.python.org/pypi/sphinxcontrib-images
-extensions = ['sensio.sphinx.configurationblock', 'sensio.sphinx.phpcode']
+#extensions = ['sensio.sphinx.configurationblock', 'sensio.sphinx.phpcode']
+#spelling_lang='en_US'
+#spelling_word_list_filename='spelling_wordlist.txt'
+#spelling_show_suggestions=True
+
 
 # set url for API links
-api_url = 'http://phpdoc.orocrm.com/platform/%s'
-api_url_pattern = 'http://phpdoc.orocrm.com/platform/{namespace}namespaces{/namespace}{class}classes{/class}{method}classes{/method}/%(namespace)s{class}.%(class)s{/class}{method}.%(class)s{/method}.html{method}#method_%(method)s{/method}'
+#api_url = 'http://phpdoc.orocrm.com/platform/%s'
+#api_url_pattern = 'http://phpdoc.orocrm.com/platform/{namespace}namespaces{/namespace}{class}classes{/class}{method}classes{/method}/%(namespace)s{class}.%(class)s{/class}{method}.%(class)s{/method}.html{method}#method_%(method)s{/method}'
 namespace_separator = '.'
 
 # Add any paths that contain templates here, relative to this directory.
@@ -77,7 +81,7 @@ release = '1.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build', 'user_guide/overview']
+exclude_patterns = ['_build', 'completeReference/overview']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -120,7 +124,9 @@ html_theme = 'alabaster'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+'fixed_sidebar': False,
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -155,8 +161,10 @@ html_static_path = ['_static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-#html_sidebars = {}
-
+html_sidebars = {
+   '**': ['globaltoc.html', 'sourcelink.html', 'relations.html', 'searchbox.html'],
+   'using/windows': ['windowssidebar.html', 'relations.html', 'searchbox.html'],
+}
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
 #html_additional_pages = {}
