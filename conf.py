@@ -16,9 +16,10 @@ import sys, os
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#sys.path.insert(0, os.path.abspath('.'))
+#sys.path.insert(0, os.path.abspath(''))
+sys.path.insert(0, os.path.abspath('/usr/local/lib/python2.7/dist-packages/sensio1'))
 
-sys.path.append(os.path.abspath('_exts'))
+#sys.path.append(os.path.abspath('/usr/local/lib/python2.7/dist-packages/sensio1'))
 
 # adding PhpLexer
 from sphinx.highlighting import lexers
@@ -33,11 +34,7 @@ from pygments.lexers.web import PhpLexer
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 # https://github.com/nyergler/hieroglyph
 #https://pypi.python.org/pypi/sphinxcontrib-images
-#extensions = ['sensio.sphinx.configurationblock', 'sensio.sphinx.phpcode']
-#spelling_lang='en_US'
-#spelling_word_list_filename='spelling_wordlist.txt'
-#spelling_show_suggestions=True
-
+extensions = ['sensio.sphinx.configurationblock','sensio.sphinx.phpcode']
 
 # set url for API links
 #api_url = 'http://phpdoc.orocrm.com/platform/%s'
@@ -58,7 +55,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'OroCommerce'
-copyright = u'2016, Oro Team'
+copyright = u'2017, Oro Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -119,7 +116,7 @@ primary_domain = 'php'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -196,7 +193,7 @@ html_sidebars = {
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TheOroCommercedoc'
+htmlhelp_basename = 'TheOroCommerceDoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -280,7 +277,7 @@ texinfo_documents = [
 epub_title = u'The OroCommerce'
 epub_author = u'OroTeam'
 epub_publisher = u'OroTeam'
-epub_copyright = u'2016, OroTeam'
+epub_copyright = u'2017, OroTeam'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
