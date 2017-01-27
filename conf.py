@@ -37,8 +37,8 @@ from pygments.lexers.web import PhpLexer
 # 'sensio.sphinx.configurationblock',
 
 # set url for API links
-api_url = 'http://phpdoc.orocrm.com/platform/%s'
-api_url_pattern = 'http://phpdoc.orocrm.com/platform/{namespace}namespaces{/namespace}{class}classes{/class}{method}classes{/method}/%(namespace)s{class}.%(class)s{/class}{method}.%(class)s{/method}.html{method}#method_%(method)s{/method}'
+#api_url = 'http://phpdoc.orocrm.com/platform/%s'
+#api_url_pattern = 'http://phpdoc.orocrm.com/platform/{namespace}namespaces{/namespace}{class}classes{/class}{method}classes{/method}/%(namespace)s{class}.%(class)s{/class}{method}.%(class)s{/method}.html{method}#method_%(method)s{/method}'
 namespace_separator = '.'
 
 # Add any paths that contain templates here, relative to this directory.
