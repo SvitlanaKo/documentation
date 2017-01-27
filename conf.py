@@ -18,7 +18,7 @@ import sys, os
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
 
-sys.path.append(os.path.abspath('_exts'))
+sys.path.append(os.path.abspath('/usr/local/lib/python2.7/dist-packages/sensio1'))
 
 # adding PhpLexer
 from sphinx.highlighting import lexers
@@ -33,12 +33,11 @@ from pygments.lexers.web import PhpLexer
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 # https://github.com/nyergler/hieroglyph
 #https://pypi.python.org/pypi/sphinxcontrib-images
-# extensions = ['sensio.sphinx.phpcode']
-# 'sensio.sphinx.configurationblock',
+extensions = ['sensio.sphinx.configurationblock','sensio.sphinx.phpcode']
 
 # set url for API links
-#api_url = 'http://phpdoc.orocrm.com/platform/%s'
-#api_url_pattern = 'http://phpdoc.orocrm.com/platform/{namespace}namespaces{/namespace}{class}classes{/class}{method}classes{/method}/%(namespace)s{class}.%(class)s{/class}{method}.%(class)s{/method}.html{method}#method_%(method)s{/method}'
+api_url = 'http://phpdoc.orocrm.com/platform/%s'
+api_url_pattern = 'http://phpdoc.orocrm.com/platform/{namespace}namespaces{/namespace}{class}classes{/class}{method}classes{/method}/%(namespace)s{class}.%(class)s{/class}{method}.%(class)s{/method}.html{method}#method_%(method)s{/method}'
 namespace_separator = '.'
 
 # Add any paths that contain templates here, relative to this directory.
