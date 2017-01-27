@@ -33,7 +33,8 @@ from pygments.lexers.web import PhpLexer
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 # https://github.com/nyergler/hieroglyph
 #https://pypi.python.org/pypi/sphinxcontrib-images
-extensions = ['sensio.sphinx.configurationblock', 'sensio.sphinx.phpcode']
+extensions = ['sensio.sphinx.phpcode']
+# 'sensio.sphinx.configurationblock',
 
 # set url for API links
 api_url = 'http://phpdoc.orocrm.com/platform/%s'
