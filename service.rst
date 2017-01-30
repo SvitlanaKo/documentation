@@ -1,19 +1,25 @@
 :orphan:
 
-.. image:: /complete_reference/img/icons/home.png
+Service page
+~~~~~~~~~~~~
 
-.. image:: /complete_reference/img/icons/user.png
+Images
+""""""
 
-.. image:: /complete_reference/img/icons/gear.png
+.. image:: /user_guide/img/icons/home.png
 
-.. image:: /complete_reference/img/icons/lab.png
+.. image:: /user_guide/img/icons/user.png
 
-.. image:: /complete_reference/img/icons/arrow.png
+.. image:: /user_guide/img/icons/gear.png
 
-.. image:: /complete_reference/img/icons/puzzle.png
+.. image:: /user_guide/img/icons/lab.png
 
-.. image:: /complete_reference/img/icons/contrib.png
+.. image:: /user_guide/img/icons/arrow.png
 
-.. image:: /complete_reference/img/icons/announcement.png
+.. image:: /user_guide/img/icons/puzzle.png
 
-.. image:: /complete_reference/img/icons/book.png
+.. image:: /user_guide/img/icons/contrib.png
+
+.. image:: /user_guide/img/icons/announcement.png
+
+.. image:: /user_guide/img/icons/book.png
