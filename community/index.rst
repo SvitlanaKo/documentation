@@ -8,9 +8,9 @@ Find out more about how you can contribute to Oro products.
 .. toctree::
     :maxdepth: 2
     
-    contributing-to-oroplatform-orocommerce-orocrm
-    contributing-to-code
-    contributing-to-documentation
+    contributing
+    code_standards
+    documentation_standards
     reporting-security-issues
     translations
     release_process
