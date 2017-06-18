@@ -15,6 +15,7 @@ This section of the guide will provide an introduction to OroCommerce's user int
     intro_user_profile
     intro_company_structure_org_selector
     intro_navigation
+    intro_filters
     intro_nav_shortcuts
     intro_nav_search
     intro_nav_pinned_pages
@@ -24,6 +25,8 @@ This section of the guide will provide an introduction to OroCommerce's user int
     intro_nav_popup
     widgets_recent_calls
     widgets_today_calendar
+    widgets_recent_emails
+    widgets_sidebar_tasks
     common_actions/manage_address_book
     common_actions/manage_translation
     access_oro/index

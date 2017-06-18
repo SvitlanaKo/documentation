@@ -73,6 +73,7 @@ This section provides links to the online documentation for the latest OroCommer
              <a href="current/community">
                 <h3><i class="guideline__icon fa fa-flag fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
                 Support</h3></a>
+             </a>
            </div>
            <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
              <ul class="guideline__list">
@@ -91,28 +92,21 @@ This section provides links to the online documentation for the latest OroCommer
        </div>
     </div>
 
-.. container:: hidden
+.. toctree::
+    :hidden:
+    :maxdepth: 4
 
-    .. raw:: html
+    user_guide/index
 
-        <div><h2>Table of Contents</h2></div>
+    dev_guide/index
 
-    .. toctree::
-        :includehidden:
-        :titlesonly:
-        :maxdepth: 2
+    admin_guide/index
 
-        user_guide/index
+    community/index
 
-        admin_guide/index
+    system_requirements
 
-        dev_guide/index
-
-        community/index
-
-        system_requirements
-
-        seo_config_guide/index
+    seo_config_guide/index
 
 ..     admin_guide/index
 
