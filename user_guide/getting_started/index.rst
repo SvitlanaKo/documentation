@@ -1,3 +1,5 @@
+.. _user-guide--getting-started:
+
 Getting Started with UI
 =======================
 
@@ -8,9 +10,8 @@ This section of the guide will provide an introduction to OroCommerce's user int
 .. contents:: :local:
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
-    intro_log_in
     intro_user_profile
     intro_company_structure_org_selector
     intro_navigation
@@ -21,3 +22,12 @@ This section of the guide will provide an introduction to OroCommerce's user int
     intro_nav_history_fav_viewed
     intro_nav_sidebar
     intro_nav_popup
+    widgets_recent_calls
+    widgets_today_calendar
+    common_actions/manage_address_book
+    common_actions/manage_translation
+    access_oro/index
+    my_oro/index
+    activities/index
+
+..     intro_log_in

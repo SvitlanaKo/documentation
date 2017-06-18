@@ -52,13 +52,13 @@ To map an entry point for the web catalog content tree:
 
 #) In the *General* section, fill in root content node title that serves as a container for the nodes added later in the Content Variants section.
 
-   If necessary, translate the title into the languages supported in your OroCommerce configuration. To manage title translations, click next to the Titles box and follow the `guidance here <./../getting-started/common-actions/manage-translation>`_).
+   If necessary, translate the title into the languages supported in your OroCommerce configuration. To manage title translations, click next to the Titles box and follow the :ref:`guidance here <config-guide--translations>`).
 
 #) Set **Rewrite Variant Title** to force override the native title of the content you are mapping to this catalog node.
 
 #) In the *SEO* section, fill in the meta description and meta keywords to help search engines show your web content to the relevant audience. similar to the title, you can translate the meta information.
 
-#) In the *Restriction section*, define the visibility of the web catalog. 
+#) In the *Restriction section*, define the visibility of the web catalog.
 
    By default, the web catalog is displayed for any localization, on any website, and for any customer.
 
@@ -66,7 +66,7 @@ To map an entry point for the web catalog content tree:
 
 #) In the *Content Variants* section, model the desired Store Front menu structure:
 
-     #. Select a type of content note from the list on the right.
+     #. Select a type of content node from the list on the right.
 
         .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreateContentVariants.png
            :class: with-border
@@ -92,13 +92,13 @@ To set up the mapping of the content to the web catalog content tree:
 
 #) In the *SEO* section, fill in the meta description and meta keywords to help search engines show your web content to the relevant audience. similar to the title, you can translate the meta information.
 
-#) In the *Restriction section*, define the visibility of the web catalog. 
+#) In the *Restriction section*, define the visibility of the web catalog.
 
    By default, the web catalog node inherits the settings from the root node or its parent node. However, you can adjust it to be displayed for particular localization, on a specific website, and/or for the selected customer(s).
 
    To modify the inherited default settings, clear the **Inherit Parent** box, and specify the restrictions by selecting all or some of the following: target localization, website, and customer or customer group.
 
-#) In the *Content Variants* section, add the default content item that shows on OroCommerce Front Store when no restriction conditions are met:
+#) In the *Content Variants* section, add the default content item that shows on OroCommerce store frontend when no restriction conditions are met:
 
      #. Select a type of content note from the list on the right.
 
@@ -178,7 +178,7 @@ To add a category node to the menu on the OroCommerce Store Front:
 Landing Page
 """"""""""""
 
-Landing Page node is a link to the `custom content page <./marketing-landing-pages>`_ created in the **Marketing > Landing Pages** section. 
+Landing Page node is a link to the `custom content page <./marketing-landing-pages>`_ created in the **Marketing > Landing Pages** section.
 
 To add a landing page node to the menu on the OroCommerce Store Front:
 
@@ -196,6 +196,34 @@ To add a landing page node to the menu on the OroCommerce Store Front:
         The Create Landing Page pops up.
 
      #) Fill in the landing page details and contents as described `here <./marketing-landing-pages/create>`_.
+
+#. Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
+
+Product Collection
+""""""""""""""""""
+
+Product Collection is a filter-based segment that helps you display a custom and dynamic set of products in the web catalog similarly to the category contents.
+
+To add a product collection node to the menu on the OroCommerce Store Front:
+
+#. Select the **Add Product Collection** in the Content Variants list.
+
+   The following section shows:
+
+   .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogCreateContentVariantsProductCollection.png
+      :class: with-border
+
+   .. add ref :ref:`filter <segments-filter>`
+
+#. Set up a filter to limit the products list and include only the necessary products.
+
+   .. note::
+
+      Click **Reset** to clear the filter configuration.
+
+      Click **Apply Query** to preview the filtered product collection.
+
+   .. warning:: If you save the web catalog node with the product collection without applying changed filters, you will be prompted to confirm the changes. It is recommended to preview and double-check the changes to ensure the results meet your expectations.
 
 #. Click **Save** when you are done filling in the web catalog content node or keep adding the content variants.
 

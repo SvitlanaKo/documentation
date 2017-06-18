@@ -10,13 +10,13 @@ For customer user management, navigate to **Customers > Customer Users** in the 
 In Customer Users section, you can:
 
 * View, edit and create new customer users
-* Select their roles in OroCommerce to define their level of permissions and access to the actions and data in OroCommerce Front
+* Select their roles in OroCommerce to define their level of permissions and access to the actions and data in OroCommerce store frontend
 * Manage customer user information:
 
     - Name
     - Birthday
     - Email address
-    - Billing and shipping address and phone number (using `address book <./../getting-started/common-actions/manage-address-book>`_)
+    - Billing and shipping address and phone number (using :ref:`address book <user-guide--getting-started--address-book>`)
     - Customer user role(s)
     - Website to redirect the customer upon login
 
@@ -30,4 +30,4 @@ In Customer Users section, you can:
 
 **Customer Account Confirmation**
 
-Upon registeration, customer user receives an email confirmation request. Once they follow up with the requested action, their account is marked as confirmed.
+Upon registration, customer user receives an email confirmation request. Once they follow up with the requested action, their account is marked as confirmed.
