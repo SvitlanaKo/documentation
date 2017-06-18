@@ -95,7 +95,7 @@ This section provides links to the online documentation for the latest OroCommer
 
     .. raw:: html
 
-        <div><h2>Table of Contents></h2></div>
+        <div><h2>Table of Contents</h2></div>
 
     .. toctree::
         :includehidden:

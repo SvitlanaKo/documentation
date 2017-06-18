@@ -1,9 +1,5 @@
 .. _user-guide--payment:
 
-.. sidebar:: Contents
-
-   .. contents:: :local:
-
 Payment
 =======
 
