@@ -1,71 +1,126 @@
-Contributing to Translatiion
-============================
+How to Translate the Oro Project
+==================================
 
-.. contents:: :local:
+Oro products support many internationalization functions including multiple languages and translations.
+All translatable strings are defined in each bundle translation domain files and are available via the translation
+management service `CrowdIn`_. This service allows to easily collaborate on the translation process and to enable
+more supported languages.
 
-OroCommerce supports localization and internationalization for multiple languages and locales.
-All strings that may be translated are defined in the bundle translation domain files and are exposed via the translation
-management service `CrowdIn`_ to enable the collaborative translation efforts.
+To take part in the localization, you need to:
 
-To contribute to OroCommerce translation into your native language:
+1. :ref:`Join <translations-join-the-team>` the translation team.
 
-#. `Join the Translation Team`_.
+2. :ref:`Propose <translations-propose-translations>` your translations.
 
-#. `Submit Your Translations`_.
+3. Wait and :ref:`see your translations added <translations-added>` to the system and
+   :ref:`apply <translations-language-settings>` it or :ref:`contact <translations-contact>` the Oro team.
 
-#. Wait for your translation to be approved.
-
-#. In OroCommerce, in **System > Localization > Languages** section, ensure that synchronization is enabled for the target language. `Contact Oro Translation Team if you Face any Issues`_ (e.g. your translation does not appear in the OroCommerce after it has been approved).
+.. _translations-join-the-team:
 
 Join the Translation Team
 -------------------------
 
-#. Sign in into your Crowdin account or sign up for a new user account if you don not have one yet:
+1. Sign up and create your profile at the Crowdin (or sign in, if you already have the profile):
 
-   a) Open `Crowdin <https://crowdin.com/join>`_ in your browser.
+   1. Click the `Crowdin <https://crowdin.com/join>`_ link at the 'Community --> Localization' page.
 
-   #) Sign in using your github account or social media account (facebook, google+, twitter). Alternatively, create a new Crowdin account: enter your email, user name, password and password confirmation, and click **Create account**. Follow the link in the confirmation Email to activate you account.
+   2. Follow the link in the confirmation Email to activate you account.
 
-#. Open `OroCommerce project <https://crowdin.com/project/orocommerce>`_. **Note:** To offer translations for OroCRM and OroPlatform, please use their dedicated translation projects: `OroCRM project <https://translate.orocrm.com>`_ and `OroPlatrom project <http://translate.platform.orocrm.com>`_.
+2. Click `OroCRM <http://translate.orocrm.com>`_ link to offer translations for OroCRM or
+   `OroPlatform <http://translate.platform.orocrm.com>`_ to offer translations for OroPlatform.
 
-#. Select the target language for OroCommerce translation and click :guilabel:`Join` next to the following message: “You must join the translators team to be able to participate in this project”.
+   The project page will appear.
 
-#. Type in the reason for joining the translation team (e.g. as a developer, I'd like to enable Korean translation for OroCommerce and my customization) and click :guilabel:`Join`.
+3. Choose the language to which you want to translate.
 
-#. Your request will be reviewed by the Oro support team. Upon approval, you will get an email from Crowdin with an invitation to start contributing.
+4. A ‘“You must join the translators team to be able to participate in this project.”’ note will
+   appear above the language list. Click the :guilabel:`Join` button.
 
-Submit Your Translations
-------------------------
+5. The Request form will appear. Define why you want to join the translation team and click the
+   :guilabel:`Join` button.
 
-#. To open OroCommerce translation project, click :guilabel:`Get Involved` in the email from Crowdin that confirms your OroCommerce project team membership. Alternatively, use the `OroCommerce project <https://crowdin.com/project/orocommerce>`_ link to open the project.
+   1. Your request will be reviewed by the Oro team. Upon approval, you will get another Email from
+      Crowdin.
 
-#. Select the target language (e.g. Korean).
+   2. Click the :guilabel:`Get Involved` button in the letter you received.
 
-   Translations are stored in *yaml* files organized by bundles (e.g. OroAlternativeCheckoutBundle, OroCatalogBundle) and by groups (e.g. messages, tooltips).
 
-#. Select the yaml file with the translations you would like to contribute to.
+.. _translations-propose-translations:
 
-#. Submit your translation. For more information on using Crowdin, please see the `Crowdin tutorial <https://support.crowdin.com/for-translators/onlineworkbench/translation-tutorial/>`_.
+Propose Your Translations
+-------------------------
 
-#. After you have submitted the translation, it will be queued for `proofreading <https://support.crowdin.com/for-translators/onlineworkbench/proofreading>`_. Other translators can `vote <https://support.crowdin.com/for-translators/onlineworkbench/voting>`_ for it.
+1. Log in at https://crowdin.com/
 
-#. When the translation is approved, it is marked with a green check and moved to the end of the list on the translation page. Approved translations are merged (published) to the OroCommerce translations once a day and become available in OroCommerce on the **System > Configuration > Language Settings** page.
+2. Hover the mouse over the "Translation" column of the necessary project and click :guilabel:`Go to Translations`.
+
+3. Choose the language of your translation team.
+
+4. Choose the Oro bundle and file for which you want to translate.
+
+5. Translate as described in the Crowdin tutorial at
+   https://support.crowdin.com/for-translators/onlineworkbench/translation-tutorial/
+
+
+.. _translations-added:
+
+What Happens Next?
+------------------
+
+1. After you have proposed the translation, it will be queued for
+   `proofreading <https://support.crowdin.com/for-translators/onlineworkbench/proofreading>`_
+   and can also be `voted <https://support.crowdin.com/for-translators/onlineworkbench/voting>`_ by other translators.
+
+2. If the translation was approved:
+
+ - it will be marked with a green check
+
+ - it will be moved to the end of the list on the translation page
+
+3. Approved translations are merged once a day. Once the translation was approved, it will become available from the
+   *System --> Configuration --> Language Settings* page.
+
 
   .. _translations-language-settings:
 
-Update Translation in OroCommerce
----------------------------------
+Apply the Translation
+---------------------
 
-.. TODO: OroCommerce UI has changed. Confirm th correct process for translation sync with crowdin.
+1. Go to the the *System --> Configuration --> Language Settings* page.
 
-1. Navigate to the **System > Localization > Languages** in the main menu.
+2. Check the Available Translations grid:
 
-2. If your target language is not listed, click :guilabel:`Add language`, select the target language from the list and click **Add language** in the box to confirm the action. This will trigger the download of the translation files from the Crowdin project into OroCommerce.
+.. image:: img/translations/available_translations.png
 
-3. If the status for your target language is *Disabled*, click on a **tick** icon in the **Updates** column. This will enable loading the translation updates automatically from the Crowdin project into OroCommerce.
 
-Contact Oro Translation Team if you Face any Issues
----------------------------------------------------
+- If the :guilabel:`Download` button is available and the "Translation status" column is empty, the
+  translation has not been loaded by you. Click the :guilabel:`Download` button.
 
-.. include:: ./issues/translation.rst
-   :start-after: begin
+- If the translation has been loaded and its status is Up to date, you can Enable it (:guilabel:`Enable`).
+
+- If the translation has been loaded and enabled, you can Disable it (:guilabel:`Disable`).
+
+- Once new translations have been merged, the status will change to "Update needed". Click the :guilabel:`Update` button.
+  New translations will be added and the status will be changed back to "Up to date"
+
+- The settings will be applied, once you have clicked the :guilabel:`Save Settings` button in the top right-hand corner
+  of the page. Enabled languages will appear in the "Supported Languages" field and in the "Default Language" drop-down.
+
+
+.. _translations-contact:
+
+How and When to Contact Oro about Translations
+----------------------------------------------
+
+In order to contact the Oro team about a translation issue, please use the
+`contact <https://crowdin.com/mail/compose/oro>`_ link in the "Owner" section (left-hand side of the project page).
+
+Please don't hesitate to contact us from Crowdin if:
+
+- your translation has been marked as approved for over one day and has not appeared at the site
+
+- your translation is still in "not approved" status (there is a green dot near it in the list) for too long
+
+- you want to become a proofreader for a certain language
+
+- you have any other question and issue with translations that are not covered in this guide and the Crowdin tutorial.

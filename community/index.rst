@@ -1,17 +1,20 @@
 Community Guide
 ===============
 
-Join Oro community and contribute to the open-source OroCommerce Community Edition. The OroCommerce Community Guide provides the following information, best practices and conventions for contributing into the OroCommerce `source code <./contribute>`_, `translation <./translations>`_, and `documentation <./write>`_.
+**We appreciate your help and interest in contributing to Oro products!**
+
+Find out more about how you can contribute to Oro products.
 
 .. toctree::
-   :maxdepth: 2
-   
-   contribute
+    :maxdepth: 3
+    
+    contributing
+    code_version_control
+    code_style_guide
+    documentation_style_guide
+    reporting-security-issues
+    translations
+    release_process
 
-   translations
-
-   write
-
-   issues/index
-
-   question
+If you would like to join our community team chat channel on `Slack <https://orocommunity.slack.com/>`_, 
+please request an invitation: **slack [at] oroinc.com**
