@@ -36,9 +36,9 @@ User and Administrator Guides
         <div class="guideline__item">
             <a href="current/user-guide-roles/"><h3 style="text-align:center"><i class="guideline__icon fa fa-user-plus fa-2x" style="color:#FFC221"></i><br />User Guide: Roles</h3></a>
             <ul class="guideline__list simple">
-                <li><a class="reference external" href="current/user-guide-roles/sales-tools/">Sales Tools</a></li>
-                <li><a class="reference external" href="current/user-guide-roles/marketing-tools/">Marketing Tools</a></li>
-                <li><a class="reference external" href="current/user-guide-roles/support-tools/">Support Tools</a></li>
+                <li><a class="reference external" href="current/user-guide-sales-tools/">Sales Tools</a></li>
+                <li><a class="reference external" href="current/user-guide-marketing-tools/">Marketing Tools</a></li>
+                <li><a class="reference external" href="current/user-guide-support-tools/">Support Tools</a></li>
             </ul>
         </div>
     
@@ -137,11 +137,11 @@ Developer Guides
 
     user_guide/index
 
-    user_guide_roles/sales_tools/index
+    user_guide_sales_tools/index
 
-    user_guide_roles/marketing_tools/index
+    user_guide_marketing_tools/index
 
-    user_guide_roles/support_tools/index
+    user_guide_support_tools/index
 
     admin_guide/index
 
