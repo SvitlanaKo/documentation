@@ -80,7 +80,7 @@ View Magento Orders
 
 You can view orders placed by a specific Magento customer on their view page in the Oro application by clicking **Sales > Magento Orders**, as illustrated below:
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoCustomerOrdersTab.png
+.. image:: /img/magento_entities/MagentoCustomerOrdersTab.png
 
 The following information will be displayed:
 
@@ -110,7 +110,7 @@ View Magento Carts
 
 In the Oro application, you can view carts related to a specific Magento customer on the their view page by clicking **Sales > Magento Shopping Carts**, as illustrated below:
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoCreditMemoCartTab.png
+.. image:: /img/magento_entities/MagentoCreditMemoCartTab.png
 
 The following information will be displayed:
 
@@ -140,7 +140,7 @@ You can view :ref:`credit memos <user-guide--sales--magento-credit-memos>` relat
 
 To view memos on the view page of a selected Magento customer, click **Sales > Magento Credit Memos**, as illustrated below:
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoCreditMemoCustomerPage2.png
+.. image:: /img/magento_entities/MagentoCreditMemoCustomerPage2.png
 
 The following information will be displayed:
 

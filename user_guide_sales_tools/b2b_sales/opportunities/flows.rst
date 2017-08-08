@@ -174,8 +174,8 @@ You can create any number of quotes for one open opportunity.
 
 .. finish_opportunity_flows
 
-.. include:: ../../../../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin
 
-.. |IcExpire| image:: ../../../../img/buttons/IcExpire.png
+.. |IcExpire| image:: /img/buttons/IcExpire.png
    :align: middle

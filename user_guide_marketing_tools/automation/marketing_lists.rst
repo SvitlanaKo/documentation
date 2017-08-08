@@ -209,37 +209,37 @@ Action icons within **Removed Items** enable the following actions:
 Now, you can go ahead and use contacts of your marketing lists to run dedicated campaigns among the customers that best
 suit your purposes. 
 
-.. |IcDelete| image:: ../../../img/buttons/IcDelete.png
+.. |IcDelete| image:: /img/buttons/IcDelete.png
    :align: middle
 
-.. |IcEdit| image:: ../../../img/buttons/IcEdit.png
+.. |IcEdit| image:: /img/buttons/IcEdit.png
    :align: middle
 
-.. |IcMove| image:: ../../../img/buttons/IcMove.png
+.. |IcMove| image:: /img/buttons/IcMove.png
    :align: middle
 
-.. |IcView| image:: ../../../img/buttons/IcView.png
+.. |IcView| image:: /img/buttons/IcView.png
    :align: middle
 
-.. |IcSub| image:: ../../../img/buttons/IcSub.png
+.. |IcSub| image:: /img/buttons/IcSub.png
    :align: middle
 
-.. |IcUns| image:: ../../../img/buttons/IcUns.png
+.. |IcUns| image:: /img/buttons/IcUns.png
    :align: middle
 
-.. |IcRemove| image:: ../../../img/buttons/IcRemove.png
+.. |IcRemove| image:: /img/buttons/IcRemove.png
    :align: middle
 
-.. |UndoRem| image:: ../../../img/buttons/UndoRem.png
+.. |UndoRem| image:: /img/buttons/UndoRem.png
    :align: middle
       
-.. |BGotoPage| image:: ../../../img/buttons/BGotoPage.png
+.. |BGotoPage| image:: /img/buttons/BGotoPage.png
    :align: middle
    
-.. |Bdropdown| image:: ../../../img/buttons/Bdropdown.png
+.. |Bdropdown| image:: /img/buttons/Bdropdown.png
    :align: middle
 
-.. |BCrLOwnerClear| image:: ../../../img/buttons/BCrLOwnerClear.png
+.. |BCrLOwnerClear| image:: /img/buttons/BCrLOwnerClear.png
    :align: middle
 
 .. |MapML| image:: ../../img/marketing/map_ml.png

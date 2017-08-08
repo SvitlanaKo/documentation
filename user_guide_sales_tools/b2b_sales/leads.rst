@@ -233,8 +233,8 @@ Using Leads in Workflows
 You can use
 OroCRM’s :term:`workflows <Workflow>` to define rules and guidelines on possible actions/updates of leads in the system. New customer-specific workflows can also be created, as described in the :ref:`Workflows guide <doc--workflows>`.
 
-.. BCrLOwnerClear| image:: ../../../img/buttons/BCrLOwnerClear.png
+.. BCrLOwnerClear| image:: /img/buttons/BCrLOwnerClear.png
    :align: middle
 
-.. include:: ../../../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin

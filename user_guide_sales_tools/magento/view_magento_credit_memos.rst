@@ -14,7 +14,7 @@ From the Magento Credit Memo List
 
 To view all Magento credit memos, navigate to **Sales > Magento Credit Memos** in the main menu.
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoCreditMemosGrid.png
+.. image:: /img/magento_entities/MagentoCreditMemosGrid.png
 
 The following information is displayed for credit memos:
 
@@ -54,7 +54,7 @@ To view details of a specific Magento Credit Memo:
 
    The following page opens:
 
-   .. image:: /user_guide_roles/img/magento_entities/MagentoCreditMemosViewPage.png
+   .. image:: /img/magento_entities/MagentoCreditMemosViewPage.png
 
 Within the page, the following sections are available:
 
@@ -62,7 +62,7 @@ Within the page, the following sections are available:
 2. **Credit Memo Items** section lists the items which the credit memo covers.
 3. **Activity** section includes any :ref:`notes <user-guide-add-note>` related to the credit memos (if available).
 
-   .. image:: /user_guide_roles/img/magento_entities/CreditMemoSectionViewPage.png
+   .. image:: /img/magento_entities/CreditMemoSectionViewPage.png
 
 
 

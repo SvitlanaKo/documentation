@@ -179,5 +179,5 @@ Within these widgets, you can view records filtered within one or several specif
 .. image:: ../../img/territories/opp_by_status_ter.png
 
 
-.. include:: ../../../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin

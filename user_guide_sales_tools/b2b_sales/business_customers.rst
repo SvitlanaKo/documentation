@@ -94,8 +94,8 @@ The following actions can be performed with business customer records:
     actions/updates of business customers in the system.
 
 
-.. BCrLOwnerClear| image:: ../../../img/buttons/BCrLOwnerClear.png
+.. BCrLOwnerClear| image:: /img/buttons/BCrLOwnerClear.png
    :align: middle
 
-.. include:: ../../../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin

@@ -7,11 +7,11 @@ Introduction to Magento Sales
 -----------------------------
 
 
-.. include:: /user_guide_roles/sales_tools/magento/magento_channels.rst
+.. include:: /user_guide_sales_tools/magento/magento_channels.rst
    :start-after: begin_magento_channels_1
    :end-before: finish_magento_channels_1
 
-.. include:: /user_guide_roles/sales_tools/magento/magento_channels.rst
+.. include:: /user_guide_sales_tools/magento/magento_channels.rst
    :start-after: begin_magento_channels_2
    :end-before: finish_magento_channels_2
 

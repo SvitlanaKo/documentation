@@ -107,5 +107,5 @@ Within the board, you can:
 
 .. finish_manage_opportunities
 
-.. include:: ../../../../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin

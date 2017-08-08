@@ -26,11 +26,11 @@ To convert a shopping cart into an :ref:`order <user-guide-magento-orders-create
 2. Click on the necessary cart to open its :ref:`view page <user-guide-ui-components-view-pages>`. Make sure that the status of such cart is **Open**.
 3. Click the **Place an Order**.
 
-   .. image:: /user_guide_roles/img/magento_entities/PlaceOrderFromCart.png
+   .. image:: /img/magento_entities/PlaceOrderFromCart.png
 
 3. Enter the admin panel of your Magento shop and submit the order.
 
-   .. image:: /user_guide_roles/img/magento_entities/PlaceOrderFromCartAdminPanel.png
+   .. image:: /img/magento_entities/PlaceOrderFromCartAdminPanel.png
 
 .. caution::
 
@@ -45,7 +45,7 @@ View Carts
 
 To view all Magento carts, navigate to **Sales > Magento Carts** in the main menu.
 
-.. image:: /user_guide_roles/img/magento_entities/AllMagentoCartsGrid.png
+.. image:: /img/magento_entities/AllMagentoCartsGrid.png
 
 The following information is displayed for carts:
 
@@ -88,7 +88,7 @@ To view details of a specific cart:
 
 The following page opens:
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoCartViewPageNew.png
+.. image:: /img/magento_entities/MagentoCartViewPageNew.png
 
 Within the page, the following sections are available:
 
@@ -104,7 +104,7 @@ From the cart view page, you can perform the following actions:
 2. Send an :ref:`Email <user-guide-using-emails>`.
 3. Log a :ref:`Call <doc-activities-calls>`.
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoCartItemsTopMenu.png
+.. image:: /img/magento_entities/MagentoCartItemsTopMenu.png
 
 
 .. important::

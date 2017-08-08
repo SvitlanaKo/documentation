@@ -29,16 +29,16 @@ To create an order from the view page of the selected Magento customer:
 2. Click on the necessary customer to open their view page.
 3. Click **Create Order** in the top navigation menu on the customer page.
 
-   .. image:: /user_guide_roles/img/magento_entities/CreateOrderButtonNew.png
+   .. image:: /img/magento_entities/CreateOrderButtonNew.png
 
 
 4. Enter the admin panel of your Magento shop.
 
-   .. image:: /user_guide_roles/img/magento_entities/LoginToAdminMagento.png
+   .. image:: /img/magento_entities/LoginToAdminMagento.png
 
 5. Fill in the details in the order form and click **Submit Order** in the top right corner of the form.
 
-   .. image:: /user_guide_roles/img/magento_entities/CreatOrderInAdminPanel.png
+   .. image:: /img/magento_entities/CreatOrderInAdminPanel.png
 
 Please, keep in mind that:
 
@@ -54,11 +54,11 @@ To convert a shopping cart into an order, perform the following steps:
 2. Click on the necessary cart to open its :ref:`view page <user-guide-ui-components-view-pages>`. Make sure that the status of such cart is **Open**.
 3. Click the **Place an Order**.
 
-   .. image:: /user_guide_roles/img/magento_entities/PlaceOrderFromCart.png
+   .. image:: /img/magento_entities/PlaceOrderFromCart.png
 
 3. Enter the admin panel of your Magento shop and submit the order.
 
-   .. image:: /user_guide_roles/img/magento_entities/PlaceOrderFromCartAdminPanel.png
+   .. image:: /img/magento_entities/PlaceOrderFromCartAdminPanel.png
 
 .. caution::
 
@@ -72,7 +72,7 @@ View Magento Orders
 
 To view all orders, navigate to **Sales > Magento Orders** in the main menu.
 
-.. image:: /user_guide_roles/img/magento_entities/MagentoOrdersGrid.png
+.. image:: /img/magento_entities/MagentoOrdersGrid.png
 
 The following information about orders is available:
 
@@ -111,7 +111,7 @@ To view details of a specific order:
 
 The following page opens:
 
-.. image:: /user_guide_roles/img/magento_entities/OrderPending.png
+.. image:: /img/magento_entities/OrderPending.png
 
 Within the page, the following sections are available:
 
@@ -126,7 +126,7 @@ From the order view page, you can perform the following actions:
 2. Under **More Actions** menu, you can log a call, add an attachment, a note, a task, an event, or send an email.
 3. Record Feedback on the order.
 
-   .. image:: /user_guide_roles/img/magento_entities/MagentoOrderTopMenu.png
+   .. image:: /img/magento_entities/MagentoOrderTopMenu.png
 
 
 .. important::

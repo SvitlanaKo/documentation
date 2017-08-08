@@ -72,13 +72,13 @@ See detailed guidance in the :ref:`Create Opportunities <user-guide-opportunitie
    :start-after: begin_opportunity_reports
    :end-before: finish_opportunity_reports
 
-.. BCrLOwnerClear| image:: ../../../../img/buttons/BCrLOwnerClear.png
+.. BCrLOwnerClear| image:: /img/buttons/BCrLOwnerClear.png
    :align: middle
 
-.. |IcExpire| image:: ../../../../img/buttons/IcExpire.png
+.. |IcExpire| image:: /img/buttons/IcExpire.png
    :align: middle
 
-.. include:: ../../../../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin
 
 .. toctree::

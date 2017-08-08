@@ -102,22 +102,22 @@ The :ref:`View page <user-guide-ui-components-view-pages>` of a campaign contain
 
 
 
-.. |IcDelete| image:: ../../../img/buttons/IcDelete.png
+.. |IcDelete| image:: /img/buttons/IcDelete.png
    :align: middle
 
-.. |IcEdit| image:: ../../../img/buttons/IcEdit.png
+.. |IcEdit| image:: /img/buttons/IcEdit.png
    :align: middle
 
-.. |IcView| image:: ../../../img/buttons/IcView.png
+.. |IcView| image:: /img/buttons/IcView.png
    :align: middle
    
-.. |BGotoPage| image:: ../../../img/buttons/BGotoPage.png
+.. |BGotoPage| image:: /img/buttons/BGotoPage.png
    :align: middle
    
-.. |Bdropdown| image:: ../../../img/buttons/Bdropdown.png
+.. |Bdropdown| image:: /img/buttons/Bdropdown.png
    :align: middle
 
-.. |BCrLOwnerClear| image:: ../../../img/buttons/BCrLOwnerClear.png
+.. |BCrLOwnerClear| image:: /img/buttons/BCrLOwnerClear.png
    :align: middle
 
 .. |ViewEvents| image:: ../../img/marketing/marketing_campaign_view_events.png

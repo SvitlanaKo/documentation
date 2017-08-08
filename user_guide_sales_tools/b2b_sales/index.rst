@@ -94,10 +94,10 @@ In your Oro application, you can group customer accounts based on a defined set 
 Further Reading
 ---------------
 
-* :doc:`/user_guide_roles/sales_tools/b2b_sales/business_customers`
-* :doc:`/user_guide_roles/sales_tools/b2b_sales/leads`
-* :doc:`/user_guide_roles/sales_tools/b2b_sales/opportunities/index`
-* :doc:`/user_guide_roles/sales_tools/b2b_sales/territory_management`
+* :doc:`/user_guide_sales_tools/b2b_sales/business_customers`
+* :doc:`/user_guide_sales_tools/b2b_sales/leads`
+* :doc:`/user_guide_sales_tools/b2b_sales/opportunities/index`
+* :doc:`/user_guide_sales_tools/b2b_sales/territory_management`
 
 .. toctree::
     :hidden:
