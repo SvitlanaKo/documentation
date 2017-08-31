@@ -1,5 +1,7 @@
 :orphan:
 
+.. _configuration--products:
+
 Configure Products in System Configuration
 ------------------------------------------
 
@@ -14,6 +16,22 @@ OroCommerce groups product configuration options into the following categories:
   * `Global Product Image Watermark Configuration`_
 
   * `Product Image Watermark Configuration Per Website`_
+
+* Image Gallery:
+
+  * `Configure Image Gallery Globally`_
+
+  * `Configure Image Gallery per Organization`_
+
+  * `Configure Image Gallery per Website`_
+
+* Image Preview:
+
+  * `Configure Image Preview on Product Listing Page Globally`_
+
+  * `Configure Image Preview on Product Listing Page per Organization`_
+
+  * `Configure Image Preview on Product Listing Page per Website`_
 
 * New Arrivals:
 
@@ -31,13 +49,30 @@ OroCommerce groups product configuration options into the following categories:
 
   * `Select a Featured Products Segment to Use Per Website`_
 
-* Related Products:
+* Related Items:
 
- * `Enable Related Products Globally`_
+  * Related Products:
 
- * `Enable Related Products per Organization`_
+    * `Enable and Set Up Related Products Globally`_
 
- * `Enable Related Products per Website`_
+    * `Enable and Set Up Related Products per Organization`_
+
+    * `Enable and Set Up Related Products per Website`_
+
+  * Up-Sell Products:
+
+    * `Enable and Set Up Up-Sell Products Globally`_
+
+    * `Enable and Set Up Up-Sell Products per Organization`_
+
+    * `Enable and Set Up Up-Sell Products per Website`_
+
+.. uncomment for DOC-145:
+
+..  To configure Cross-Sell Products:
+    * `Enable and Set Up Cross-Sell Products Globally`_
+    * `Enable and Set Up Cross-Sell Products per Organization`_
+    * `Enable and Set Up Cross-Sell Products per Website`_
 
 Product Units
 ^^^^^^^^^^^^^
@@ -58,6 +93,55 @@ Product Image Watermark Configuration Per Website
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. include:: /user_guide/products/configuration/website_images.rst
+   :start-after: begin
+   :end-before: finish
+
+Image Gallery
+^^^^^^^^^^^^^
+
+Configure Image Gallery Globally
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/products/configuration/global_gallery.rst
+   :start-after: begin
+   :end-before: finish
+
+Configure Image Gallery Per Organization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/products/configuration/organization_gallery.rst
+   :start-after: begin
+   :end-before: finish
+
+Configure Image Gallery Per Website
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/products/configuration/website_gallery.rst
+   :start-after: begin
+   :end-before: finish
+
+Image Preview on Product Listing Page
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Configure Image Preview on Product Listing Page Globally
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/products/configuration/global_image_preview.rst
+   :start-after: begin
+   :end-before: finish
+
+Configure Image Preview on Product Listing Page per Organization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/products/configuration/organization_image_preview.rst
+   :start-after: begin
+   :end-before: finish
+
+
+Configure Image Preview on Product Listing Page per Website
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: /user_guide/products/configuration/website_image_preview.rst
    :start-after: begin
    :end-before: finish
 
@@ -113,26 +197,23 @@ Select a Featured Products Segment to Use Per Website
 Related Products
 ^^^^^^^^^^^^^^^^
 
-Enable Related Products Globally
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. include:: /user_guide/products/configuration/related_products/index.rst
+   :start-after: begin_related_products_configuration
+   :end-before: finish_related_products_configuration
 
-.. include:: /user_guide/products/configuration/global_related_products.rst
-   :start-after: begin_related_products_body
-   :end-before: finish_related_products_body
+Upsell Items
+^^^^^^^^^^^^
 
-Enable Related Products per Organization
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. include:: /user_guide/products/configuration/upsell_items/index.rst
+   :start-after: begin_upsell_items_configuration
+   :end-before: finish_upsell_items_configuration
 
-.. include:: /user_guide/products/configuration/organization_related_products.rst
-   :start-after: begin_related_products_body
-   :end-before: finish_related_products_body
+.. uncomment for DOC-145
 
-Enable Related Products per Website
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. include:: /user_guide/products/configuration/website_related_products.rst
-   :start-after: begin_related_products_body
-   :end-before: finish_related_products_body
+.. Cross-Sell Items^^^^^^^^^^^^^^^^
+   include:: /user_guide/products/configuration/cross_sell_items/index.rst
+   :start-after: begin_cross_sell_items_configuration
+   :end-before: finish_cross_sell_items_configuration
 
 
 .. finish_configuration
@@ -149,14 +230,34 @@ Enable Related Products per Website
 
    website_images
 
+   global_gallery
+
+   organization_gallery
+
+   website_gallery
+
+   global_image_preview
+
+   organization_image_preview
+
+   website_image_preview
+
    global_new_arrivals
 
    organization_new_arrivals
 
    website_new_arrivals
 
-   global_related_products
+   global_featured_products
 
-   organization_related_products
+   organization_featured_products
 
-   website_related_products
+   website_featured_products
+
+   related_products/index
+
+   upsell_items/index
+
+.. uncomment for DOC-145
+
+.. cross_sell_items/index

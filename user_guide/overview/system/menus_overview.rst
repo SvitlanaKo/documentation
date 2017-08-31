@@ -43,7 +43,7 @@ To access other shortcuts, click **See the full list** to see complete list of s
 User Menu
 """""""""
 
-In Management Console, user can access their profile configuration, emails, tasks and events via a **usermenu** (by clicking on your name in the upper-right corner of the application).
+In Management Console, user can access their profile configuration, emails, tasks and events via a **usermenu** (by clicking on your name on the top right of the application).
 
 .. image:: /user_guide/img/system/menus/user_menu.png
 
@@ -88,9 +88,10 @@ A **commerce_footer_links** defines the structure of the links in the OroCommerc
 
 .. image:: /user_guide/img/system/frontend_menu/FrontendFooterMenu.png
 
-User Menu Look and Feel
-"""""""""""""""""""""""
-Front store user menu is not customizable, however, the way it is displayed can be configured globally, on organization and website levels.
+User and Account Menu Look and Feel
+"""""""""""""""""""""""""""""""""""
+
+Front store user menu is customizable via the `Customer User Menu`_ and `Account Menu`_, and the way it is displayed can be configured globally, on organization, and website levels.
 
 .. image:: /user_guide/img/system/frontend_menu/ShowAllItemsAtOnce.png
 
@@ -103,7 +104,7 @@ To configure user menu globally:
 To configure user menu on the organization level:
 
 1. Navigate to the system configuration (click **System > User Management > Organization** in the main menu).
-2. For the necessary organization, hover over the |IcMore| *more actions* menu to the right of the necessary organization and click |IcConfig| to start editing the configuration.
+2. For the necessary organization, hover over the |IcMore| **More Options** menu to the right of the necessary organization and click |IcConfig| to start editing the configuration.
 3. Select **Commerce > Design > Theme** in the menu to the left.
 4. In the **Menu Templates** section you have the following templates for user menu - *Show all items at once* (the default template) and *Show subitems in a popup*.
 
@@ -111,7 +112,7 @@ To configure user menu on the organization level:
 To configure user menu on the website level:
 
 1. Navigate to the system configuration (click **System > Websites** in the main menu).
-2. For the necessary website, hover over the |IcMore| *more actions* menu to the right of the necessary website and click |IcConfig| to start editing the configuration.
+2. For the necessary website, hover over the |IcMore| **More Options** menu to the right of the necessary website and click |IcConfig| to start editing the configuration.
 3. Select **Commerce > Design > Theme** in the menu on the left.
 4. In the **Menu Templates** section you have the following templates for user menu - *Show all items at once* (the default template) and *Show subitems in a popup*.
 
@@ -122,6 +123,22 @@ To configure user menu on the website level:
           * When *Show subitems in a popup* is selected, the user menu has the following look in the font store:
 
              .. image:: /user_guide/img/system/frontend_menu/ShowSubitemsInPopup.png
+
+Customer User Menu
+""""""""""""""""""
+
+A **customer_usermenu** is a front store user menu that defines what a customer will see within it.
+
+.. note:: It is only active when user menu template is set to *Show subitems in a popup* in system, organization, or website configuration.
+
+         .. image:: /user_guide/img/system/frontend_menu/UserMenu2.png
+
+Account Menu
+""""""""""""
+
+An **oro_customer_menu** is a front store menu that defines what options the Account section of the user menu is populated with.
+
+.. image:: /user_guide/img/system/frontend_menu/AccMenu.png
 
 .. OroCRM Customer/Partner Portal Menus
    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

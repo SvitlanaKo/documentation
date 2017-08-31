@@ -106,7 +106,7 @@ This section provides links to the online documentation for the latest OroCommer
 
    <h2 id="buyer">Using Store Frontend</h2>
    <p>The store frontend is a self-served web-interface for buyers.</p>
-   <hr style="border-top: 1px dashed #fafafa;border-bottom: none;border-right: none">
+   <hr style="border-top: 1px dashed #fafafa; border-bottom: none;border-right: none">
    <div class="guideline">
       <div class="guideline__item" style="background-color: #eeeeee">
          <div style="text-align: center">
@@ -270,6 +270,6 @@ This section provides links to the online documentation for the latest OroCommer
 
         frontstore_guide/index
 
-..      configuration/index
+..        configuration/index
 
-..      install_guide/index
+..     install_guide/index

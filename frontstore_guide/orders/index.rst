@@ -129,7 +129,7 @@ Shopping List
 To create an order from a shopping list:
 
 1. Navigate to **Shopping Lists**.
-2. From the dropdown, select the required shopping list.
+2. From the drop-down list, select the required shopping list.
 3. Click **View Details**.
 4. To create an order, either click **Create Order** on the right of the shopping list name, or scroll down to the bottom of the page and click **Create Order** on the bottom right of the shopping list view page.
 
@@ -247,6 +247,10 @@ Once the products for purchase and their quantity have been selected, the custom
   Provide a :ref:`shipping method <user-guide--shipping>` by selecting one from the list of the available methods.
 
    .. image:: /user_guide/img/system/workflows/checkout/Shipping_Info.png
+
+   .. note:: If shipping discounts apply to the order, this will be displayed in the totals.
+
+             .. image:: /user_guide/img/marketing/promotions/ShippingDiscountFront.png
 
 **Step 4: Payment**
    
