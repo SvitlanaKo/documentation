@@ -270,6 +270,6 @@ This section provides links to the online documentation for the latest OroCommer
 
         frontstore_guide/index
 
-        configuration/index
+..      configuration/index
 
-..     install_guide/index
+..      install_guide/index
