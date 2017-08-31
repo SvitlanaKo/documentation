@@ -1,37 +1,13 @@
-All Entities 
+All Entities
 ============
 
-.. contents:: :local:
-    :depth: 3
+This topic guides you through viewing, searching and filtering the entities in OroCRM and OroCommerce.
 
-Description
-------------
+.. image:: /user_guide/img/admin/entity_management/entity_grid.png
 
+The default grid view shows all entities. You can configure a custom grid view (see `Save Customized Grid View <../../user-guide/navigation/data-management-grids#save-your-customized-grid-view-and-share-it-with-other-users>`__).
 
-
-.. image:: ../img/entity_management/entity_grid.png
-
-Page Top
-^^^^^^^^
-
-View Options
-""""""""""""
-
-The default grid view shows all entities. You can configure a custom grid view. For how to do this, see `Save Customized Grid View <../../user-guide/navigation/data-management-grids#save-your-customized-grid-view-and-share-it-with-other-users>`__ . 
-
-Action Buttons
-""""""""""""""
-
-:guilabel:`Create Entity`—Click this button to create a new entity. See the `Create an Entity <./entity-actions#create-an-entity>`__ section of the `Actions with Entities <./entity-actions>`__ guide.
-
-Grid
-^^^^
-
-
-.. note:: See a short demo on `how to use grids <https://www.orocrm.com/media-library/how-to-use-grids>`_, or continue reading the step-by-step guidance below.
-
-
-The following table describes columns of the **All Entities** page and how they affect ability to edit the entity:
+The following table describes entity attributes and how they affect ability to edit the entity:
 
 .. csv-table::
   :header: "Field","Description","Affects the ability to edit?"
@@ -45,18 +21,20 @@ The following table describes columns of the **All Entities** page and how they 
   "**OWNERSHIP TYPE**","Defines the level at which permissions will be set for instances of the entity.","Not directly, however, you need to have permissions to edit the entity."
   "**NAME**","Define the name used to refer to the entity at the back-end. Comes handy if there is a need to change configuration or otherwise find the entity in the code.","No"
   "**MODULE**","
-  - For system entities, which program bundle contains implementation of the entity. For more information about bundles, see the `The Oro Bundles <../../bundles/>`__ guide. 
-  - For custom entities, **System** is defined as a module. 
+  - For system entities, which program bundle contains implementation of the entity. For more information about bundles, see the `The Oro Bundles <../../bundles/>`__ guide.
+  - For custom entities, **System** is defined as a module.
   ","No"
   "**DELETED**","Defines if the entity has been deleted since the latest schema updated.","Entities that have been deleted can be viewed, edited and restored until the next schema update."
   "**ORGANIZATION**","For systems with multiple organizations: this shows to which organizations the entity belongs.","No"
   "**UPDATED AT**","The date and time of the last schema update for the entity.","No"
-  "...","Hover your mouse over the ellipsis menu to access the action icons. Use the icons to manage the entity.","—"  
+  "...","Hover your mouse over the ellipsis menu to access the action icons. Use the icons to manage the entity.","—"
 
+Actions
+-------
 
+:guilabel:`Create Entity`—Click this button to create a new entity. See the `Create an Entity <./entity-actions#create-an-entity>`__ section of the `Actions with Entities <./entity-actions>`__ guide.
 
-Links
------
+**Related Topics**
 
 For general overview of entities, see the `Entities <./entities>`__ guide.
 

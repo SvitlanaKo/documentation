@@ -1,20 +1,16 @@
 .. index::
     single: Requirements
 
+.. _system-requirements:
+
 System Requirements
 ===================
 
-OroCRM is a web application which runs on a server. Users interact with the application via a web browser on any computer or mobile device that have access to the internet or the network where the server is hosted.
+OroCommerce is a web application which runs on a server. Users interact with the application via a web browser on any computer or mobile device that have access to the internet or the network where the server is hosted.
 
 
 Server-side Requirements
 ------------------------
-
-Resources
-~~~~~~~~~
-
-Resources configuration depends on the data size and number of active users and integrations. Typical setup could be done on a single server with the minimum of 2 CPU cores, 2GB RAM and a fast hard drive (SSD is recommended). The application could scale to multiple servers and a separate database server based on the expected load.
-
 
 Operating Systems
 ~~~~~~~~~~~~~~~~~
@@ -77,21 +73,24 @@ Enterprise Edition Software
 
 Enterprise edition is built to support better scale and performance. It is compatible with additional software configuration that allows to achieve these goals.
 
-+-------------------+----------------------------------------------------+
-| *PHP Extensions*  | * pgsql                                            |
-+-------------------+----------------------------------------------------+
-| *Database*        | * `PostgreSQL`_ / `EnterpriseDB`_ 9.1 and above    |
-+-------------------+----------------------------------------------------+
-| *Search Index*    | * `Elasticsearch`_ 2.x                             |
-+-------------------+----------------------------------------------------+
-| *Job Queue*       | * `RabbitMQ`_ 3.5.8 and above, 3.6.x is recommended|
-+-------------------+----------------------------------------------------+
++------------------+-----------------------------------------------------+
+| *PHP Extensions* | * pgsql                                             |
++==================+=====================================================+
+| *Database*       | * `PostgreSQL`_ / `EnterpriseDB`_ 9.1 and above     |
++------------------+-----------------------------------------------------+
+| *Search Index*   | * `Elasticsearch`_ 2.x                              |
++------------------+-----------------------------------------------------+
+| *Job Queue*      | * `RabbitMQ`_ 3.5.8 and above, 3.6.x is recommended |
++------------------+-----------------------------------------------------+
+
+.. _sys-requirements-postgre-config:
 
 **PostgreSQL Configuration**
 
 PostgreSQL `uuid-ossp` extension should be loaded for proper doctrine's `guid` type handling. In order to enable it, connect to the database server and run sql query:
 
 .. code-block:: sql
+    :linenos:
 
     CREATE EXTENSION "uuid-ossp";
 
@@ -119,6 +118,7 @@ Recommended and supported browsers are:
 .. note::
 
     Any browser you use needs to have cookies and JavaScript turned on.
+
 
 .. _`Apache`: https://httpd.apache.org/
 .. _`Elasticsearch`: https://www.elastic.co/products/elasticsearch

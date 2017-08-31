@@ -20,14 +20,12 @@ This guide describes how to create and modify the fields.
 
 
 Actions
--------
+--------
 
 .. _doc-entity-fields-create:
 
 Create a Custom Entity Field
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. note:: See a short demo on `how to create a custom field <https://www.orocrm.com/media-library/create-custom-field>`_, or keep reading the step-by-step guidance below.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. In the main menu, navigate **System>Entities>Entities Management**.
 
@@ -36,12 +34,8 @@ Create a Custom Entity Field
 3. On the entity view page, click the :guilabel:`Create Field` button in the upper-right corner of the page. 
 
 4. Specify information for the basic entity field properties. See the descriptions of the basic properties in the `Basic Entity Field Properties <./entity-field-properties#basic-entity-field-properties>`__ section. 
-   
-   |
 
-   .. image:: ../img/entity_management/new_entity_field.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/new_entity_field.png
 
 5. Click :guilabel:`Continue` button. Depending on what has been selected for **Type**, the corresponding additional fields appear.
 
@@ -94,25 +88,11 @@ Delete a Custom Entity Field
 
 
 Links
------
+------
 
 For the detailed description of entity field types, see the `Entity Field Types <./entity-field-types>`__ guide. 
 
 For the overview of the entities, see the `Entities <./entities>`__ guide. 
 
-
-
-.. |IcPosition| image:: ../../img/buttons/IcPosition.png
-   :align: middle
-
-.. |IcDelete| image:: ../../img/buttons/IcDelete.png
-   :align: middle
-
-.. |IcEdit| image:: ../../img/buttons/IcEdit.png
-   :align: middle
-
-.. |IcView| image:: ../../img/buttons/IcView.png
-   :align: middle
-   
-.. |IcRest| image:: ../../img/buttons/IcRest.png
-   :align: middle
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

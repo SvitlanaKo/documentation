@@ -4,6 +4,10 @@
     single: Menu; Create an Application Menu
     single: Menu; Extend an Application Menu
 
+.. _doc-managing-app-menu:
+.. _doc-create-and-customize-app-menu:
+
+
 How to Create and Customize Application Menu
 ============================================
 
@@ -13,7 +17,7 @@ In OroPlatform you can create your fully personalized menu or use a simple techn
 This tutorial describes how to override a section in the default menu.
 
 Let's assume that you already have a bundle with the namespace ``Acme\Bundle\NewBundle`` in the ``/src`` directory
-with annotation configuration format `generated or created manually <./how_to_create_new_bundle>`_.
+with annotation configuration format :ref:`generated or created manually <how-to-create-new-bundle>`.
 
 Create your route with annotation
 ---------------------------------
@@ -102,13 +106,10 @@ Now we need to create a ``navigation.yml`` file with the following content:
             acme_link: My link page title
 
 
-Then you have to reload navigation data and clear cache:
+Then you have to clear cache:
 
 .. code-block:: bash
-
-    user@host:/var/www/vhosts/platform-application$ php app/console oro:navigation:init
-    Load "Title Templates" from annotations and config files to db
-    Completed
+    :linenos:
 
     user@host:/var/www/vhosts/platform-application$ php app/console cache:clear
     Clearing the cache for the dev environment with debug true
@@ -154,13 +155,10 @@ To override some section in the main menu you have to create the ``navigation.ym
         acme_link: My link page title
 
 
-And reload navigation data and clear cache:
+And clear cache:
 
 .. code-block:: bash
-
-    user@host:/var/www/vhosts/platform-application$ php app/console oro:navigation:init
-    Load "Title Templates" from annotations and config files to db
-    Completed
+    :linenos:
 
     user@host:/var/www/vhosts/platform-application$ php app/console cache:clear
     Clearing the cache for the dev environment with debug true

@@ -1,11 +1,11 @@
 Actions with Entities
-======================
+=====================
 
 .. contents:: :local:
     :depth: 3
 
 Actions
---------
+-------
 
 .. _doc-entity-actions-create:
 
@@ -42,11 +42,7 @@ Create an Entity
       
    - **Description**— Type a short but meaningful description that can help you and other users understand the purpose and specifics of the created entity in future.    
 
-   |
-
-   .. image:: ../img/entity_management/entity_create1.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_create1.png
 
 
 4. Click **Communication & Collaboration** and specify the following:
@@ -74,22 +70,14 @@ Create an Entity
       - **Tasks**—Select this check box to enable adding tasks from the entity record view page.
    
    - **Enable Notes**—Defines whether it is possible to make notes on the entity record. Notes are made via the action button and are displayed in the **Activity** section on the entity record view page. 
-     
-   |
 
-   .. image:: ../img/entity_management/entity_addnotes.png
+   .. image:: /user_guide/img/admin/entity_management/entity_addnotes.png
 
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_addnotes2.png
 
-
-
-   .. image:: ../img/entity_management/entity_addnotes2.png
-
-   |   
-
-      - **Yes**—Select this value from the list to enable adding notes to the entity records.
+   - **Yes**—Select this value from the list to enable adding notes to the entity records.
       
-      - **No**—Select this value from the list to restrict adding notes to the entity records.
+   - **No**—Select this value from the list to restrict adding notes to the entity records.
       
 
    Mandatory. 
@@ -99,45 +87,31 @@ Create an Entity
    - **Enable Comments**—Defines whether it is possible to leave comments on the entity records. Comments are displayed in the corresponding section on the entity view page. For more information on comments, see the `Add Comment <../../user-guide/activities/activities-add-comment>`__ guide.
 
 
-     |
+     .. image:: /user_guide/img/admin/entity_management/entity_addcomment.png
 
-     .. image:: ../img/entity_management/entity_addcomment.png
-
-     |
-
-      - **Yes**—Select this value from the list to enable adding comments to the entity records.
+     - **Yes**—Select this value from the list to enable adding comments to the entity records.
       
-      - **No**—Select this value from the list to restrict adding comments to the entity records.
+     - **No**—Select this value from the list to restrict adding comments to the entity records.
       
      Mandatory. 
      Default value is **No**.
 
-   |
-
-   .. image:: ../img/entity_management/entity_create2.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_create2.png
 
 5. Click **Attachments** and specify the following:
 
    - **Enable Attachments**—Defines whether it is possible to attach files to the entity records. Attachments are added via the action button and are displayed on the entity view page in the corresponding section. For more information on comments, see the `Add Attachment <../../user-guide/activities/activities-add-attachment>`__ guide.
-     
-     |
 
-     .. image:: ../img/entity_management/entity_addattachment.png
+     .. image:: /user_guide/img/admin/entity_management/entity_addattachment.png
 
      
 
-     |
-
-     .. image:: ../img/entity_management/entity_addattachment2.png
-
-     |
+     .. image:: /user_guide/img/admin/entity_management/entity_addattachment2.png
 
   
-      - **Yes**—Select this value from the list if you want to enable adding attachments to the entity records.
+     - **Yes**—Select this value from the list if you want to enable adding attachments to the entity records.
       
-      - **No**—Select this value from the list if you want to disable adding attachments to the entity records. 
+     - **No**—Select this value from the list if you want to disable adding attachments to the entity records.
             
 
      Mandatory. 
@@ -160,11 +134,11 @@ Create an Entity
      Mandatory. 
      Default value is **Manual**.
 
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_create3.png
 
-   .. image:: ../img/entity_management/entity_create3.png
+   
 
-
+    
 6. Click **Other** and specify the following:
 
    - **Ownership Type**—Records of which entity can be set as owners of the entity. For more information, see the `Ownership Type <../security/access-management-ownership-type>`__ guide.
@@ -182,61 +156,41 @@ Create an Entity
      Default value is **None**. 
    
    - **Auditable**—This subsection defines whether system will log what actions are performed with the entity records and who performed them, and users with the corresponding permissions will be able to check it in the **Change History** and **Data Audit** sections of the system. For more information about the data audit, see the `Data Audit <../security/security_data_audit>`__ guide.
-   
-     |
 
-     .. image:: ../img/entity_management/entity_change history.png
+     .. image:: /user_guide/img/admin/entity_management/entity_change history.png
 
-     |
+     .. image:: /user_guide/img/admin/entity_management/data_audit.png
 
-     .. image:: ../img/entity_management/data_audit.png
- 
-     |
-   
-      - **Yes**—Select this value from the list to enable audit of records of the entity.
+     - **Yes**—Select this value from the list to enable audit of records of the entity.
       
-      - **No**—Select this value from the list to disable audit of records of the entity.
+     - **No**—Select this value from the list to disable audit of records of the entity.
       
      Mandatory. 
      Default value is **No**.
 
    - **Enable Tags**—Defines whether it will be possible to assign tags to entity records. For more information on data audit, see the `Tags <../../user-guide/navigation/data-management-tags>`__ guide.
-   
-     |
 
-     .. image:: ../../user_guide/img/navigation/panel/search_vip_1.png
+     .. image:: /user_guide/img/getting_started/navigation/panel/search_vip_1.png
 
-     |
-
-      - **Yes**—Select this value from the list to enable adding tags for the entity records.
+     - **Yes**—Select this value from the list to enable adding tags for the entity records.
       
-      - **No**—Select this value from the list to disable adding tags for the entity records.
-      
+     - **No**—Select this value from the list to disable adding tags for the entity records.
 
      Mandatory. 
      Default value is **No**.
    
 
    - **Workflow Step in Grid**—Defines whether to show the column with information about the current workflow step in the grid that contains all entity records. For more information on workflows, see the `Following a Workflow <../../user-guide/records/data-management-workflows>`__ guide.
-     
-     |
-       
-     .. image:: ../img/entity_management/entity_showworkflowstep.png
 
-     |
+     .. image:: /user_guide/img/admin/entity_management/entity_showworkflowstep.png
 
-      - **Show**—Select this value from the list to show the column with the workflow step in the grid on the **All \<Entity Name\>** page.
+     - **Show**—Select this value from the list to show the column with the workflow step in the grid on the **All \<Entity Name\>** page.
       
-      - **Hide**—Select this value from the list if you do not want to show the column with the workflow step in the grid.
+     - **Hide**—Select this value from the list if you do not want to show the column with the workflow step in the grid.
       
      Default value is **Show**.
 
-
-   |
-     
-   .. image:: ../img/entity_management/entity_create4.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_create4.png
 
 7. Click the :guilabel:`Save and Close` button in the upper-right corner. 
 
@@ -272,7 +226,7 @@ To create a field, follow the instructions provided in the `Create a Custom Enti
 Import Fields
 ^^^^^^^^^^^^^^^^^
 
-To simplify creation of entity fields, you can create a .csv file that will contain all the required fields with their properties defined and import it into OroCRM. 
+To simplify creation of entity fields, you can create a .csv file that will contain all the required fields with their properties defined and import it into OroCRM/OroCommerce.
 
 .. important:: 
   You can only import data saved in the .csv (comma separated values) format. 
@@ -289,19 +243,11 @@ To simplify creation of entity fields, you can create a .csv file that will cont
 
 6. In the **Import Entity Fields** dialog box, click **Choose File**, select the .csv file you prepared and then click **Submit**. 
 
-   |
-
-   .. image:: ../img/entity_management/entity_importentityfields1.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_importentityfields1.png
 
 7. Information in the dialog box reloads and the **Import validation results** section appears. Review the information in this section and if you are satisfied with the review results, click **Import**. If you wish to make any changes in the file or upload a different one, click **Back** to return to the previous step. 
 
-   |
-
-   .. image:: ../img/entity_management/entity_importentityfields2.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_importentityfields2.png
 
 8. Update the schema to apply the changes. For how to do it, see the `Update Schema <./entity-actions#update-schema>`__ section. 
   
@@ -381,12 +327,8 @@ To manage unique keys do the following:
    - **Key**—Mandatory. The fields that will be included in this set. Hold the CTRL key to select several fields. 
 
 6. If you need to add another set, repeat steps 4–5.
-   
-   |
 
-   .. image:: ../img/entity_management/entity_manageuniquekeys.png
-
-   |
+   .. image:: /user_guide/img/admin/entity_management/entity_manageuniquekeys.png
 
 7. If you need to delete a set, click the **x** icon next to the set name. 
 
@@ -418,19 +360,16 @@ Edit an Entity
 
    - **Show Restricted**—Select this check box if you enabled **Field Level ACL** and are going to disable editing of some fields of the entity records but still want users to review disabled fields on the interface. Fields disabled for modifying will appear dimmed on the interface. For more information about field level ACLs, see the `Permissions for an Entity Field (Field Level ACLs) <../security/access-management-field-level-acl>`__ guide.
 
-   - **Searchable**—Defines whether records users can search for and find records of this entity via OroCRM's :ref:`search functionality <user-guide-getting-started-search>`.
+   - **Searchable**—Defines whether records users can search for and find records of this entity via the :ref:`search in OroCRM/OroCommerce <user-guide-getting-started-search>`.
 
      - **Yes**—Select this value from the list if users can search for and find records of this entity.
      
      - **No**—Select this value from the list if records of this entity are invisible for search.
 
    - **Applicable Organizations**—Select in which organizations this entity will be available. The default value is **All**. To specify a particular organization, clear the **All** check box and click the field that appears to choose the organization from the list.
-     
-   |
 
-   .. image:: ../img/entity_management/entity_edit.png
+   .. image:: /user_guide/img/admin/entity_management/entity_edit.png
 
-   |     
 
 4. Click the :guilabel:`Save And Close` button in the upper-right corner of the page.
 
@@ -446,11 +385,9 @@ Delete an Entity
 
 2. In the grid on the **All Entities** page, choose the entity you want to delete, click the ellipsis menu at the right end of the corresponding role and then click the |IcDelete| **Delete** icon.
 
-|
 
-.. image:: ../img/entity_management/entity_delete1.png
+.. image:: /user_guide/img/admin/entity_management/entity_delete1.png
 
-|
 
 3. In the **Deletion Confirmation** dialog box, click :guilabel:`Yes`.
 
@@ -471,23 +408,5 @@ For the description of the entity view page, see the `Entity on the Interface <.
 
 For the information about entity fields, see the `Entity Fields <./entity-fields>`__ guide. 
 
-
-
-.. |IcRemove| image:: ../../img/buttons/IcRemove.png
-	:align: middle
-
-.. |IcClone| image:: ../../img/buttons/IcClone.png
-	:align: middle
-
-.. |IcDelete| image:: ../../img/buttons/IcDelete.png
-	:align: middle
-
-.. |IcEdit| image:: ../../img/buttons/IcEdit.png
-	:align: middle
-
-.. |IcView| image:: ../../img/buttons/IcView.png
-	:align: middle
-
-
-   
-   
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

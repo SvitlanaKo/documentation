@@ -1,5 +1,5 @@
 Entity on the Interface
-========================
+=======================
 
 .. contents:: :local:
     :depth: 3
@@ -12,11 +12,9 @@ Description
 Top of the page
 ^^^^^^^^^^^^^^^
 
-|
 
-.. image:: ../img/entity_management/entity_pagetop.png 
+.. image:: /user_guide/img/admin/entity_management/entity_pagetop.png 
 
-|
 
 In the upper-left part of the page you can see the entity name. 
 
@@ -36,25 +34,21 @@ In the upper-right part of the page there is the following set of action buttons
 
 In the next row you can click the **Change History** link to see who, how and when modified the entity.
 
-|
 
-.. image:: ../img/entity_management/entity_changehistory.png 
+.. image:: /user_guide/img/admin/entity_management/entity_changehistory.png 
 
-|
 
 
 
 General Information Section
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|
 
-.. image:: ../img/entity_management/entity_general_information.png
+.. image:: /user_guide/img/admin/entity_management/entity_general_information.png
 
-|
 
 Entity Information
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 +----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Name           | The name used to refer to the entity in the system at the program code level.                                                                                                                                |
@@ -88,30 +82,17 @@ Fields
 
 This section contains the list of fields defined for this entity. For more information about the entity fields, see the `Entity Fields <./entity-fields>`__ guide.
 
-|
 
-.. image:: ../img/entity_management/entity_fields.png
+.. image:: /user_guide/img/admin/entity_management/entity_fields.png
 
-|
 
-  
-
-Links
-------
+**Related Topics**
 
 For general overview of entities, see the `Entities <./entities>`__ guide.
 
 For what actions you can perform with entities, see the `Actions with Entities <./entity-actions>`__ guide.
 
 For more information about entity fields, see the `Entity Fields <./entity-fields>`__ guide.
-  
 
-.. |IcDelete| image:: ../../img/buttons/IcDelete.png
-   :align: middle
-
-.. |IcEdit| image:: ../../img/buttons/IcEdit.png
-   :align: middle
-
-.. |IcView| image:: ../../img/buttons/IcView.png
-   :align: middle
-   
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

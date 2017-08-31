@@ -64,7 +64,7 @@ div.sphinxsidebar {
 }
 
 hr {
-    border: 1px solid #8fb3d7;
+    border: 1px solid #b84926;
 }
 
 div.body > .section {
@@ -74,13 +74,13 @@ div.body > .section {
 }
 
 div.sphinxsidebar a {
-    color: #1394ca;
+    color: #b84926;
     text-decoration: none;
     border-bottom: 0 none #999;
 }
 
 div.sphinxsidebar a:hover {
-    border-bottom: 0px solid #1394ca;
+    border-bottom: 0px solid #b84926;
 }
 
 div.sphinxsidebarwrapper {
@@ -91,7 +91,7 @@ div.sphinxsidebarwrapper {
     padding: 7px 0px 7px 15px;
     width:100%;
     /*border-top: 1px solid #b84926;*/
-    border-right: 1px solid #8fb3d7;
+    border-right: 1px solid #b84926;
 }
 
 div.sphinxsidebarwrapper ul.current li.toctree-l1.current {
@@ -113,7 +113,7 @@ div.sphinxsidebarwrapper ul li:hover {
 /* +2 */
 div.sphinxsidebarwrapper ul.current li.toctree-l1.current a, div.sphinxsidebarwrapper ul.current li.toctree-l1.active a {
     color: #fff !important;
-    background-color: #8fb3d7;
+    background-color: #e16040;
     text-decoration: none;
     display: block;
 }
@@ -121,7 +121,7 @@ div.sphinxsidebarwrapper ul.current li.toctree-l1.current a, div.sphinxsidebarwr
 /* +2.1 */
 div.sphinxsidebarwrapper ul.current li.toctree-l1.current ul li.toctree-l2 a, div.sphinxsidebarwrapper ul.current li.toctree-l1.active ul li.toctree-l2 a {
     /*color: #fff !important;*/
-    color: #1394ca !important;
+    color: #b84926 !important;
     background-color: white; /*#eee*/
     text-decoration: none;
 }
@@ -188,7 +188,7 @@ div.sphinxsidebar ul li.toctree-l1 > a {
 }
 
 div.sphinxsidebar ul li.toctree-l2 > a {
-    color: #1394ca;/* !important;*/
+    color: #b84926;/* !important;*/
     background-color: white; /*#eee*/
     font-size: 13px;
     padding: 2px 10px 2px 15px !important;
@@ -206,13 +206,13 @@ div.sphinxsidebarwrapper li.current > li.toctree-l2 > a, div.sphinxsidebarwrappe
 /* -- body styles ----------------------------------------------------------- */
 
 a {
-    color: #1394ca;
+    color: #b84926;
     text-decoration: none;
 }
 
 
 a:hover {
-    color: #1394ca;
+    color: #b84926;
     text-decoration: underline;
 }
 

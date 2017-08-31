@@ -15,11 +15,9 @@ Basic Entity Field Properties
 General Information Section
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|
 
-.. image:: ../img/entity_management/new_entity_field.png
+.. image:: /user_guide/img/admin/entity_management/new_entity_field.png
 
-|
 
 .. csv-table::
   :header: "Field", "Description"
@@ -36,7 +34,7 @@ General Information Section
     a single entity. The field will appear in the system as soon as it has been added and no :ref:`schema update <schema update>` is required. 
   
     .. important:: 
-      Serialized fields cannot be used for :ref:`grid filters <doc-grids-actions-filters>`, :ref:`report <user-guide-reports>` and :ref:`chart <doc-reports-actions-create-chart>` generation, data audit, creation of :ref:`segments <user-guide-filters-segments>` and :ref:`relations <user-guide-entity-management-relation>`.
+      Serialized fields cannot be used for :ref:`grid filters <doc-grids-actions-filters>`, report and chart generation, data audit, creation of :ref:`segments <user-guide-filters-segments>` and :ref:`relations <user-guide-entity-management-relation>`.
   
       Serialized fields cannot be used for files, multi-selects or option sets.
   
@@ -109,11 +107,9 @@ Common Properties
 General Information Section
 """""""""""""""""""""""""""
 
-|
 
-.. image:: ../img/entity_management/entity_field_general_information2.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_general_information2.png
 
-|
 
 
 Fields **Name**, **Storage Type**, **Type** that you filled in when specifying information for basic entity field properties (see the `Basic Entity Field Properties <./entity-field-properties#basic-entity-field-properties>`__ section) are still present on the page but they are read-only now, i.e you cannot change their values.
@@ -133,11 +129,9 @@ There are two new fields in this section:
 Import and Export Section
 """""""""""""""""""""""""
 
-|
 
-.. image:: ../img/entity_management/entity_field_import_and_export.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_import_and_export.png
 
-|
 
 .. csv-table:: 
   :header: "Field","Description"
@@ -157,11 +151,9 @@ Import and Export Section
 Other
 """""
 
-|
 
-.. image:: ../img/entity_management/entity_field_other.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_other.png
 
-|
 
 
 .. csv-table:: 
@@ -172,9 +164,9 @@ Other
   "**Contact Information**","Possible values are:
     
     - Empty—The field will not be treated as a contact information.
-    - **Email**—Values of the field will be treated by :ref:`marketing lists<user-guide-marketing-lists>`
-      as email addresses.
-    - **Phone**—Values of the field will be treated by marketing lists as phone numbers.
+    - **Email**—Email address will be treated
+      as contact information.
+    - **Phone**—Phone number will be treated as contact information.
 
   "
   "**Show on Grid**","If set to *Yes*, the field will be displayed in a separate column of the respective grid."
@@ -187,8 +179,8 @@ Other
   
   Custom fields are always displayed one after another, usually below the system fields. If no priority is defined or the 
   defined priority is 0, the fields will be displayed in the order in which they have been added to the system. The fields with a higher priority (a bigger value) will be displayed before the fields with a lower priority."
-  "**Searchable**","If set to *Yes*, the entities can be found with OroCRM's 
-  :ref:`search functionality <user-guide-getting-started-search>` by values of this field."
+  "**Searchable**","If set to *Yes*, the entities can be found with
+  the :ref:`search <user-guide-getting-started-search>` in OroCRM/OroCommerce by values of this field."
   "**The Search Result Title**","If set to *Yes*, the field value will be included into the search result title."
   "**Auditable**","Not available for serialized fields. If set to *Yes*, the system will log changes made to this field values when users edit entity records."
   "**Applicable Organizations**","Defines for what :term:`organizations <Organization>` the custom field will be added 
@@ -200,7 +192,7 @@ Other
 .. caution:: 
 
       If the **Show on Form** value has been set to *No*, there will be no way to create/update the field values from 
-      OroCRM. Thus, such configuration is reasonable only for data which is uploaded to the system during a synchronization. 
+      OroCRM/OroCommerce. Thus, such configuration is reasonable only for data which is uploaded to the system during a synchronization.
 
 
 
@@ -464,43 +456,35 @@ Our **Friends** field has the following values:
 
 - **Related Entity Detailed**— Select all the fields available.
 
-|
 
-.. image:: ../img/entity_management/entity_field_example_newfield.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_example_newfield.png
 
-|
 
 Now we create a business customer:
 
 The following grid appears once you have clicked the :guilabel:`+Add` button against the **Friend** field on the record edit or ceate page:
 
-|
-  
-.. image:: ../img/entity_management/entity_field_example_bc1.png
 
-|
+.. image:: /user_guide/img/admin/entity_management/entity_field_example_bc1.png
+
 
 It contains all the fields defined for the **Related Entity Data Fields**.
 
 We have added three contacts. We have added three contacts. The title contains properties defined for the **Related Entity Info Title**. **Related Entity Data Fields** are displayed for each record below the link.
 
-|
-  
-.. image:: ../img/entity_management/entity_field_example_bc2.png
 
-|
-   
+.. image:: /user_guide/img/admin/entity_management/entity_field_example_bc2.png
+
+
 If you click the title of one of the opportunities, a dialog box with all the details specified in the **Related Entity Detailed** appears.
 
-|
 
-.. image:: ../img/entity_management/entity_field_example_bc3.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_example_bc3.png
 
-|
-   
+
 The **Related Entity Info Title** properties are also used to represent the related contacts on the view page.
 
-.. image:: ../img/entity_management/entity_field_example_bc4.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_example_bc4.png
 
 
 Many to one
@@ -538,15 +522,12 @@ Let us create a relation 'Business Unit' and specify:
 
 Now, when creating/editing an opportunity record, you can choose a related business unit from the list. Business unit records in the list are represented by their **Name** values.  
 
-|
 
-.. image:: ../img/entity_management/entity_field_example2_1.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_example2_1.png
 
-|
 
-.. image:: ../img/entity_management/entity_field_example2_2.png
+.. image:: /user_guide/img/admin/entity_management/entity_field_example2_2.png
 
-|
 
 
 Links
@@ -554,8 +535,7 @@ Links
 
 For the information about entity fields, see the `Entity Fields <./entity-fields>`__ guide. 
 
-For the overview of the entities, see the `Entities <./entities>`__ guide. 
+For the overview of the entities, see the `Entities <./entities>`__ guide.
 
-
-.. |IcPosition| image:: ../../img/buttons/IcPosition.png
-   :align: middle
+.. include:: /user_guide/include_images.rst
+   :start-after: begin

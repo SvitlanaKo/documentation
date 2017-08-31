@@ -1,7 +1,9 @@
-Entities Management
-===================
+:orphan:
 
-In this section you will learn how to configure entities—basic objects that everything in the system consists of.
+Manage Entities
+===============
+
+In this section you will learn how to create and customize entities—basic objects that are building blocks for the Oro system.
 
 
 .. toctree::
