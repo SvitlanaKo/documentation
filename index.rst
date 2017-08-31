@@ -122,7 +122,7 @@ This section provides links to the online documentation for the latest OroCommer
       </div>
       <div class="guideline__item" style="background-color: #eeeeee">
          <div style="text-align: center">
-             <h3><i class="guideline__icon fa fa-shopping-cart" style="color:#fafafa"></i>&nbsp;<br>For Buyer</h3>
+             <h3><i class="guideline__icon fa fa-shopping-cart" style="color:#b84926"></i>&nbsp;<br>For Buyer</h3>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
                <ul class="guideline__list">
@@ -135,7 +135,7 @@ This section provides links to the online documentation for the latest OroCommer
       </div>
       <div class="guideline__item" style="background-color: #eeeeee">
          <div style="text-align: center">
-             <h3><i class="guideline__icon fa fa-shopping-cart" style="color:#fafafa"></i>&nbsp;<br>For Manager</h3>
+             <h3><i class="guideline__icon fa fa-shopping-cart" style="color:#b84926"></i>&nbsp;<br>For Manager</h3>
          </div>
          <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
                <ul class="guideline__list">
