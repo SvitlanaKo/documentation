@@ -23,7 +23,7 @@ To reach promotion configuration:
 
 3. To customize the default settings:
 
-  a) Clear the **Use Default** box next to the **Enable Promotion** option. This will enable you to clear the option check box and disable promotions in your Oro application.
+  a) Clear the **Use Default** box next to the **Enable Promotion** option. This will enable you to clear the option checkbox and disable promotions in your Oro application.
   b) Clear the **Use Default** box next to the **Discount Strategy** and select one of the following options -- *Combine All Discounts* or *Best Value Discounts Only*.
 
      * When *Combine All Discounts* is selected, all discount options applicable to products are used in combination.

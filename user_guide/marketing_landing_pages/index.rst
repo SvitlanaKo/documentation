@@ -14,7 +14,6 @@ Overview
    :start-after: begin
 
 .. include:: create.rst
-   :start-after: begin
    :end-before: finish
 
 .. include:: viewlist.rst

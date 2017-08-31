@@ -33,16 +33,10 @@ Images
 
    <i class="fa fa-reply-all fa-lg" aria-hidden="true"></i>
 
-.. fa-bars = fa-navicon
-
-.. |IcBars| raw:: html
-
-   <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
-
 .. |IcUnshare| raw:: html
 
    <i class="fa fa-share fa-lg" aria-hidden="true"></i>
-
+   
 .. |IcChevronDown| raw:: html
 
    <i class="fa fa-chevron-down fa-lg" aria-hidden="true"></i>
@@ -51,7 +45,7 @@ Images
 
 .. |IcTiles| raw:: html
 
-   <i class="fa fa-th fa-lg" aria-hidden="true"></i>
+   <i class="fa fa-th fa-lg" aria-hidden="true"></i> 
 
 .. |IcDetails| raw:: html
 
@@ -59,7 +53,7 @@ Images
 
 .. |IcCompactDetails| raw:: html
 
-   <i class="fa fa-list fa-lg" aria-hidden="true"></i>
+   <i class="fa fa-list fa-lg" aria-hidden="true"></i>    
 
 .. |IcTranslationsC| raw:: html
 
@@ -76,12 +70,6 @@ Images
 .. |IcFlag| raw:: html
 
    <i class="fa fa-flag fa-lg" aria-hidden="true"></i>
-
-.. IcPencil refers to Rename in Commerce and Inline Editing in CRM
-
-.. |IcPencil| raw:: html
-
-   <i class="fa fa-pencil fa-lg" aria-hidden="true"></i>
 
 .. |IcConfig| raw:: html
 
@@ -107,6 +95,12 @@ Images
 
    <i class="fa fa-edit fa-lg" aria-hidden="true"></i>
 
+.. IcPencil refers to Rename in Commerce and Inline Editing in CRM
+
+.. |IcPencil| raw:: html
+
+   <i class="fa fa-pencil fa-lg" aria-hidden="true"></i>
+
 .. |IcView| raw:: html
 
    <i class="fa fa-eye fa-lg" aria-hidden="true"></i>
@@ -122,6 +116,11 @@ Images
 .. |IcDuplicate| raw:: html
 
    <i class="fa fa-files-o fa-lg" aria-hidden="true"></i>
+
+
+.. |IcBars| raw:: html
+
+   <i class="fa fa-navicon fa-lg" aria-hidden="true"></i>
 
 .. |IcMore| raw:: html
 
@@ -219,42 +218,6 @@ Images
 
    <i class="fa fa-refresh fa-lg" aria-hidden="true"></i>
 
-.. |IcFilesO| raw:: html
-
-   <i class="fa fa-files-o fa-lg" aria-hidden="true"></i>
-
-.. |IcLanguage| raw:: html
-
-   <i class="fa fa-language fa-lg" aria-hidden="true"></i>
-
-.. |IcSearchPlus| raw:: html
-
-   <i class="fa fa-search-plus fa-lg" aria-hidden="true"></i>
-
-.. |IcSearchMinus| raw:: html
-
-   <i class="fa fa-search-minus fa-lg" aria-hidden="true"></i>
-
-.. |IcExpand| raw:: html
-
-   <i class="fa fa-expand fa-lg" aria-hidden="true"></i>
-
-.. |IcPlusSquareO| raw:: html
-
-   <i class="fa fa-plus-square-o fa-lg" aria-hidden="true"></i>
-
-.. |IcReply| raw:: html
-
-   <i class="fa fa-reply fa-lg" aria-hidden="true"></i>
-
-.. |IcShare| raw:: html
-
-   <i class="fa fa-share fa-lg" aria-hidden="true"></i>
-
-.. |Bdropdown| raw:: html
-
-   <i class="fa fa-caret-down fa-lg" aria-hidden="true"></i>
-
 .. |IcHandle| image:: /user_guide/img/getting_started/buttons/IcHandle.png
    :target: https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/IcHandle.png
    :align: middle
@@ -289,6 +252,10 @@ Images
 
 .. |BGotoPage| image:: /user_guide/img/getting_started/buttons/BGotoPage.png
    :align: middle
+
+.. |Bdropdown| raw:: html
+
+   <i class="fa fa-caret-down fa-lg" aria-hidden="true"></i>
 
 .. |IcPosition| image:: /user_guide/img/getting_started/buttons/IcPosition.png
    :align: middle
@@ -348,5 +315,33 @@ Images
 
    <span class="cart-widget__icon">
        <i class="fa-clipboard"></i>
-   </span>:orphan:
+   </span>
+
+
+.. |IcSub| image:: /user_guide/img/getting_started/buttons/IcSub.png
+   :align: middle
+
+.. |IcUns| image:: /user_guide/img/getting_started/buttons/IcUns.png
+   :align: middle
+
+.. |IcRemove| image:: /user_guide/img/getting_started/buttons/IcRemove.png
+   :align: middle
+
+.. |UndoRem| image:: /user_guide/img/getting_started/buttons/UndoRem.png
+   :align: middle
+
+.. |BCrLOwnerClear| image:: /user_guide/img/getting_started/buttons/BCrLOwnerClear.png
+   :align: middle
+
+.. |BSchedule| image:: /user_guide/img/getting_started/buttons/BSchedule.png
+   :align: middle
+
+.. |IcCross| image:: /user_guide/img/getting_started/buttons/IcCross.png
+   :align: middle
+
+.. |HObutton| image:: /user_guide/img/getting_started/buttons/hangouts.png
+   :align: middle
+
+.. |InstallPack| image:: /admin_guide/img/extension/install_package.png
+   :align: middle
 

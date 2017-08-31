@@ -8,20 +8,13 @@
 Shipping Method Integration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. begin_shipping_method_integrations
+.. begin
 
 You may configure integration with third-party providers to offer their shipping services for the quotes and orders placed using OroCommerce.
 
-Out of the box, you may integrate OroCommerce with :ref:`UPS <doc--integrations--ups>`, DPD, and :ref:`Flat Rate <doc--integrations--flat-rate>` shipping.
-
-.. * ref:`UPS Shipping Integration <doc--integrations--ups>`
-.. * ref:`Flat Rate Shipping Integration <doc--integrations--flat-rate>`
-
-.. stop_shipping_method_integrations
+Out of the box, you may integrate OroCommerce with UPS and Flat Rate shipping.
 
 .. contents:: :local:
-
-.. _doc--integrations--ups:
 
 UPS Shipping Integration
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -99,8 +92,6 @@ To enable communication with UPS in order to request the shipping cost estimate 
 
 Next, set up a shipping rule that enables this shipping methods for all or some customer orders.
 
-.. _doc--integrations--flat-rate:
-
 Flat Rate Shipping Integration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -145,6 +136,8 @@ To delete an integration and related shipping methods:
 4. Once you are ready to delete the integration, click **Delete**.
 
 The shipping methods created due to this integration are no longer usable in OroCommerce and cannot be enabled in the shipping rule.
+
+.. stop
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

@@ -100,9 +100,9 @@ To create a new company address:
    * State
    * Zip/Postal Code
 
-   .. note:: To make the new address primary, select the **Is Primary Address** check box.
+   .. note:: To make the new address primary, select the **Is Primary Address** checkbox.
 
-   For address type and usage, enable the following check boxes:
+   For address type and usage, enable the following checkboxes:
 
    * Billing
    * Shipping
@@ -151,9 +151,9 @@ To create a new personal address:
    * State
    * Zip/Postal Code
 
-   .. note:: To make the new address primary, select the **Is Primary Address** check box.
+   .. note:: To make the new address primary, select the **Is Primary Address** checkbox.
 
-   For address type and usage, enable the following check boxes:
+   For address type and usage, enable the following checkboxes:
 
    * Billing
    * Shipping

@@ -68,7 +68,7 @@ All past orders table contains the following information:
 14. Updated At
 15. More Actions (View)
 
-Within each of the tables, you have the following :ref:`actions buttons <frontstore-guide--navigation-action-buttons>` available:
+Within each of the tables, you have the following :ref:`action buttons <frontstore-guide--navigation-action-buttons>` available:
 
 1. Refresh the view table: click |IcRefresh| to update the view table.
 2. Reset the view table: click |IcReset| to clear view table customization and return to default settings. Reset applies to all filters, records per page and sorting changes that you have made.
@@ -248,10 +248,6 @@ Once the products for purchase and their quantity have been selected, the custom
 
    .. image:: /user_guide/img/system/workflows/checkout/Shipping_Info.png
 
-   .. note:: If shipping discounts apply to the order, this will be displayed in the totals.
-
-             .. image:: /user_guide/img/marketing/promotions/ShippingDiscountFront.png
-
 **Step 4: Payment**
    
    Choose a suitable :ref:`payment method <user-guide--payment>` by selecting it from the list of all available methods.
@@ -277,7 +273,7 @@ Once the products for purchase and their quantity have been selected, the custom
 
    .. image:: /user_guide/img/system/workflows/checkout/Order_Review.png
    .. note::     
-     It is possible to amend the order by clicking **Edit Order** in the right corner of the Order Summary section. The Order Summary section will be available for Billing Information, Shipping Information, Shipping Method and Payment pages.Editing the order will remain possible throughout the checkout process until the order is submitted.
+     It is possible to amend the order by clicking **Edit Order** in the right corner of the Order Summary section. The Order Summary section will be available for Billing Information, Shipping Information, Shipping Method and Payment pages. Editing the order will remain possible throughout the checkout process until the order is submitted.
 
    .. image:: /user_guide/img/system/workflows/checkout/Checkout_BilInfo.png
 

@@ -12,7 +12,8 @@ Shipping Overview
 .. include:: /user_guide/shipping/shipping_overview.rst
    :start-after: begin
 
-.. Shipping Configuration----------------------
+Shipping Configuration
+----------------------
 
 .. include:: /user_guide/shipping/configuration/index.rst
    :start-after: begin
@@ -24,11 +25,18 @@ Shipping Information About the Product
 .. include:: /user_guide/shipping/shipping_attributes.rst
    :start-after: begin
 
-Shipping Tracking Details in the Order
---------------------------------------
+.. _user-guide--shipping-order:
 
-.. include:: /user_guide/shipping/shipping_tracking.rst
-   :start-after: begin
+Shipping Details in the Order
+-----------------------------
+
+When a customer user submits an order, they provide the shipping address and, optionally, the *Do Not Ship Later Than* date. Based on this information and their selected shipping method, they may see the shipping cost estimate. After a sales person adds the shipping service and their tracking number to the order, customer user can track the delivery (if this option is provided by the shipping company).
+
+.. image:: /user_guide/img/system/shipping_rules/ShippingTrackingOrders.png
+
+.. image:: /user_guide/img/system/shipping_rules/ShippingTrackingOrdersForm.png
+
+.. image:: /user_guide/img/system/shipping_rules/ShippingTrackingFront.png
 
 Shipping Management in the Quote
 --------------------------------
@@ -40,6 +48,11 @@ Shipping Management in the Quote
 .. Shipping Control in the Checkout (Front Store)
    ----------------------------------------------
    .. include:: /user_guide/shipping/shipping_checkout.rst
+   :start-after: begin
+
+.. Shipping Tracking
+   -----------------
+   .. include:: /user_guide/shipping/shipping_tracking.rst
    :start-after: begin
 
 .. include:: /user_guide/include_images.rst
@@ -57,6 +70,6 @@ Shipping Management in the Quote
 
    shipping_options_in_quotes
 
-   shipping_tracking
+   shipping_checkout
 
-..    shipping_checkout
+.. TODO add shipping tracking section
