@@ -5,8 +5,14 @@
 Create an Order from Scratch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. important:: See a short demo on `how to create a new order from scratch <https://www.orocommerce.com/media-library/create-new-order#play=ztwuz7NX1Y4>`_ or keep reading for step-by-step guidance.
+.. hint::
 
+   See a short demo on `how to create a new order from scratch <https://www.orocommerce.com/media-library/create-new-order#play=ztwuz7NX1Y4>`_ or keep reading for step-by-step guidance.
+   
+   .. raw:: html
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ztwuz7NX1Y4" frameborder="0" allowfullscreen></iframe>
+      
 To create a new order from scratch:
 
 1. Navigate to **Sales > Orders** in the main menu.
@@ -14,6 +20,10 @@ To create a new order from scratch:
    
    .. image:: /user_guide/img/sales/orders/CreateOrderButton.png
       :class: with-border
+      
+   .. raw:: html
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ztwuz7NX1Y4" frameborder="0" allowfullscreen></iframe>
       
 3. In the **General** section, fill in the following fields:
    
