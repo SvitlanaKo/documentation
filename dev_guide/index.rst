@@ -1,5 +1,5 @@
-Developer's Guide
-=================
+Developer Guide
+===============
 
 This guide provides an overview of OroPlatform architecture, design and key features. This section will help you better understand the internal organization and technical details of Oro applications.
 

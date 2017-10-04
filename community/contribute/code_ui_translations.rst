@@ -1,7 +1,7 @@
 ..  _doc--community--ui-translations:
 
-Contributing to Translations
-============================
+Contribute to Translations
+==========================
 
 .. contents:: :local:
 
@@ -123,5 +123,5 @@ See Also
 :ref:`Release Process <doc--community--release>`
 
 
-.. include:: ../img/buttons/include_images.rst
+.. include:: /img/buttons/include_images.rst
    :start-after: begin

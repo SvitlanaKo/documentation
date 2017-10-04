@@ -61,8 +61,10 @@ Example of a Well Defined Issue
 
 **Screenshot**:
 
-|
+.. image:: /community/img/contributing/contacts.jpg
 
-.. image:: ./img/contributing/contacts.jpg
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-|
+   issue_security_report

@@ -140,28 +140,28 @@ Developer's Guide
     </div>
 
 .. toctree::
-    :maxdepth: 2
-    :titlesonly:
-    :includehidden:
-    :hidden:
+   :maxdepth: 2
+   :titlesonly:
+   :includehidden:
+   :hidden:
 
-    user_guide/index
+   install_upgrade/index
 
-    user_guide_sales_tools/index
+   user_guide/index
 
-    user_guide_marketing_tools/index
+   user_guide_sales_tools/index
 
-    user_guide_support_tools/index
+   user_guide_marketing_tools/index
 
-    install_upgrade/index
+   user_guide_support_tools/index
 
-    admin_guide/index
+   admin_guide/index
 
-    dev_guide/index
+   dev_guide/index
 
-    community/index
+   community/index
 
-    reference/index
+   reference/index
 
-    system_requirements
+   system_requirements
 

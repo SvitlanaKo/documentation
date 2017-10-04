@@ -37,15 +37,7 @@ Responsible disclosure is the industry best practice, and we recommend it as a p
 
 We will not disclose security issues until our internal investigation is finished, but we will work with you to ensure we fully understand the issue. Once the issue is resolved, we will post a security update along with thanks and credit for the discovery. We ask for your patience while we make sure all users of our products are protected.
 
-
 See Also
 --------
 
 :ref:`Report an Issue <doc--community--issue-report>`
-
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   issue_security_report

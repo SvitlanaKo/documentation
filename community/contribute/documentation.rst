@@ -117,7 +117,7 @@ Use an underline with =, -, ^, ~, " to mark up the sections.
 
 Preview:
 
-.. image:: ./img/contributing/write.png
+.. image:: /community/img/contributing/write.png
 
 Preserve the same level of indentation for all lines of the paragraph. More information is available `here <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#paragraphs>`_.
 
