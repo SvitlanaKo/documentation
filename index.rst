@@ -10,7 +10,7 @@ This section provides links to the online documentation for the latest OroCommer
    <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%;">
       <div style="float: left;width: 33.3%;padding-right: 10px;height: 100%;">
          <div style="text-align: center;">
-            <a class="reference internal" href="user-guide"><h3><i class="fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+            <a class="reference internal" href="/user-guide"><h3><i class="fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
             TEST User Guide</h3></a>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
