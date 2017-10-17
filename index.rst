@@ -11,14 +11,13 @@ This section provides links to the online documentation for the latest OroCommer
       
       .. raw:: html
          
-         <div style="text-align: center;">
+         <div style="text-align: center;"><h3>
          
       :ref:`TEST links <doc--products>`
-      =================================
       
       .. raw:: html
          
-         </div>
+         </h3></div>
       
 Above is more rst-like code.      
 
