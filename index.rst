@@ -11,15 +11,43 @@ This section provides links to the online documentation for the latest OroCommer
       
       .. raw:: html
          
-         <div style="text-align: center;"><h3>
+         <div style="text-align: center;"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
          
-      :ref:`TEST links <doc--products>`
+      :ref:`User Guide <user-guide--products--master-catalog>`
       
       .. raw:: html
          
          </h3></div>
+         
+   .. container:: guideline__item
       
-Above is more rst-like code.      
+      .. raw:: html
+         
+         <div style="text-align: center;"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+         
+      :ref:`User Guide <user-guide--products--master-catalog>`
+      
+      .. raw:: html
+         
+         </h3></div>
+
+   .. container:: guideline__item
+      
+      .. raw:: html
+         
+         <div style="text-align: center;"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+         
+      :ref:`User Guide <user-guide--products--master-catalog>`
+      
+      .. raw:: html
+         
+         </h3></div>
+
+
+Above is more rst-like code.  
+
+
+More tests.
 
 .. raw:: html
 
