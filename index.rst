@@ -5,8 +5,22 @@ OroCommerce is an open-source Business to Business eCommerce application built w
 
 This section provides links to the online documentation for the latest OroCommerce release.
 
-
-:ref:`TEST links <doc--products>`
+.. container:: guideline
+   
+   .. container:: guideline__item
+      
+      .. raw:: html
+         
+         <div style="text-align: center;">
+         
+      :ref:`TEST links <doc--products>`
+      =================================
+      
+      .. raw:: html
+         
+         </div>
+      
+Above is more rst-like code.      
 
 .. raw:: html
 
