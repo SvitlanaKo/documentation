@@ -1,3 +1,5 @@
+.. _user-guide--customers:
+
 Customers and Customer Users
 ============================
 

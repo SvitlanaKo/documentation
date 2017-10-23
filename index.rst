@@ -64,13 +64,13 @@ Above is more rst-like code.
 
 More tests (see the first block).
 
-|IcUG| :ref:'User Guide <user-guide/configuration/units#sys-commerce-product-product-units>'
-============================================================================================
+|IcUG| :ref:'User Guide <sys--commerce--product--product-units>'
+================================================================
 
-* :ref:`Warehouses and Inventory <user-guide/inventory>`
-* :ref:`Web Catalogs <user-guide/marketing-web-catalog>`
-* :ref:`Customers <user-guide/customers>`
-* :ref:`Taxes <user-guide/taxes>`
+* :ref:`Warehouses and Inventory <user-guide--inventory>`
+* :ref:`Web Catalogs <user-guide--web-catalog>`
+* :ref:`Customers <user-guide--customers>`
+* :ref:`Taxes <user-guide--taxes>`
 
 
 
