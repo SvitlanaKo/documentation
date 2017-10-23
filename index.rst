@@ -65,7 +65,6 @@ Above is more rst-like code.
 More tests (see the first block).
 
 |IcUG| :ref:'User Guide <sys--commerce--product--product-units>'
-================================================================
 
 * :ref:`Warehouses and Inventory <user-guide--inventory>`
 * :ref:`Web Catalogs <user-guide--web-catalog>`
@@ -83,7 +82,7 @@ More tests (see the first block).
     <div class="guideline">
        <div class="guideline__item">
           <div style="text-align: center;">
-             <a class="reference internal" href="user-guide/configuration/units#sys-commerce-product-product-units"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+             <a class="reference internal" href="user-guide/products/configuration/units#sys-commerce-product-product-units"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
               User Guide</h3></a>
            </div>
            <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
