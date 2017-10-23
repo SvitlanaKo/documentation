@@ -12,7 +12,7 @@ This section provides links to the online documentation for the latest OroCommer
       .. raw:: html
          
          <div style="text-align: center;">
-             <a class="reference internal" href="configuration/units#sys-commerce-product-product-units"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+             <a class="reference internal" href="user-guide/configuration/units#sys-commerce-product-product-units"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
              User Guide</h3></a>             
            </div>
            <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
@@ -62,22 +62,36 @@ This section provides links to the online documentation for the latest OroCommer
 Above is more rst-like code.  
 
 
-More tests.
+More tests (see the first block).
+
+|IcUG| :ref:'User Guide <user-guide/configuration/units#sys-commerce-product-product-units>'
+============================================================================================
+
+* :ref:`Warehouses and Inventory <user-guide/inventory>`
+* :ref:`Web Catalogs <user-guide/marketing-web-catalog>`
+* :ref:`Customers <user-guide/customers>`
+* :ref:`Taxes <user-guide/taxes>`
+
+
+
+.. |IcUG| raw:: html
+
+   <i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i>
 
 .. raw:: html
 
     <div class="guideline">
        <div class="guideline__item">
           <div style="text-align: center;">
-             <a href="current/user-guide"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
-             User Guide</h3></a>
+             <a class="reference internal" href="user-guide/configuration/units#sys-commerce-product-product-units"><h3><i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i><br>
+              User Guide</h3></a>
            </div>
            <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
               <ul class="guideline__list">
-                    <li><a href="current/user-guide/inventory">Warehouses and Inventory</a></li>
-                    <li><a href="current/user-guide/marketing-web-catalog">Web Catalogs</a></li>
-                    <li><a href="current/user-guide/customers">Customers</a></li>
-                    <li><a href="current/user-guide/taxes">Taxes</a></li>
+                    <li><a class="reference internal" href="user-guide/inventory">Warehouses and Inventory</a></li>
+                    <li><a class="reference internal" href="user-guide/marketing-web-catalog">Web Catalogs</a></li>
+                    <li><a class="reference internal" href="user-guide/customers">Customers</a></li>
+                    <li><a class="reference internal" href="user-guide/taxes">Taxes</a></li>
                  </ul>
            </div>
        </div>
