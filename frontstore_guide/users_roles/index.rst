@@ -34,7 +34,7 @@ The users table shows the following data:
 
 .. image:: /frontstore_guide/img/users_roles/UsersActions.png
 
-Within the table you have the following :ref:`actions buttons <frontstore-guide--navigation-action-buttons>` available:
+Within the table you have the following :ref:`action buttons <frontstore-guide--navigation-action-buttons>` available:
 
 1. Refresh the view table: click |IcRefresh| to update the view table.
 2. Reset the view table: click |IcReset| to clear view table customization and return to default settings. Reset applies to all filters, records per page and sorting changes that you have made.
@@ -62,19 +62,19 @@ To create a new user, click **+Create User** on the top right of the page, next 
 A form will emerge with the following data to provide:
 
 * Customer
-* Enabled checkbox
+* Enabled check box
 * Email Address
 * Name Prefix
 * First Name
 * Middle Name
 * Last Name
 * Name Suffix
-* Send Welcome Email checkbox
+* Send Welcome Email check box
 * Birthday
 * Password
 * Confirm Password
-* Generate Password checkbox
-* Roles: administrator/buyer checkboxes
+* Generate Password check box
+* Roles: administrator/buyer check boxes
 
 
 Roles
@@ -158,10 +158,8 @@ With the Customer User Role you can manage the following access- and permissions
 
 .. image:: /frontstore_guide/img/users_roles/AccessPermissions.png
 
-|
-
 .. csv-table::
-  :header: "Field", "Entities", "Capabilities (Checkboxes)"
+  :header: "Field", "Entities", "Capabilities (Check boxes)"
   :widths: 10, 20, 50
 
   "**All**","Address, Customer User, Customer User Address, Customer User Roles, Grid (Table) View","Account Management:
@@ -213,7 +211,7 @@ With the Customer User Role you can manage the following access- and permissions
 To apply a role to a specific user:
 
 1. Scroll down to the bottom of the Edit Role page.
-2. Enable the chackbox next to the selected user.
+2. Enable the checkbox next to the selected user.
 3. Click **Save**.
 
 .. image:: /frontstore_guide/img/users_roles/RolesAllUsers.png

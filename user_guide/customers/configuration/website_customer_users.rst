@@ -13,12 +13,15 @@ To change the default settings for a website:
 2. For the necessary website, hover over the |IcMore| **More Options** menu to the right of the necessary website and click |IcConfig| to start editing the configuration.
 3. Select **Commerce > Customer Users** in the menu on the left.
 
-   The following page opens.
+.. note::
+   For faster navigation between the configuration menu sections, use :ref:`Quick Search <user-guide--system-configuration--quick-search>`.
 
-   .. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsersPerWebsite.png
-      :class: with-border
+The following page opens.
 
-   The following table describes the options available on the page:
+.. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsersPerWebsite.png
+   :class: with-border
+
+The following table describes the options available on the page:
 
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | Name                                       | Description                                                                                                                                                                                               |
@@ -27,7 +30,11 @@ To change the default settings for a website:
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | Registration Allowed                       | Enables/disables new customers registration from the Store Frontend login screen.                                                                                                                         |
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+   | Show Registration Link                     | Shows/hides the registration link from the Store Frontend login screen. The link is next to the Sign In link in the top bar.                                                                              |
+   +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | Confirmation Required                      | Enables/disables email confirmation step after the user registration.                                                                                                                                     |
+   +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+   | Require Company Name                        | Shows/hides the company name field in the registration form in the Store Frontend. Required for the individual customers who do not belong to any company.                                               |
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | Send Plain Text Password In Welcome Emails | Please, disable this option in a production environment. This option is disabled by default.                                                                                                              |
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -41,7 +48,7 @@ To change the default settings for a website:
      a) Clear the **Use Default** box next to the option.
      b) Select the new option.
 
-4. Click **Save**.
+4. Click **Save Settings**.
 
 .. finish
 

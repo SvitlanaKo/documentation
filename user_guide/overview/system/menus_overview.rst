@@ -1,10 +1,10 @@
 Overview
-========
+^^^^^^^^
 
 .. begin
 
 OroCRM and OroCommerce Management Console Menus
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. contents:: :local:
    :depth: 1
 
@@ -55,7 +55,7 @@ A **calendar_menu** is a service menu that is used on the **My Calendar** page a
 .. image:: /user_guide/img/system/menus/menus_calendar_menu.png
 
 OroCommerce Front Store Menus
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. contents:: :local:
    :depth: 1
@@ -140,8 +140,16 @@ An **oro_customer_menu** is a front store menu that defines what options the Acc
 
 .. image:: /user_guide/img/system/frontend_menu/AccMenu.png
 
+Featured Menu
+"""""""""""""
+
+A **featured_menu** is a front store menu that enables the administrator to configure the featured menu items on the homepage. 
+
+.. image:: /user_guide/img/system/frontend_menu/featured_menu.png
+
+
 .. OroCRM Customer/Partner Portal Menus
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    .. contents:: :local:
       :depth: 1
       Main Menu
