@@ -6,7 +6,7 @@ To view all Tax Jurisdictions, navigate to **Taxes > Tax Jurisdictions** in the 
 .. image:: /user_guide/img/taxes/tax_jurisdictions/TaxJurisdictions.png
    :class: with-border
 
-.. note:: To handle big volume of data, use page switcher, increase *View Per Page* or use `filters <user-guide-ui-components-grid-filters>`_ to narrow down the list to just the codes you need.
+.. note:: To handle big volume of data, use page switcher, increase *View Per Page* or use filters to narrow down the list to just the codes you need.
 
 The following information about the Tax Jurisdictions is available in the Tax Jurisdictions list:
 
@@ -30,11 +30,11 @@ You can perform the following actions with every item in the Tax Jurisdictions l
    
    OR
    
-   Aternatively: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcView| to open its details page.
+   Aternatively: Hover over the |IcMore| **More Options** menu to the right of the item and click the |IcView| to open its details page.
 
- * `Edit a Tax Jurisdiction details <edit>`_: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcEdit| to start editing its details.
+ * `Edit a Tax Jurisdiction details <edit>`_: Hover over the |IcMore| **More Options** menu to the right of the item and click the |IcEdit| to start editing its details.
 
- * Delete a Tax Jurisdiction: Hover over the |IcMore| *more actions* menu to the right of the item and click the |IcDelete| to remove the Tax Jurisdiction.
+ * Delete a Tax Jurisdiction: Hover over the |IcMore| **More Options** menu to the right of the item and click the |IcDelete| to remove the Tax Jurisdiction.
 
  * `Create Tax Jurisdiction <create>`_: Click **Create Tax Jurisdiction** to the top right from the list. 
 

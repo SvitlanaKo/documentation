@@ -1,9 +1,13 @@
-Importing Price Lists
-=====================
+.. _import-price-lists:
 
-You can import the product prices into the price list using the bulk import capabilities.
+Import Prices Into the Price List
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Import csv file should follow the price details data structure.
+.. start
+
+To streamline adding a large bulk of items, like customer information, products, prices or inventory information, you can import the bulk details from a .csv file.
+
+Import the product prices into the price list using the .csv file that follows the price details data structure.
 
 **Example of prices bulk import template**
 
@@ -13,7 +17,11 @@ Import csv file should follow the price details data structure.
 
    "sku_001", 42, "kg", 100, "USD"
 
-.. note:: The unit and currency should be created prior to the inventory levels import.
+.. note:: The unit and currency should be created before the inventory levels import.
+
+To import a bulk of price information:
+
+1. Navigate to the **Sales > Price Lists** and click on the price list which you would like to update using the bulk import.
 
 .. include:: /user_guide/getting_started/common_actions/import.rst
    :start-after: after

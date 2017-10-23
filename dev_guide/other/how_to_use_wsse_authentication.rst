@@ -1,11 +1,11 @@
+.. _how-to-use-wsse-authentication:
+
 .. index::
     single: Security; WSSE Authentication
     single: WSSE Authentication
 
 How to use WSSE authentication
 ==============================
-
-*Used application: OroPlatform 1.7*
 
 Overview
 --------
@@ -32,6 +32,7 @@ Header generation
 To generate an authentication header the console command ``oro:wsse:generate-header`` should be used.
 
 .. code-block:: bash
+    :linenos:
 
     user@host: php app/console oro:wsse:generate-header yourApiKey
     Authorization: WSSE profile="UsernameToken"
@@ -41,6 +42,7 @@ It has *apiKey* as the required argument and outputs generated headers.
 Here is an example of a request using curl:
 
 .. code-block:: bash
+    :linenos:
 
        curl -i -H "Accept: application/json" -H 'Authorization: WSSE profile="UsernameToken"' -H 'X-WSSE: UsernameToken Username="admin", PasswordDigest="buctlzbeVflrVCoEfTKB1mkltCI=", Nonce="ZmMzZDg4YzMzYzRmYjMxNQ==", Created="2014-03-22T15:24:49+00:00"' http://crmdev.lxc/app_dev.php/api/rest/latest/users
        HTTP/1.1 200 OK
@@ -63,10 +65,10 @@ To generate an authentication header with PHP:
     :linenos:
 
     $userName = 'your username';
-    $userPassword = 'your password';
-    $nonce = uniqid();
+    $userApiKey = 'your apiKey';
+    $nonce = base64_encode(substr(md5(uniqid()), 0, 16));
     $created  = date('c');
-    $digest   = base64_encode(sha1(base64_decode($nonce) . $created . $userPassword, true));
+    $digest   = base64_encode(sha1(base64_decode($nonce) . $created . $userApiKey, true));
 
     $wsseHeader = "Authorization: WSSE profile=\"UsernameToken\"\n";
     $wsseHeader.= sprintf(
@@ -76,14 +78,13 @@ To generate an authentication header with PHP:
         $nonce,
         $created
     );
-    
 
 Header and nonce lifetime
 -------------------------
 
-The generated header has a lifetime of 300s and it expires if not used during this time.
+The generated header has a lifetime of 3600s and it expires if not used during this time.
 Each *nonce* might be used only once in specific time for generation of the *password digest*.
-By default, the *nonce* cooldown time is also set to 300s.
+By default, the *nonce* cooldown time is also set to 3600s.
 This rule is aimed to improve safety of the application and prevent *"replay"* attacks.
 
 Therefore, the header generation algorithm should be implemented on the side of the client application and headers should be re-generated for each request.
