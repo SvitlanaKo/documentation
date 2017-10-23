@@ -165,7 +165,7 @@ More tests (see the first block).
         :titlesonly:
         :maxdepth: 3
 
-        configuration_guide/index
+
 
         user_guide/index
 
