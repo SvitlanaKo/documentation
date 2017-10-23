@@ -64,18 +64,9 @@ Above is more rst-like code.
 
 More tests (see the first block).
 
-|IcUG| :ref:'User Guide <sys--commerce--product--product-units>'
-
-* :ref:`Warehouses and Inventory <user-guide--inventory>`
-* :ref:`Web Catalogs <user-guide--web-catalog>`
-* :ref:`Customers <user-guide--customers>`
-* :ref:`Taxes <user-guide--taxes>`
 
 
 
-.. |IcUG| raw:: html
-
-   <i class="guideline__icon fa fa-user fa-2x" aria-hidden="true" style="color:#b84926;"></i>
 
 .. raw:: html
 
@@ -87,11 +78,10 @@ More tests (see the first block).
            </div>
            <div style="overflow: hidden;margin: 0 auto;width: 100%; height:100%; text-align: left;">
               <ul class="guideline__list">
-                    <li><a class="reference internal" href="user-guide/inventory">Warehouses and Inventory</a></li>
-                    <li><a class="reference internal" href="user-guide/marketing-web-catalog">Web Catalogs</a></li>
-                    <li><a class="reference internal" href="user-guide/customers">Customers</a></li>
-                    <li><a class="reference internal" href="user-guide/taxes">Taxes</a></li>
-                 </ul>
+                   <li><a class="reference internal" href="user_guide/inventory/index.html#user-guide-inventory"><span class="std std-ref">Warehouses and Inventory</span></a></li>
+                   <li><a class="reference internal" href="user_guide/marketing_web_catalog/index.html#user-guide-web-catalog"><span class="std std-ref">Web Catalogs</span></a></li>
+                   <li><a class="reference internal" href="user_guide/customers/index.html#user-guide-customers"><span class="std std-ref">Customers</span></a></li>
+                   </ul>
            </div>
        </div>
        <div class="guideline__item">
@@ -188,5 +178,7 @@ More tests (see the first block).
         seo_config_guide/index
 
         frontstore_guide/index
+
+        service_index_info
 
 ..     install_guide/index
