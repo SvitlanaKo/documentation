@@ -16,7 +16,7 @@ In the Marketing Configuration guide, you can learn how to enable the key market
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="marketing/general-setup">
+                    <a href="general-setup">
                    General Setup
                 </a>
              </h3>
