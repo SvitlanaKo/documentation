@@ -11,8 +11,8 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/system_config.png" alt="SystemConfig">
-            <a class="reference internal" href="configuration_guide/system_configuration/index.html#configuration-guide-system-configuration"><span class="std std-ref">System Configuration</span></a></h3>
+          <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/system_config.png" alt="SystemConfig">
+            <a class="reference internal" href="system_configuration/index.html#configuration-guide-system-configuration"><span class="std std-ref">System Configuration</span></a></h3>
             </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -21,8 +21,8 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/commerce_config.png" alt="CommerceConfig">
-          <a class="reference internal" href="configuration_guide/commerce/index.html#configuration-guide-commerce-configuration"><span class="std std-ref">Commerce Configuration</span></a></h3>
+          <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/commerce_config.png" alt="CommerceConfig">
+          <a class="reference internal" href="commerce/index.html#configuration-guide-commerce-configuration"><span class="std std-ref">Commerce Configuration</span></a></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -31,8 +31,8 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/crm_config.png" alt="CRMConfig">
-          <a class="reference internal" href="configuration_guide/crm/index.html#configuration-guide-crm-configuration"><span class="std std-ref">CRM Configuration</span></a></h3>
+          <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/crm_config.png" alt="CRMConfig">
+          <a class="reference internal" href="crm/index.html#configuration-guide-crm-configuration"><span class="std std-ref">CRM Configuration</span></a></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -41,8 +41,8 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/marketing_config.png" alt="MarketingConfig">
-           <a class="reference internal" href="configuration_guide/marketing/index.html#configuration-guide-marketing-configuration"><span class="std std-ref">Marketing Configuration</span></a></p></h3>
+          <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/marketing_config.png" alt="MarketingConfig">
+           <a class="reference internal" href="marketing/index.html#configuration-guide-marketing-configuration"><span class="std std-ref">Marketing Configuration</span></a></p></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -73,6 +73,20 @@ Configuration Level Graphics
 ----------------------------
 
 By default, all configuration settings are available globally. Whenever you see the |IcOrganizationLevel| organization, |IcWebsiteLevel| website or |IcUserLevel| user icons, this means that the setting is also available on the organization, website or user level respectively.  
+
+.. container:: hidden
+
+   .. image:: ./img/landing/system_config.png
+      :width: 0px
+
+   .. image:: ./img/landing/commerce_config.png
+      :width: 0px
+
+   .. image:: ./img/landing/crm_config.png
+      :width: 0px
+
+   .. image:: ./img/landing/marketing_config.png
+      :width: 0px
 
 .. toctree::
    :includehidden:
