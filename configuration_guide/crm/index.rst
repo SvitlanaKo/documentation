@@ -15,15 +15,15 @@ In the CRM Configuration guide, discover how to enable the key sales features su
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a class="reference internal" href="sales-pipeline#">
+                    <a class="reference internal" href="crm/sales-pipeline">
                    Sales Pipeline
                 </a>
              </h3>
                   <p>Learn how to enable and set up leads, opportunities and sales territories.</p> 
                     <ul class="guideline__list">
-                      <li>Sales Territories <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li>Lead <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
-                      <li>Opportunity <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                      <li><a class="reference internal" href="../../../configuration_guide/crm/sales_pipeline/sales_territories#sys-configuration-crm-sales-pipeline-sales-territories"><span class="std std-ref">Sales Territories</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../../configuration_guide/crm/sales_pipeline/leads#sys-configuration-crm-sales-pipeline-sales-territories-leads"><span class="std std-ref">Lead</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                      <li><a class="reference internal" href="../../../configuration_guide/crm/sales_pipeline/sales_territories#sys-configuration-crm-sales-pipeline-sales-territories"><span class="std std-ref">Opportunities</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
                     </ul>
                </div>
           </div>
