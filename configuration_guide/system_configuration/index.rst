@@ -10,13 +10,13 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a class="reference internal" href="system-configuration/general-setup#">
+                    <a class="reference internal" href="system-configuration/general-setup-sysconfig#">
                    General Setup
                 </a>
              </h3>
@@ -33,7 +33,7 @@ This section of the configuration guide introduces you to the general applicatio
       </div><div  style="float:right;">
                 <ul class="guideline__list">
                      <li>User Settings</li>
-                     <li><a class="reference internal" href="../../marketing/configuration/tracking_settings.html#admin-configuration-tracking-settings"><span class="std std-ref">Tracking</span></a></li> 
+                     <li><a class="reference internal" href="../../marketing/configuration/tracking_settings#admin-configuration-tracking-settings"><span class="std std-ref">Tracking</span></a></li> 
                      <li>Upload Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
                      <li><a class="reference internal" href="../email/email_configuration_settings#admin-configuration-email-configuration"><span class="std std-ref">Email Configuration</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
                     </ul>
@@ -47,7 +47,7 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -60,14 +60,14 @@ This section of the configuration guide introduces you to the general applicatio
                   <p>Learn how to enable and setup the integration between your Oro application and Google, MS Exchange, MS Outlook, dotmailer.</p> 
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../integrations/google_integration_settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../integrations/commerce_integration#user-guide-commerce-integration-accounts"><span class="std std-ref">CRM and Commerce</span></a></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/google-integration-settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/commerce_integration#user-guide-commerce-integration-accounts"><span class="std std-ref">CRM and Commerce</span></a></li>
                      </ul>
       </div><div  style="float:right;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../integrations/dotmailer_integration_settings#admin-configuration-dotmailer-integration-settings"><span class="std std-ref">dotmailer Settings</span></a></li> 
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/dotmailer_integration_settings#admin-configuration-dotmailer-integration-settings"><span class="std std-ref">dotmailer Settings</span></a></li> 
                      </ul>
     
         </div>
@@ -79,7 +79,7 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -107,7 +107,7 @@ This section of the configuration guide introduces you to the general applicatio
    :hidden:
    :maxdepth: 1
    
-   general_setup/index
+   general_setup_sysconfig/index
    integrations/index
    websites/index
 
