@@ -9,13 +9,13 @@ In the CRM Configuration guide, discover how to enable the key sales features su
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/sales_pipeline_config.jpg" alt="SalesPipelineConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/sales_pipeline_config.jpg" alt="SalesPipelineConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/crm/sales-pipeline">
+                    <a href="crm/sales-pipeline">
                    Sales Pipeline
                 </a>
              </h3>

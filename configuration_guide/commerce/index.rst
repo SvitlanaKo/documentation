@@ -9,13 +9,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/customer_config.jpg" alt="CustomerConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/customer_config.jpg" alt="CustomerConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/customer">
+                    <a href="commerce/customer">
                    Customer
                 </a>
              </h3>
@@ -32,13 +32,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
    <div class="guideline" >
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF;"> 
-         <img src="../../_images/guests_config.jpg" alt="GuestsConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/guests_config.jpg" alt="GuestsConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px;  width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/guests">
+                    <a href="guests">
                    Guests
                 </a>
              </h3>
@@ -51,13 +51,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
      <div class="guideline">
         <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/catalog_config.jpeg" alt="CatalogConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/catalog_config.jpeg" alt="CatalogConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;">
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/catalog">
+                    <a href="commerce/catalog">
                    Catalog
                 </a>
              </h3>
@@ -74,13 +74,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
      
       <div class="guideline">
          <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/design_config.jpeg" alt="DesignConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/design_config.jpeg" alt="DesignConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/design">
+                    <a href="commerce/design">
                    Design
                 </a>
              </h3>
@@ -93,13 +93,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
    
       <div class="guideline">
          <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/product_config.jpg" alt="ProductConfig" style="max-width: 300px; padding-top: 25px; vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/product_config.jpg" alt="ProductConfig" style="max-width: 300px; padding-top: 25px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/product">
+                    <a href="commerce/product">
                    Product
                 </a>
              </h3>
@@ -126,13 +126,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
     <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/inventory_config.jpg" alt="Inventory" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/inventory_config.jpg" alt="Inventory" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/inventory">
+                    <a href="commerce/inventory">
                    Inventory
                 </a>
              </h3>
@@ -150,13 +150,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
    
       <div class="guideline">
         <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/sales_config.jpeg" alt="SalesConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/sales_config.jpeg" alt="SalesConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/sales">
+                    <a href="commerce/sales">
                    Sales
                 </a>
              </h3>
@@ -184,13 +184,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
       <div class="guideline">
         <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/taxes_config.jpeg" alt="TaxationConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/taxes_config.jpeg" alt="TaxationConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/taxes">
+                    <a href="commerce/taxes">
                    Taxation
                 </a>
              </h3>
@@ -215,13 +215,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
      <div class="guideline">
        <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/payment_config.jpg" alt="PaymentConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/payment_config.jpg" alt="PaymentConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/payment">
+                    <a href="commerce/payment">
                    Payment
                 </a>
              </h3>
@@ -234,13 +234,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
     <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/order_config.jpg" alt="OrdersConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/order_config.jpg" alt="OrdersConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/orders">
+                    <a href="commerce/orders">
                    Orders  
                 </a>
              </h3>
@@ -256,13 +256,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
       <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/shipping_config.jpeg" alt="ShippingConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/shipping_config.jpeg" alt="ShippingConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/commerce/shipping">
+                    <a href="commerce/shipping">
                    Shipping
                 </a>
              </h3>

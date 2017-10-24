@@ -10,13 +10,13 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/system_configuration/general_setup">
+                    <a href="system_configuration/general_setup">
                    General Setup
                 </a>
              </h3>
@@ -47,13 +47,13 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/system-configuration/integrations">
+                    <a href="system-configuration/integrations">
                    Integrations
                 </a>
              </h3>
@@ -79,13 +79,13 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/system-configuration/websites">
+                    <a href="system-configuration/websites">
                    Websites
                 </a>
              </h3>
