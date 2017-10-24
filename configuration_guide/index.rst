@@ -12,7 +12,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
           <div style="text-align: center">
           <h3>
           <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/system_config.png" alt="SystemConfig">
-            <a class="reference internal" href="system_configuration/index.html#configuration-guide-system-configuration"><span class="std std-ref">System Configuration</span></a></h3>
+            <a class="reference internal" href="system_configuration#configuration-guide-system-configuration"><span class="std std-ref">System Configuration</span></a></h3>
             </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -22,7 +22,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
           <div style="text-align: center">
           <h3>
           <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/commerce_config.png" alt="CommerceConfig">
-          <a class="reference internal" href="commerce/index.html#configuration-guide-commerce-configuration"><span class="std std-ref">Commerce Configuration</span></a></h3>
+          <a class="reference internal" href="commerce#configuration-guide-commerce-configuration"><span class="std std-ref">Commerce Configuration</span></a></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -32,7 +32,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
           <div style="text-align: center">
           <h3>
           <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/crm_config.png" alt="CRMConfig">
-          <a class="reference internal" href="crm/index.html#configuration-guide-crm-configuration"><span class="std std-ref">CRM Configuration</span></a></h3>
+          <a class="reference internal" href="crm#configuration-guide-crm-configuration"><span class="std std-ref">CRM Configuration</span></a></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
@@ -42,7 +42,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
           <div style="text-align: center">
           <h3>
           <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/marketing_config.png" alt="MarketingConfig">
-           <a class="reference internal" href="marketing/index.html#configuration-guide-marketing-configuration"><span class="std std-ref">Marketing Configuration</span></a></p></h3>
+           <a class="reference internal" href="marketing#configuration-guide-marketing-configuration"><span class="std std-ref">Marketing Configuration</span></a></p></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
           </div>
