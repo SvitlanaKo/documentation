@@ -1,7 +1,7 @@
 .. _configuration--guide--system--configuration:
 
-System Configuration
-====================
+System Configuration Settings
+=============================
 
 This section of the configuration guide introduces you to the general application setup, integration settings and website configuration. 
 
