@@ -15,7 +15,7 @@ In the CRM Configuration guide, discover how to enable the key sales features su
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="sales-pipeline">
+                    <a class="reference internal" href="sales-pipeline">
                    Sales Pipeline
                 </a>
              </h3>

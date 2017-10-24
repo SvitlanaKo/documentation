@@ -15,7 +15,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="customer">
+                    <a class="reference internal" href="customer">
                    Customer
                 </a>
              </h3>
@@ -38,7 +38,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="guests">
+                    <a class="reference internal" href="guests">
                    Guests
                 </a>
              </h3>
@@ -57,7 +57,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="catalog">
+                    <a class="reference internal" href="catalog">
                    Catalog
                 </a>
              </h3>
@@ -80,7 +80,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="design">
+                    <a class="reference internal" href="design">
                    Design
                 </a>
              </h3>
@@ -99,7 +99,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="product">
+                    <a class="reference internal" href="product">
                    Product
                 </a>
              </h3>
@@ -132,7 +132,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="inventory">
+                    <a class="reference internal" href="inventory">
                    Inventory
                 </a>
              </h3>
@@ -156,7 +156,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="sales">
+                    <a class="reference internal" href="sales">
                    Sales
                 </a>
              </h3>
@@ -190,7 +190,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="taxes">
+                    <a class="reference internal" href="taxes">
                    Taxation
                 </a>
              </h3>
@@ -221,7 +221,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="payment">
+                    <a class="reference internal" href="payment">
                    Payment
                 </a>
              </h3>
@@ -240,7 +240,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="orders">
+                    <a class="reference internal" href="orders">
                    Orders  
                 </a>
              </h3>
@@ -262,7 +262,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="shipping">
+                    <a class="reference internal" href="shipping">
                    Shipping
                 </a>
              </h3>
