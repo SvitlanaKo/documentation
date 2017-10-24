@@ -16,7 +16,7 @@ This section of the configuration guide introduces you to the general applicatio
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a class="reference internal" href="general_setup#general-setup">
+                    <a class="reference internal" href="system-configuration/general-setup#general-setup">
                    General Setup
                 </a>
              </h3>
@@ -53,7 +53,7 @@ This section of the configuration guide introduces you to the general applicatio
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a class="reference internal" href="integrations#integrations">
+                    <a class="reference internal" href="system-configuration/integrations#integrations">
                    Integrations
                 </a>
              </h3>
@@ -85,7 +85,7 @@ This section of the configuration guide introduces you to the general applicatio
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a class="reference internal" href="websites#websites">
+                    <a class="reference internal" href="system-configuration/websites#websites">
                    Websites
                 </a>
              </h3>
