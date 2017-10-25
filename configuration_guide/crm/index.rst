@@ -23,7 +23,7 @@ In the CRM Configuration guide, discover how to enable the key sales features su
                     <ul class="guideline__list">
                       <li><a class="reference internal" href="crm/sales-pipeline/sales-territories#sys-configuration-crm-sales-pipeline-sales-territories"><span class="std std-ref">Sales Territories</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                       <li><a class="reference internal" href="crm/sales-pipeline/leads#sys-configuration-crm-sales-pipeline-sales-territories-leads"><span class="std std-ref">Lead</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li><a class="reference internal" href="crm/sales-pipeline/sales-territories#sys-configuration-crm-sales-pipeline-sales-territories"><span class="std std-ref">Opportunities</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="crm/sales-pipeline/opportunities#sys-configuration-crm-sales-pipeline-opportunities"><span class="std std-ref">Opportunities</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
                </div>
           </div>
