@@ -75,7 +75,6 @@ This section of the configuration guide introduces you to the general applicatio
                </div>
           </div>
       </div>
-   </div> 
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
