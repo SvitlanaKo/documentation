@@ -25,10 +25,10 @@ This section of the configuration guide introduces you to the general applicatio
       <div  style="float:left;">
                 <ul class="guideline__list">
                      <li>Application Settings</li>
-                     <li><a class="reference internal" href="../localization/localization#sys-config-sysconfig-general-setup-localization-global"><span class="std std-ref">Localization</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../localization/language_settings#sys-config-sysconfig-general-setup-language-settings"><span class="std std-ref">Language Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../pricing/configuration/global_currency#sys-config-sysconfig-general-setup-currency"><span class="std std-ref">Currency</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../general_setup/display_settings#configuration-general-setup-display-settings"><span class="std std-ref">Display Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/localization/localization#sys-config-sysconfig-general-setup-localization-global"><span class="std std-ref">Localization</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/localization/language_settings#sys-config-sysconfig-general-setup-language-settings"><span class="std std-ref">Language Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../../user_guide/pricing/configuration/global_currency#sys-config-sysconfig-general-setup-currency"><span class="std std-ref">Currency</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/general_setup/display_settings#configuration-general-setup-display-settings"><span class="std std-ref">Display Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
       </div><div  style="float:right;">
                 <ul class="guideline__list">
@@ -60,14 +60,14 @@ This section of the configuration guide introduces you to the general applicatio
                   <p>Learn how to enable and setup the integration between your Oro application and Google, MS Exchange, MS Outlook, dotmailer.</p> 
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../user-guide/system/integrations/google-integration-settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../user-guide/system/integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../user-guide/system/integrations/commerce_integration#user-guide-commerce-integration-accounts"><span class="std std-ref">CRM and Commerce</span></a></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/google-integration-settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/commerce_integration#user-guide-commerce-integration-accounts"><span class="std std-ref">CRM and Commerce</span></a></li>
                      </ul>
       </div><div  style="float:right;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../user-guide/system/integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../user-guide/system/integrations/dotmailer_integration_settings#admin-configuration-dotmailer-integration-settings"><span class="std std-ref">dotmailer Settings</span></a></li> 
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/dotmailer_integration_settings#admin-configuration-dotmailer-integration-settings"><span class="std std-ref">dotmailer Settings</span></a></li>
                      </ul>
     
         </div>
@@ -91,8 +91,8 @@ This section of the configuration guide introduces you to the general applicatio
              </h3>
                   <p>Learn how to set up general routing and sitemap settings.</p> 
                     <ul class="guideline__list">
-                      <li><a class="reference internal" href="../../../seo_config_guide/website/configuration/global_routing#sys-config-sysconfig-websites-routing"><span class="std std-ref">Routing</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li><a class="reference internal" href="../../../seo_config_guide/website/configuration/global_sitemap#sys-config-sysconfig-websites-sitemap"><span class="std std-ref">Sitemap</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                      <li><a class="reference internal" href="../../seo_config_guide/website/configuration/global_routing#sys-config-sysconfig-websites-routing"><span class="std std-ref">Routing</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../seo_config_guide/website/configuration/global_sitemap#sys-config-sysconfig-websites-sitemap"><span class="std std-ref">Sitemap</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                       </ul>
                </div>
           </div>
