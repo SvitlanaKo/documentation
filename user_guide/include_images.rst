@@ -313,7 +313,7 @@ Images
 
 .. |IcUserLevel| raw:: html
 
-   <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i>
+   <i class="fa fa-user fa-lg" aria-hidden="true" style="color:#56A5EC"></i>
 
 .. |IcWebsiteLevel| raw:: html
 

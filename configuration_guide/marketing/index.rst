@@ -10,7 +10,7 @@ In the Marketing Configuration guide, you can learn how to enable the key market
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/marketing_config.png" alt="MarketingConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/marketing_config.png" alt="MarketingConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">

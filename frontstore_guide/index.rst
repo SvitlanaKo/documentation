@@ -9,6 +9,8 @@ The following guide is intended as an introduction to the OroCommerce default fr
 For a quick orientation, see how to :ref:`Register and Sign in <frontstore-guide--getting-started>` and check out the :ref:`Navigation Basics <frontstore-guide--navigation>`.
 
 .. toctree::
+   :includehidden:
+   :titlesonly:
    :hidden:
    :maxdepth: 1
 
@@ -18,6 +20,7 @@ For a quick orientation, see how to :ref:`Register and Sign in <frontstore-guide
    address_book/index
    users_roles/index
    orders/index
+   previously_purchased/index
    rfq/index
    quotes/index
    shopping_lists/index
@@ -40,6 +43,7 @@ In the :ref:`Organize your planned purchases in the Shopping Lists <frontstore-g
 * Five ways to create a new shopping list.
 * How do I manage my shopping list?
 * Can I add notes on my shopping list?
+* Can I view my previously purchased products?
 
 .. Can I submit an order on behalf of other person in my organization?
 
@@ -89,6 +93,16 @@ In the :ref:`Manage Users in Your Organization and Control Their Access Level <f
 * Can I create a new access level for user in my organization?
 
 ..  Can I change the password on behalf of the other user?
+
+Explore OroCommerce Unregistered
+--------------------------------
+
+In the following topics, you can find answers to the next questions:
+
+* :ref:`How do I create a RFQ if I am browsing as a guest <frontstore-guide--rfq--guests>`?
+* :ref:`How can I place an order if I am not registered <frontstore-guide--orders-quick-order>`?
+* :ref:`How can I create and manage shopping lists as a guest user <frontstore-guide--shopping-lists-guest>`?
+
 
 **Sample Front Store**
 

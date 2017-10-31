@@ -63,7 +63,7 @@ To change the default routing settings for the website:
 
 5. Click **Save**.
 
- .. finish
+.. finish
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

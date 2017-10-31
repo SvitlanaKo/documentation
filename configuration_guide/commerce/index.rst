@@ -9,7 +9,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/customer_config.jpg" alt="CustomerConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/customer_config.jpg" alt="CustomerConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -32,7 +32,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
    <div class="guideline" >
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF;"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/guests_config.jpg" alt="GuestsConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/guests_config.jpg" alt="GuestsConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px;  width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -51,7 +51,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
      <div class="guideline">
         <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/catalog_config.jpeg" alt="CatalogConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/catalog_config.jpeg" alt="CatalogConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;">
           <div class="center-block pull-left slide-blocks">
@@ -74,7 +74,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
      
       <div class="guideline">
          <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/design_config.jpeg" alt="DesignConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/design_config.jpeg" alt="DesignConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -93,7 +93,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
    
       <div class="guideline">
          <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/product_config.jpg" alt="ProductConfig" style="max-width: 300px; padding-top: 25px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/product_config.jpg" alt="ProductConfig" style="max-width: 300px; padding-top: 25px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -126,7 +126,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
     <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/inventory_config.jpg" alt="Inventory" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/inventory_config.jpg" alt="Inventory" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -150,7 +150,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
    
       <div class="guideline">
         <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/sales_config.jpeg" alt="SalesConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/sales_config.jpeg" alt="SalesConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -184,7 +184,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
       <div class="guideline">
         <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/taxes_config.jpeg" alt="TaxationConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/taxes_config.jpeg" alt="TaxationConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -215,7 +215,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
      <div class="guideline">
        <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/payment_config.jpg" alt="PaymentConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/payment_config.jpg" alt="PaymentConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -234,7 +234,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
     <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/order_config.jpg" alt="OrdersConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/order_config.jpg" alt="OrdersConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -256,7 +256,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
 
       <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/shipping_config.jpeg" alt="ShippingConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/shipping_config.jpeg" alt="ShippingConfig" style="max-width: 300px; padding-top: 25px;  vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">

@@ -10,7 +10,7 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -47,7 +47,7 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
@@ -79,7 +79,7 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="https://oro-community.intra.orocrm.com/wp-content/uploads/documentation/svitlanako/documentation/current/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
