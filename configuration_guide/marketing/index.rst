@@ -22,7 +22,7 @@ In the Marketing Configuration guide, you can learn how to enable the key market
              </h3>
                   <p>Learn how to enable and set up marketing-related features such as marketing lists, tracking and email campaigns.</p> 
                     <ul class="guideline__list">
-                      <li><a class="reference internal" href="../../user-guide/marketing/configuration/marketing_features.html#marketing-system-configuration"><span class="std std-ref">Features</span></a></li>
+                      <li><a class="reference internal" href="../../user-guide/marketing/configuration/marketing_features#marketing-system-configuration"><span class="std std-ref">Features</span></a></li>
                     </ul>
                </div>
           </div>

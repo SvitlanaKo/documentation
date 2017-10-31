@@ -21,8 +21,8 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
              </h3>
                   <p>Learn how to set up product and category visibility restrictions, customer user registration options, and manage contact requests.</p> 
                     <ul class="guideline__list">
-                      <li><a class="reference internal" href="../../customers/configuration/visibility#sys-config-configuration-commerce-customers-visibility"><span class="std std-ref">Visibility</span></li> 
-                      <li><a class="reference internal" href="../../customers/configuration/global_customer_users#sys-config-configuration-commerce-customers-customer-users"><span class="std std-ref">Customer Users</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                      <li><a class="reference internal" href="../../user_guide/customers/configuration/visibility#sys-config-configuration-commerce-customers-visibility"><span class="std std-ref">Visibility</span></li>
+                      <li><a class="reference internal" href="../../user_guide/customers/configuration/global_customer_users#sys-config-configuration-commerce-customers-customer-users"><span class="std std-ref">Customer Users</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                       <li>Contact Requests <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
                </div>
@@ -43,7 +43,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
                 </a>
              </h3>
                   <p>Learn how to enable guest access.</p>
-                  <ul><li><a class="reference internal" href="../commerce_configuration/guest_access_global#sys-conf-commerce-guest-access-global"><span class="std std-ref">Website Access</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li></ul>
+                  <ul><li><a class="reference internal" href="../../user_guide/system/commerce_configuration/guest_access_global#sys-conf-commerce-guest-access-global"><span class="std std-ref">Website Access</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li></ul>
                </div>
           </div>
       </div>
@@ -63,9 +63,9 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
              </h3>
                   <p>Learn how to configure price lists, price selection strategies and pricing rounding, as well as enable and set up related products.</p>
                   <ul class="guideline__list">
-                    <li><a class="reference internal" href="../../products/configuration/related_products/global_related_products#sys-commerce-catalog-relate-products"><span class="std std-ref">Related Items</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li> 
-                    <li><a class="reference internal" href="../../pricing/configuration/global_pricing#sys-config-commerce-catalog-pricing"><span class="std std-ref">Pricing</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                    <li><a class="reference internal" href="../../products/configuration/global_all_products#sys-conf-commerce-catalog-special-pages-global"><span class="std std-ref">Special Pages</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                    <li><a class="reference internal" href="../../user_guide/products/configuration/related_products/global_related_products#sys-commerce-catalog-relate-products"><span class="std std-ref">Related Items</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                    <li><a class="reference internal" href="../../user_guide/pricing/configuration/global_pricing#sys-config-commerce-catalog-pricing"><span class="std std-ref">Pricing</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                    <li><a class="reference internal" href="../../user_guide/products/configuration/global_all_products#sys-conf-commerce-catalog-special-pages-global"><span class="std std-ref">Special Pages</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                   </ul>
                </div>
           </div>
@@ -85,7 +85,7 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
                 </a>
              </h3>
                   <p>Learn how to select theme settings, page and menu templates.</p>
-                   <ul><li><a class="reference internal" href="../commerce_configuration/design/theme_global#configuration-commerce-design-theme-theme-settings-globally"><span class="std std-ref">Theme</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li></ul>
+                   <ul><li><a class="reference internal" href="./design/theme_global#configuration-commerce-design-theme-theme-settings-globally"><span class="std std-ref">Theme</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li></ul>
                </div>
           </div>
       </div>
@@ -107,14 +107,14 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
     <div>
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../products/configuration/units#sys-commerce-product-product-units"><span class="std std-ref">Product Unit</span></a></li>
-                     <li><a class="reference internal" href="../../../configuration_guide/commerce/product/product_images#configuration-guide-commerce-configuration-product-images"><span class="std std-ref">Product Images</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../products/configuration/global_featured_products#sys-commerce-product-featured-products"><span class="std std-ref">Featured Products</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/products/configuration/units#sys-commerce-product-product-units"><span class="std std-ref">Product Unit</span></a></li>
+                     <li><a class="reference internal" href="./product/product_images#configuration-guide-commerce-configuration-product-images"><span class="std std-ref">Product Images</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/products/configuration/global_featured_products#sys-commerce-product-featured-products"><span class="std std-ref">Featured Products</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
     </div><div  style="float:right;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../../configuration_guide/commerce/product/promotions#configuration-guide-commerce-configuration-promotions"><span class="std std-ref">Promotions</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../marketing_web_catalog/configuration/index#configuration-guide-commerce-configuration-product-collections"><span class="std std-ref">Product Collections</span></a></li>
+                     <li><a class="reference internal" href="./product/promotions#configuration-guide-commerce-configuration-promotions"><span class="std std-ref">Promotions</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/marketing_web_catalog/configuration/index#configuration-guide-commerce-configuration-product-collections"><span class="std std-ref">Product Collections</span></a></li>
                     </ul>
     
         </div>
@@ -138,10 +138,10 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
              </h3>
                   <p>Discover how to configure your front store and management console inventory statuses, add warehouses, manage product inventory options, set inventory thresholds and quantity limitations.</p>
                      <ul class="guideline__list">
-                      <li><a class="reference internal" href="../../inventory/configuration/statuses#configuration-guide-commerce-configuration-inventory-allowed-statuses"><span class="std std-ref">Allowed Statuses</span> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li><a class="reference internal" href="../../inventory/configuration/warehouses#configuration-guide-commerce-configuration-inventory-warehouses"><span class="std std-ref">Warehouses</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li><a class="reference internal" href="../../inventory/configuration/options#configuration-guide-commerce-configuration-inventory-product-options"><span class="std std-ref">Product Options</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li><a class="reference internal" href="../../inventory/configuration/limitations#configuration-guide-commerce-configuration-inventory-limitations"><span class="std std-ref">Limitations</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../user_guide/inventory/configuration/statuses#configuration-guide-commerce-configuration-inventory-allowed-statuses"><span class="std std-ref">Allowed Statuses</span> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../user_guide/inventory/configuration/warehouses#configuration-guide-commerce-configuration-inventory-warehouses"><span class="std std-ref">Warehouses</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../user_guide/inventory/configuration/options#configuration-guide-commerce-configuration-inventory-product-options"><span class="std std-ref">Product Options</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../user_guide/inventory/configuration/limitations#configuration-guide-commerce-configuration-inventory-limitations"><span class="std std-ref">Limitations</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                      </ul> 
                </div>
           </div>
@@ -164,16 +164,16 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
    <div>
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../commerce_configuration/guest_quick_order_global#user-guide-system-configuration-commerce-sales-quick-order-form-global"><span class="std std-ref">Quick Order Form</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../marketing_promotions/configuration/index#sys-config-commerce-sales-promotions"><span class="std std-ref">Promotions</span></a></li>
-                     <li><a class="reference internal" href="../../../configuration_guide/commerce/sales/rfq#configuration-guide-commerce-configuration-sales-rfq"><span class="std std-ref">Request for Quote</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../commerce_configuration/guest_checkout_global#user-guide-system-configuration-commerce-sales-checkout-global"><span class="std std-ref">Checkout</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/commerce_configuration/guest_quick_order_global#user-guide-system-configuration-commerce-sales-quick-order-form-global"><span class="std std-ref">Quick Order Form</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/marketing_promotions/configuration/index#sys-config-commerce-sales-promotions"><span class="std std-ref">Promotions</span></a></li>
+                     <li><a class="reference internal" href="./sales/rfq#configuration-guide-commerce-configuration-sales-rfq"><span class="std std-ref">Request for Quote</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/commerce_configuration/guest_checkout_global#user-guide-system-configuration-commerce-sales-checkout-global"><span class="std std-ref">Checkout</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
     </div><div  style="float:right;">
                 <ul class="guideline__list">
                      <li>Order History</li>
-                     <li><a class="reference internal" href="../commerce_configuration/available_user_options#user-guide-system-configuration-display-sales-rep-info-available-user-options"><span class="std std-ref">Contacts</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../commerce_configuration/guest_shopping_list_global#user-guide-system-configuration-commerce-sales-shopping-list-global"><span class="std std-ref">Shopping List</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/commerce_configuration/available_user_options#user-guide-system-configuration-display-sales-rep-info-available-user-options"><span class="std std-ref">Contacts</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/commerce_configuration/guest_shopping_list_global#user-guide-system-configuration-commerce-sales-shopping-list-global"><span class="std std-ref">Shopping List</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
      </div>
     </div>
@@ -198,13 +198,13 @@ In the Commerce Configuration guide, learn how to enable and set up the key OroC
    <div>
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../taxes/configuration/tax_calculationuser-guide-taxes-tax-configuration"><span class="std std-ref">Tax Calculation</span></a></li>
-                     <li><a class="reference internal" href="../../taxes/configuration/us_sales_tax#user-guide-taxes-us"><span class="std std-ref">US Sales Tax</span></a></li>
+                     <li><a class="reference internal" href="../../user_guide/taxes/configuration/tax_calculation#user-guide-taxes-tax-configuration"><span class="std std-ref">Tax Calculation</span></a></li>
+                     <li><a class="reference internal" href="../../user_guide/taxes/configuration/us_sales_tax#user-guide-taxes-us"><span class="std std-ref">US Sales Tax</span></a></li>
                      </ul>
     </div><div  style="float:right;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../taxes/configuration/eu_vat_tax#user-guide-taxes-eu"><span class="std std-ref">EU VAT Tax</span></a></li>
-                     <li><a class="reference internal" href="../commerce_configuration/shipping_tax#sys-conf-commerce-taxation-shipping-tax"><span class="std std-ref">Shipping</span></a></li>
+                     <li><a class="reference internal" href="../../user_guide/taxes/configuration/eu_vat_tax#user-guide-taxes-eu"><span class="std std-ref">EU VAT Tax</span></a></li>
+                     <li><a class="reference internal" href="../../user-guide/system/commerce_configuration/shipping_tax#sys-conf-commerce-taxation-shipping-tax"><span class="std std-ref">Shipping</span></a></li>
                      </ul>
      </div>
      </div>
