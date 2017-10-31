@@ -60,13 +60,13 @@ This section of the configuration guide introduces you to the general applicatio
                   <p>Learn how to enable and setup the integration between your Oro application and Google, MS Exchange, MS Outlook, dotmailer.</p> 
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../user_guide/system/integrations/google-integration-settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li><a class="reference internal" href="../../user_guide/system/integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/google-integration-settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                      <li><a class="reference internal" href="../../user_guide/system/integrations/commerce_integration#user-guide-commerce-integration-accounts"><span class="std std-ref">CRM and Commerce</span></a></li>
                      </ul>
       </div><div  style="float:right;">
                 <ul class="guideline__list">
-                     <li><a class="reference internal" href="../../user_guide/system/integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user_guide/system/integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                      <li><a class="reference internal" href="../../user_guide/system/integrations/dotmailer_integration_settings#admin-configuration-dotmailer-integration-settings"><span class="std std-ref">dotmailer Settings</span></a></li>
                      </ul>
     
