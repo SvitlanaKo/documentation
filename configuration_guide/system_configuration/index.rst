@@ -1,7 +1,7 @@
 .. _configuration--guide--system--configuration:
 
-System Configuration
-====================
+System Configuration Settings
+=============================
 
 This section of the configuration guide introduces you to the general application setup, integration settings and website configuration. 
 
@@ -10,13 +10,13 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/general_config.png" alt="GeneralSetupConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/system_configuration/general_setup">
+                    <a class="reference internal" href="system-configuration/general-setup-sysconfig#">
                    General Setup
                 </a>
              </h3>
@@ -25,17 +25,17 @@ This section of the configuration guide introduces you to the general applicatio
       <div  style="float:left;">
                 <ul class="guideline__list">
                      <li>Application Settings</li>
-                     <li>Localization <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li>Language Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li>Currency <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li>Display Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../localization/localization#sys-config-sysconfig-general-setup-localization-global"><span class="std std-ref">Localization</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../localization/language_settings#sys-config-sysconfig-general-setup-language-settings"><span class="std std-ref">Language Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../pricing/configuration/global_currency#sys-config-sysconfig-general-setup-currency"><span class="std std-ref">Currency</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../general_setup/display_settings#configuration-general-setup-display-settings"><span class="std std-ref">Display Settings</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
       </div><div  style="float:right;">
                 <ul class="guideline__list">
                      <li>User Settings</li>
-                     <li>Tracking</li> 
+                     <li><a class="reference internal" href="../../marketing/configuration/tracking_settings#admin-configuration-tracking-settings"><span class="std std-ref">Tracking</span></a></li> 
                      <li>Upload Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
-                     <li>Email Configuration <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                     <li><a class="reference internal" href="../email/email_configuration_settings#admin-configuration-email-configuration"><span class="std std-ref">Email Configuration</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
                     </ul>
     
         </div>
@@ -47,27 +47,27 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/integrations_config.jpg" alt="IntegrationsConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/system-configuration/integrations">
+                    <a class="reference internal" href="system-configuration/integrations#">
                    Integrations
                 </a>
              </h3>
-                  <p>Learn how to enable and setup the integration between your Oro application and Google, MS Exchange, MS Outlook, Dotmailer.</p> 
+                  <p>Learn how to enable and setup the integration between your Oro application and Google, MS Exchange, MS Outlook, dotmailer.</p> 
       <div  style="float:left;">
                 <ul class="guideline__list">
-                     <li>Google Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li>MS Exchange Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li>CRM and Commerce</li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/google-integration-settings#admin-configuration-integrations-google"><span class="std std-ref">Google Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/ms_exchange_integration_settings#admin-configuration-ms-exchange-integration-settings"><span class="std std-ref">MS Exchange Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/commerce_integration#user-guide-commerce-integration-accounts"><span class="std std-ref">CRM and Commerce</span></a></li>
                      </ul>
       </div><div  style="float:right;">
                 <ul class="guideline__list">
-                     <li>MS Outlook Settings <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                     <li>Dotmailer Settings</li> 
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/ms_outlook_integration_settings#admin-configuration-ms-outlook-integration-settings"><span class="std std-ref">MS Outlook Settings</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i> <i class="fa fa-user-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                     <li><a class="reference internal" href="../../user-guide/system/integrations/dotmailer_integration_settings#admin-configuration-dotmailer-integration-settings"><span class="std std-ref">dotmailer Settings</span></a></li> 
                      </ul>
     
         </div>
@@ -79,20 +79,20 @@ This section of the configuration guide introduces you to the general applicatio
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/websites_config.jpg" alt="WebsitesConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/system-configuration/websites">
+                    <a class="reference internal" href="system-configuration/websites#">
                    Websites
                 </a>
              </h3>
                   <p>Learn how to set up general routing and sitemap settings.</p> 
                     <ul class="guideline__list">
-                      <li>Routing <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li>Sitemap <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                      <li><a class="reference internal" href="../../../seo_config_guide/website/configuration/global_routing#sys-config-sysconfig-websites-routing"><span class="std std-ref">Routing</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="../../../seo_config_guide/website/configuration/global_sitemap#sys-config-sysconfig-websites-sitemap"><span class="std std-ref">Sitemap</span></a> <i class="fa fa-globe" aria-hidden="true" style="color:#56A5EC"></i></li> 
                       </ul>
                </div>
           </div>
@@ -107,7 +107,7 @@ This section of the configuration guide introduces you to the general applicatio
    :hidden:
    :maxdepth: 1
    
-   general_setup/index
+   general_setup_sysconfig/index
    integrations/index
    websites/index
 

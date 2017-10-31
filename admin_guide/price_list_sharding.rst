@@ -23,7 +23,7 @@ However, it is recommended to enable price list sharding if you are experiencing
 Configure Price List Sharding
 -----------------------------
 
-1. To enable price list sharding, set the following paramenter in app/config/parameters.yml:
+1. To enable price list sharding, set the following parameter in app/config/parameters.yml:
 
 	``enable_price_sharding: true``
      
@@ -40,4 +40,4 @@ To restore the default price storage structure:
 
 2. To reorganize storage and join sharded price tables into one, run the following command:
          
-	``oro:price-lists:pl-storage-reorganize prices --strategy=base`` 
+	``oro:price-lists:pl-storage-reorganize prices --strategy=base``

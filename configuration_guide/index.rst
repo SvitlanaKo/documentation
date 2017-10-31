@@ -11,7 +11,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/system_config.png" alt="SystemConfig">
+          <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/system_config.png" alt="SystemConfig">
             <a class="reference internal" href="system_configuration#configuration-guide-system-configuration"><span class="std std-ref">System Configuration</span></a></h3>
             </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
@@ -21,7 +21,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/commerce_config.png" alt="CommerceConfig">
+          <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/commerce_config.png" alt="CommerceConfig">
           <a class="reference internal" href="commerce#configuration-guide-commerce-configuration"><span class="std std-ref">Commerce Configuration</span></a></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
@@ -31,7 +31,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/crm_config.png" alt="CRMConfig">
+          <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/crm_config.png" alt="CRMConfig">
           <a class="reference internal" href="crm#configuration-guide-crm-configuration"><span class="std std-ref">CRM Configuration</span></a></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
@@ -41,7 +41,7 @@ Oro Configuration Guide will walk your though all post-install configuration set
       <div class="guideline__item" style="background-color: #FFFFFF">
           <div style="text-align: center">
           <h3>
-          <img src="../_images/marketing_config.png" alt="MarketingConfig">
+          <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/marketing_config.png" alt="MarketingConfig">
            <a class="reference internal" href="marketing#configuration-guide-marketing-configuration"><span class="std std-ref">Marketing Configuration</span></a></p></h3>
           </div>
           <div style="overflow: hidden;margin: 0 auto;width: 100%;height:100%;text-align: left">
@@ -54,7 +54,7 @@ Configuration Levels
 
 In Oro applications, you can manage all settings on multiple configuration layers:
 
-.. image:: /img/landing/Levels.png
+.. image:: /configuration_guide/img/landing/Levels.png
 
 Based on the level where configuration has taken place, settings can fall back to other levels following the pattern below:
 
@@ -62,7 +62,7 @@ Based on the level where configuration has taken place, settings can fall back t
 * Website settings can fall back to the system settings.
 * Organization settings can fall back to the system settings.
 
-.. image:: /img/landing/ConfigLevels.png
+.. image:: /configuration_guide/img/landing/ConfigLevels.png
 
 However:
 
@@ -73,6 +73,20 @@ Configuration Level Graphics
 ----------------------------
 
 By default, all configuration settings are available globally. Whenever you see the |IcOrganizationLevel| organization, |IcWebsiteLevel| website or |IcUserLevel| user icons, this means that the setting is also available on the organization, website or user level respectively.  
+
+.. container:: hidden
+
+   .. image:: ./img/landing/system_config.png
+      :width: 0px
+
+   .. image:: ./img/landing/commerce_config.png
+      :width: 0px
+
+   .. image:: ./img/landing/crm_config.png
+      :width: 0px
+
+   .. image:: ./img/landing/marketing_config.png
+      :width: 0px
 
 .. toctree::
    :includehidden:

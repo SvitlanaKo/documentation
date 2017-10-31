@@ -9,21 +9,21 @@ In the CRM Configuration guide, discover how to enable the key sales features su
 
    <div class="guideline">
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF"> 
-         <img src="../../_images/sales_pipeline_config.jpg" alt="SalesPipelineConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
+         <img src="https://www.orocommerce.com/wp-content/uploads/sites/3/documentation/orocommerce/documentation/current/sales_pipeline_config.jpg" alt="SalesPipelineConfig" style="max-width: 300px; padding-top: 25px;  padding-left: 0px; vertical-align: text-top;">
       </div>
       <div class="col-sm-4 bg-a" style="background-color: #FFFFFF; padding-left: 50px; width:100%;" >
           <div class="center-block pull-left slide-blocks">
                <div class="promo-block">
                   <h3>
-                    <a href="current/configuration-guide/crm/sales-pipeline">
+                    <a class="reference internal" href="crm/sales-pipeline">
                    Sales Pipeline
                 </a>
              </h3>
                   <p>Learn how to enable and set up leads, opportunities and sales territories.</p> 
                     <ul class="guideline__list">
-                      <li>Sales Territories <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
-                      <li>Lead <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
-                      <li>Opportunity <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li> 
+                      <li><a class="reference internal" href="crm/sales-pipeline/sales-territories#sys-configuration-crm-sales-pipeline-sales-territories"><span class="std std-ref">Sales Territories</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="crm/sales-pipeline/leads#sys-configuration-crm-sales-pipeline-sales-territories-leads"><span class="std std-ref">Lead</span> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
+                      <li><a class="reference internal" href="crm/sales-pipeline/opportunities#sys-configuration-crm-sales-pipeline-opportunities"><span class="std std-ref">Opportunities</span></a> <i class="fa fa-building-o fa-lg" aria-hidden="true" style="color:#56A5EC"></i></li>
                     </ul>
                </div>
           </div>
