@@ -1,4 +1,4 @@
-Overview index
+Overview Index
 ==============
 
 .. toctree::
@@ -10,5 +10,7 @@ Overview index
    product_attributes_overview
 
    product_families_overview
+
+   product_variants
 
    products_overview

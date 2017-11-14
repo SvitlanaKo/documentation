@@ -3,9 +3,11 @@ System Configuration
 
 This section contains information on optional OroCommerce post-install configuration:
 
+.. system_configuration_toctree
+
 .. toctree::
    :maxdepth: 1
 
-   localization/index
+   /user_guide/system/monitoring/index
 
-   ../glossary
+   /user_guide/system/glossary
