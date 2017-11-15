@@ -11,7 +11,7 @@ When the digital product is purchased from the shipping origin address in the st
 
 Preview:
 
-.. image:: /user_guide/img/system/configuration/taxation/us_sales_tax/unlooped_Digital.gif
+.. image:: /configuration_guide/img/configuration/taxation/us_sales_tax/unlooped_Digital.gif
 
 To label digital product codes in OroCommerce as taxable in US:
 

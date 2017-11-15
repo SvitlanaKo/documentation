@@ -18,7 +18,7 @@ To enable guest request for quote submission per organization:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/rfq/RFQOrg.png
+.. image:: /configuration_guide/img/configuration/sales/rfq/RFQOrg.png
 
 4. In the **Guest RFQ** section, set whether guests are allowed to submit a request for quote.
 

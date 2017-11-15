@@ -19,7 +19,7 @@ To change these shipping options:
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/shipping/shipping_options/ShippingOptions.png
+   .. image:: /configuration_guide/img/configuration/shipping/shipping_options/ShippingOptions.png
       :class: with-border
 
    The following options are available on the page:

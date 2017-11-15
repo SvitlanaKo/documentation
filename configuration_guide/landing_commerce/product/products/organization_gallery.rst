@@ -19,22 +19,22 @@ You can configure whether to use popup or inline view for the image gallery per 
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/product/product_images/ImageGalleryOrganization.png
+.. image:: /configuration_guide/img/configuration/product/product_images/ImageGalleryOrganization.png
    :class: with-border
 
 4. When **Popup Gallery on Product View** is enabled, image gallery in the front store will take the following form:
 
-   .. image:: /user_guide/img/system/configuration/product/product_images/ImageGalleryOrganizationEnabled.png
+   .. image:: /configuration_guide/img/configuration/product/product_images/ImageGalleryOrganizationEnabled.png
       :class: with-border
 
    By clicking on the image, the pop up gallery will be displayed in the middle of the screen:
 
-   .. image:: /user_guide/img/system/configuration/product/product_images/ImageGalleryOrganizationEnabled2.png
+   .. image:: /configuration_guide/img/configuration/product/product_images/ImageGalleryOrganizationEnabled2.png
       :class: with-border
 
 5. When **Popup Gallery on Product View** is disabled, the image gallery will take the form of an inline view:
 
-   .. image:: /user_guide/img/system/configuration/product/product_images/ImageGalleryOrganizationDisabled.png
+   .. image:: /configuration_guide/img/configuration/product/product_images/ImageGalleryOrganizationDisabled.png
       :class: with-border
 
    Flick through the pictures in the gallery by pressing < or > arrows without leaving the product page.

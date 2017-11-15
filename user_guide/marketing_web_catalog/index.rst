@@ -1,3 +1,5 @@
+.. _user-guide--web-catalog:
+
 Web Catalogs
 ============
 
@@ -9,22 +11,48 @@ Overview
 --------
 
 .. include:: /user_guide/overview/marketing/web_catalogs_overview.rst
-  :start-after: begin
+   :start-after: begin
 
-To view all Web Catalogs, navigate to **Marketing > Web Catalogs** in the main menu.
+To view all web catalogs, navigate to **Marketing > Web Catalogs** in the main menu.
 
 .. image:: /user_guide/img/marketing/web_catalogs/WebCatalogs.png
    :class: with-border
 
-.. include:: create.rst
-  :end-before: finish
+Configuration
+-------------
+
+.. include:: /configuration_guide/landing_commerce/product/marketing_web_catalog/index.rst
+   :start-after: begin
+   :end-before: finish
+
+.. include:: create.rst   
+   :start-after: begin
+   :end-before: finish
+
+.. include:: web_catalog_usecase.rst   
+   :start-after: begin_enable_catalog_globally
+   :end-before: end_enable_catalog_globally
+
+.. include:: web_catalog_usecase.rst   
+   :start-after: begin_enable_catalog_per_website
+   :end-before: end_enable_catalog_per_website
+
+.. include:: web_catalog_usecase.rst   
+   :start-after: begin_web_catalog_customize
+   :end-before: end_web_catalog_customize
+
+.. include:: web_catalog_usecase.rst   
+   :start-after: begin_web_catalog_sample
+   :end-before: end_web_catalog_sample
 
 .. toctree::
    :hidden:
 
    create
 
-   edit_web_catalog_content_tree
+   edit_content_tree/index.rst
+
+   web_catalog_usecase
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

@@ -15,7 +15,7 @@ To customize the default product inventory options per website:
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/inventory/product_options_new_web.png
+   .. image:: /configuration_guide/img/configuration/inventory/product_options_new_web.png
        :class: with-border
 
    The following table describes the options available on the page:

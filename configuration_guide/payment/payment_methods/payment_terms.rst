@@ -26,7 +26,7 @@ To enable payment using payment terms:
 
 2. Click **Create Integration** and select Payment Terms as integration type:
 
-   .. image:: /user_guide/img/system/integrations/manage_integrations/payment_terms.png
+   .. image:: /configuration_guide/img/integrations/manage_integrations/payment_terms.png
       :class: with-border
 
 3. Type in the *Common Integration Details*:

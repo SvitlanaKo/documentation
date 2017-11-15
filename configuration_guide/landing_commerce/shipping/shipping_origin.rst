@@ -19,7 +19,7 @@ To change the global shipping origin:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/shipping/shipping_origin/ShippingOrigin.png
+.. image:: /configuration_guide/img/configuration/shipping/shipping_origin/ShippingOrigin.png
    :class: with-border
 
 The following options are available on the page:

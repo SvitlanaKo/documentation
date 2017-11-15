@@ -14,7 +14,7 @@ Based on the level where configuration has taken place, settings can fall back t
 * Website settings can fall back to the system settings.
 * Organization settings can fall back to the system settings.
 
-.. image:: /user_guide/img/system/configuration/sales/contacts/FallBackOptions.png
+.. image:: /configuration_guide/img/configuration/sales/contacts/FallBackOptions.png
 
 
 However:
@@ -78,13 +78,13 @@ To set up information for non-authenticated visitors:
    *Please login to get your sales rep
    information, or contact sales@acme.com*
 
-   .. image:: /user_guide/img/system/configuration/sales/contacts/UseCase1.png
+   .. image:: /configuration_guide/img/configuration/sales/contacts/UseCase1.png
 
 5. Save the settings.
 
    This information should become available on the website for non-authenticated users.
 
-   .. image:: /user_guide/img/system/configuration/sales/contacts/FrontSalesRepInfoNonAuth.png
+   .. image:: /configuration_guide/img/configuration/sales/contacts/FrontSalesRepInfoNonAuth.png
 
 To set information for logged in users, you need to make sure that in the system configuration, the settings allow John Doe as a customer user owner to enter his contact information manually in his user configuration.
    
@@ -100,13 +100,13 @@ This would allow John Doe to:
    john.doe@example.com*
 
 
-   .. image:: /user_guide/img/system/configuration/sales/contacts/UseCase2.png
+   .. image:: /configuration_guide/img/configuration/sales/contacts/UseCase2.png
 
 4. Click **Save Settings**
 
 The information should become available on the website.
 
-.. image:: /user_guide/img/system/configuration/sales/contacts/FrontSalesRepInfoLoggedIn.png
+.. image:: /configuration_guide/img/configuration/sales/contacts/FrontSalesRepInfoLoggedIn.png
 
 .. toctree::
    :hidden:

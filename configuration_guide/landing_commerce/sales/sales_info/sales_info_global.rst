@@ -20,7 +20,7 @@ To enable or disable the display of sales representative information in the fron
 
 The Customer Visible Contact Info page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/contacts/SalesInfoGlobal.png
+.. image:: /configuration_guide/img/configuration/sales/contacts/SalesInfoGlobal.png
 
 Set Display Details
 ^^^^^^^^^^^^^^^^^^^
@@ -45,7 +45,7 @@ Provide Guest Contact Details
 
 5. In the **Guest Contact** text box, you may enter contact information that will be shown to non-authenticated visitors.
 
-.. image:: /user_guide/img/system/configuration/sales/contacts/GuestContact.png
+.. image:: /configuration_guide/img/configuration/sales/contacts/GuestContact.png
 
 6. Click **Save Settings**.
 

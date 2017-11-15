@@ -16,7 +16,7 @@ To enable guest checkout globally:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/checkout/CheckoutGlobal.png
+.. image:: /configuration_guide/img/configuration/sales/checkout/CheckoutGlobal.png
 
 3. In the **Guest Checkout** section, set whether guest checkout should be enabled or disabled.
 

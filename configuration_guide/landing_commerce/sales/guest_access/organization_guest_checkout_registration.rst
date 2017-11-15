@@ -16,7 +16,7 @@ To configure guest checkout with an option to register per organization:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/checkout/GuestCheckoutRegistrationOrg.png
+.. image:: /configuration_guide/img/configuration/sales/checkout/GuestCheckoutRegistrationOrg.png
 
 4. In the **Customer Users Registration** section, you can:
 

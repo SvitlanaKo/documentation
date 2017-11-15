@@ -17,7 +17,7 @@ To enable the guest quick order form per website:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/quick_order_form/QOFWeb.png
+.. image:: /configuration_guide/img/configuration/sales/quick_order_form/QOFWeb.png
 
 4. In the **Guest Quick Order Form** section, set whether guests are allowed to create a quick order form.
 

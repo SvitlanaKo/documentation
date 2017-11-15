@@ -20,11 +20,11 @@ The options are the following:
 
   If:
 
-  .. image:: /user_guide/img/system/configuration/sales/contacts/DontDisplayInfoAdmin.png
+  .. image:: /configuration_guide/img/configuration/sales/contacts/DontDisplayInfoAdmin.png
 
   Then:
 
-  .. image:: /user_guide/img/system/configuration/sales/contacts/DontDisplayInfoSalesRep.png
+  .. image:: /configuration_guide/img/configuration/sales/contacts/DontDisplayInfoSalesRep.png
 
 * **Use User Profile Data** -- allow setting the option of user profile details to be displayed.
 
@@ -32,11 +32,11 @@ The options are the following:
 
   If:
 
-  .. image:: /user_guide/img/system/configuration/sales/contacts/UseUserProfileDataAdmin.png
+  .. image:: /configuration_guide/img/configuration/sales/contacts/UseUserProfileDataAdmin.png
 
   Then:
 
-  .. image:: /user_guide/img/system/configuration/sales/contacts/UseUserProfileDataSalesRep.png
+  .. image:: /configuration_guide/img/configuration/sales/contacts/UseUserProfileDataSalesRep.png
 
 * **Enter Manually** -- allow to set the option of manually entered text in the *Enter Contact Info* field.
 
@@ -44,21 +44,21 @@ The options are the following:
 
   If:
 
-  .. image:: /user_guide/img/system/configuration/sales/contacts/EnterManuallyAdmin.png
+  .. image:: /configuration_guide/img/configuration/sales/contacts/EnterManuallyAdmin.png
 
   Then:
 
-  .. image:: /user_guide/img/system/configuration/sales/contacts/EnterManuallySalesRep.png
+  .. image:: /configuration_guide/img/configuration/sales/contacts/EnterManuallySalesRep.png
 
   .. note:: You can choose to use multiple options by holding Ctrl when selecting the option. When all options are selected in **Available User Options**, the user will see them all in their configuration settings as well.
 
     If:
 
-    .. image:: /user_guide/img/system/configuration/sales/contacts/SelectMultipleOptions.png
+    .. image:: /configuration_guide/img/configuration/sales/contacts/SelectMultipleOptions.png
 
     Then:
 
-    .. image:: /user_guide/img/system/configuration/sales/contacts/AllOptionsSalesRep.png
+    .. image:: /configuration_guide/img/configuration/sales/contacts/AllOptionsSalesRep.png
 
 .. warning:: Please note that Allow User Configuration options define *user* level settings only.
 

@@ -25,7 +25,7 @@ To change the default product collections indexation frequency:
 
    .. The following page opens.
 
-   .. .. image:: /user_guide/img/system/configuration/inventory/limitations.png
+   .. .. image:: /configuration_guide/img/configuration/inventory/limitations.png
          :class: with-border
 
 3. To customize the Indexation Cron Schedule:

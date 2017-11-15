@@ -20,7 +20,7 @@ To update the product watermark settings:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/product/product_images/ProductImages.png
+   .. image:: /configuration_guide/img/configuration/product/product_images/ProductImages.png
 
    The following options are available:
 

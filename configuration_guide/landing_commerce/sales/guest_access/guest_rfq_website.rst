@@ -15,7 +15,7 @@ Configure Guest Request for Quote Submission per Website
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/rfq/RFQWebsite.png
+.. image:: /configuration_guide/img/configuration/sales/rfq/RFQWebsite.png
 
 4. In the **Guest RFQ** section, set whether guests are allowed to submit a request for quote.
 

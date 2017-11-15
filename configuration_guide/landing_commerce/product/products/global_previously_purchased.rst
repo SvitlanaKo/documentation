@@ -12,7 +12,7 @@ To enable previously purchased products page globally:
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/product/previously_purchased/PreviouslyPurchasedGlobal.png
+   .. image:: /configuration_guide/img/configuration/product/previously_purchased/PreviouslyPurchasedGlobal.png
 
 3. In the **Purchase History** section:
 

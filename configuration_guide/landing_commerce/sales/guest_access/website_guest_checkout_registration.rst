@@ -15,7 +15,7 @@ Configure Guest Checkout with Registration Options per Website
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/checkout/GuestCheckoutRegistrationWeb.png
+.. image:: /configuration_guide/img/configuration/sales/checkout/GuestCheckoutRegistrationWeb.png
 
 4. In the **Customer Users Registration** section, you can:
 

@@ -19,7 +19,7 @@ To reach the workflow:
 1. Navigate to **System > Workflows** in the main menu.
 2. Click **Quote Management Flow** to open the flow. The following page opens:
    
-.. image:: /user_guide/img/system/workflows/workflows/QuoteBackofficeFlow.png
+.. image:: /configuration_guide/img/workflows/workflows/QuoteBackofficeFlow.png
    
 .. note:: Since Quote Management Flow is a system workflow, it cannot be edited or deleted.
 
@@ -52,7 +52,7 @@ When the QMF is active, the following statuses are available:
   Reviewed
   Not Approved
 
-.. image:: /user_guide/img/system/workflows/workflows/InternalStatusesGrid.png  
+.. image:: /configuration_guide/img/workflows/workflows/InternalStatusesGrid.png
 
 2. Customer Statuses are the statuses displayed to customers in the front store:
 
@@ -88,7 +88,7 @@ The QMF consists of the following steps and transitions:
    c) For **Closed**: Reopen
    d) For **Deleted**: Undelete
 
-.. image:: /user_guide/img/system/workflows/workflows/QBW_steps_transitions_table.png
+.. image:: /configuration_guide/img/workflows/workflows/QBW_steps_transitions_table.png
 
 .. note:: Please note that Accepted and Declined transitions for the Sent to Customer step are automatically triggered by the changes of customer statuses and they do not, therefore, take the form of buttons in the interface.
 
@@ -101,27 +101,27 @@ As an illustration, let us go through a sample flow to see the QMF in action:
 
 1. Once a quote is created, it is automatically moved to the **Draft** step with the possibility to edit, clone, delete and send the quote to a customer.
    
-   .. image:: /user_guide/img/system/workflows/workflows/Illustration_1.png
+   .. image:: /configuration_guide/img/workflows/workflows/Illustration_1.png
     
 2. The quote with an offer valid until 19 April is sent to a customer.
    
-   .. image:: /user_guide/img/system/workflows/workflows/Illustration_2.png
+   .. image:: /configuration_guide/img/workflows/workflows/Illustration_2.png
 
   The quote transitions from **Draft** state into **Sent to Customer**. Now it is possible to cancel, expire, delete, create a quote, or mark it as declined by customer.
 
 
-  .. image:: /user_guide/img/system/workflows/workflows/Illustration_3.png
+  .. image:: /configuration_guide/img/workflows/workflows/Illustration_3.png
 
   .. note:: If a customer generates an order based on the quote, you can leave the quote in the **Sent to Customer** state so that customer user could reuse it for future orders, or expire it to disable orders based on this quote.
 
 
 3. The customer provided no feedback on the quote before 19 April, and the quote is expired by the sales personnel, leaving it in the **Closed** step.
 
-  .. image:: /user_guide/img/system/workflows/workflows/Illustration_4.png
+  .. image:: /configuration_guide/img/workflows/workflows/Illustration_4.png
 
 4. The offer has been reconsidered and validation date was extended until 21 April. The quote is reopened. It is moved back to the draft step with the possibility to edit, clone, delete and send the quote to a customer. The quote number is changed (in our case, from 22 to 23).
    
-  .. image:: /user_guide/img/system/workflows/workflows/Illustration_5.png
+  .. image:: /configuration_guide/img/workflows/workflows/Illustration_5.png
 
 .. finish
 

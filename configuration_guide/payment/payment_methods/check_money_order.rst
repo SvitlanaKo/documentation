@@ -19,7 +19,7 @@ To enable check/money order payments, complete the following steps:
 
 3. On the **Create Integration** page, for **Type**, select *Check/Money Order*.
 
-   .. image:: /user_guide/img/system/integrations/manage_integrations/check_money_order.png
+   .. image:: /configuration_guide/img/integrations/manage_integrations/check_money_order.png
       :class: with-border
 
 3. Type in the **Common Integration Details**:

@@ -23,9 +23,9 @@ On the Alternative Checkout workflow page, you can perform the following actions
 * Configure order approval threshold: |IcConfig| **Configuration**.
 * Deactivate the workflow - click |IcDeactivate| **Deactivate** to deactivate the workflow.
 
-.. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_page.png
+.. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_page.png
 
-.. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_configuration.png
+.. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_configuration.png
 
 Within the Workflows grid, you can perform the following actions for the alternative checkout workflow:
 
@@ -33,21 +33,21 @@ Within the Workflows grid, you can perform the following actions for the alterna
 * View the workflow: |IcView|
 * Deactivate the workflow: |IcDeactivate|
   
-.. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_grid.png
+.. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_grid.png
 
 Steps and Transitions
 ---------------------
 
 The following table illustrates the steps and transitions that the alternative checkout workflow consists of:
 
-.. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_table.png
+.. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_table.png
    :align: center
 
 As an illustration, let us go through a sample flow to see how the alternative checkout workflow works:  
 
 1. A product has been added to a shopping list. On opening the shopping list, you can create an order either by clicking **Create Order** on the right of the page next to Request Quote or by clicking on the **Create Order** button at the bottom of the page.
 
-.. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_CreateOrderButton.png
+.. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_CreateOrderButton.png
 
 .. note:: The **Create Order** button will only be available if the following conditions are met:
 
@@ -71,7 +71,7 @@ As an illustration, let us go through a sample flow to see how the alternative c
    .. note::     
      It is possible to amend the order by clicking **Edit the Order** in the right corner of the Order Summary section. The Order Summary section will be available for Billing Information, Shipping Information, Shipping Method and Payment pages. Editing the order will remain possible throughout the checkout process until the order is submitted.
 
-.. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_CreateBilling.png
+.. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_CreateBilling.png
 
 3. **Step 2: Shipping Information**
    
@@ -79,24 +79,24 @@ As an illustration, let us go through a sample flow to see how the alternative c
    
    To edit shipping information, clear the **Use billing address** box and provide a different shipping address for the order.
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_CreateShipping.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_CreateShipping.png
 
    .. note:: It is possible to edit *the already provided* information (until the order is submitted) by clicking |IcEditInline| on the left side of the page.
 
-   	  .. image:: /user_guide/img/system/workflows/checkout/EditInfo.png
+   	  .. image:: /configuration_guide/img/workflows/checkout/EditInfo.png
    	     :align: center	
 
 4. **Step 3: Shipping Method**
     
    At this stage, it is necessary to provide a :ref:`shipping method <user-guide--shipping>` by selecting one from the list of the available methods.
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_ShippingMethod.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_ShippingMethod.png
 
 5. **Step 4: Payment**
    
    Choose a suitable :ref:`payment method <user-guide--payment>` by selecting it from the list of all available methods.
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_Payment.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_Payment.png
 
 6. **Step 5: Order Review**
 
@@ -115,7 +115,7 @@ As an illustration, let us go through a sample flow to see how the alternative c
   
    To submit the order, click **Submit Order** at the bottom of the page.
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_OrderReview.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_OrderReview.png
 
 
 7. **Step 6: Request Approval**
@@ -123,22 +123,22 @@ As an illustration, let us go through a sample flow to see how the alternative c
    Since the order amount exceeds the threshold of $5000, manager approval is required to submit the order.
 
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_RequestApproval.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_RequestApproval.png
 
    Order Approval will remain pending until the manager aproves it.
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_ApprovalPending.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_ApprovalPending.png
 
 8. **Step 7: Approve Order**
    
    The manager can approve the order by navigating to Orders, selecting the required order and clicking **Approve Order**.
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_ApproveOrder.png 
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_ApproveOrder.png
 
 
    At this point, the manager can submit the order themselves, or let the employee handle the order: 
 
-   .. image:: /user_guide/img/system/workflows/alternative_checkout/ACF_Approved.png
+   .. image:: /configuration_guide/img/workflows/alternative_checkout/ACF_Approved.png
 
 9. Once submitted, the order will be received and dealt with by the sales team.
 

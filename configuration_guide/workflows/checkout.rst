@@ -23,27 +23,27 @@ On the Checkout workflow page, you can perform the following actions:
 * Deactivate the workflow - click |IcDeactivate| **Deactivate** to deactivate the workflow.
 * Activate the workflow - click |IcActivate| **Activate** to activate the workflow.
   
-.. image:: /user_guide/img/system/workflows/checkout/CheckoutViewPageBackoffice.png
+.. image:: /configuration_guide/img/workflows/checkout/CheckoutViewPageBackoffice.png
 
 Within the Workflows grid, you can perform the following actions for the Checkout workflow:
 
 * View the workflow: |IcView|
 * Deactivate / Activate the workflow: |IcDeactivate| / |IcActivate|
 
-.. image:: /user_guide/img/system/workflows/checkout/CheckoutGridBackoffice.png
+.. image:: /configuration_guide/img/workflows/checkout/CheckoutGridBackoffice.png
 
 Steps and Transitions
 ---------------------
 
 The following table illustrates the steps and transitions that the Checkout workflow consists of:
 
-.. image:: /user_guide/img/system/workflows/checkout/CheckoutWfTable.png
+.. image:: /configuration_guide/img/workflows/checkout/CheckoutWfTable.png
 
 As an illustration, let us go through a sample flow to see how the Checkout workflow works:
 
 1. A product has been added to a shopping list. On opening the shopping list, you can create an order either by clicking **Create Order** on the right of the page next to Request Quote or by clicking on the **Create Order** button at the bottom of the page.
    
-   .. image:: /user_guide/img/system/workflows/checkout/CreateOrderButton.png
+   .. image:: /configuration_guide/img/workflows/checkout/CreateOrderButton.png
 
    .. note:: The **Create Order** button will only be available if the following conditions are met:
 
@@ -67,7 +67,7 @@ As an illustration, let us go through a sample flow to see how the Checkout work
    .. note::     
      It is possible to amend the order by clicking **Edit Order** in the right corner of the Order Summary section. The Order Summary section will be available for Billing Information, Shipping Information, Shipping Method and Payment pages. Editing the order will remain possible throughout the checkout process until the order is submitted.
 
-   .. image:: /user_guide/img/system/workflows/checkout/Checkout_BilInfo.png
+   .. image:: /configuration_guide/img/workflows/checkout/Checkout_BilInfo.png
 
 
 3. **Step 2: Shipping Information**
@@ -76,24 +76,24 @@ As an illustration, let us go through a sample flow to see how the Checkout work
    
    To edit shipping information, clear the **Use billing address** box and provide a different shipping address for the order.
 
-   .. image:: /user_guide/img/system/workflows/checkout/UseBillingAddressBox.png
+   .. image:: /configuration_guide/img/workflows/checkout/UseBillingAddressBox.png
 
    .. note:: It is possible to edit *the already provided* information (until the order is submitted) by clicking |IcEditInline| on the left side of the page.
 
-   	  .. image:: /user_guide/img/system/workflows/checkout/EditInfo.png
+   	  .. image:: /configuration_guide/img/workflows/checkout/EditInfo.png
    	     :align: center	
    			
 4. **Step 3: Shipping Method**
     
    At this stage, it is necessary to provide a :ref:`shipping method <user-guide--shipping>` by selecting one from the list of the available methods.
 
-   .. image:: /user_guide/img/system/workflows/checkout/Shipping_Info.png
+   .. image:: /configuration_guide/img/workflows/checkout/Shipping_Info.png
 
 5. **Step 4: Payment**
    
    Choose a suitable :ref:`payment method <user-guide--payment>` by selecting it from the list of all available methods.
 
-   .. image:: /user_guide/img/system/workflows/checkout/Payment.png 
+   .. image:: /configuration_guide/img/workflows/checkout/Payment.png
 
 6. **Step 5: Order Review**
 
@@ -112,11 +112,11 @@ As an illustration, let us go through a sample flow to see how the Checkout work
   
    To submit the order, click **Submit Order** at the bottom of the page.
 
-   .. image:: /user_guide/img/system/workflows/checkout/Order_Review.png
+   .. image:: /configuration_guide/img/workflows/checkout/Order_Review.png
 
 7. Once submitted, the order will be received and dealt with by the sales team.
    
-   .. image:: /user_guide/img/system/workflows/checkout/order_received.png
+   .. image:: /configuration_guide/img/workflows/checkout/order_received.png
 
 .. include:: /user_guide/include_images.rst
    :start-after: begin

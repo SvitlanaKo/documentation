@@ -11,11 +11,11 @@ Edit a Frontend Menu
 
 To update the frontend menu contents, follow the :ref:`Customize Default Frontend Menus <doc--system--menu--config-levels--frontend-menus>` guide and click the menu name or on the |IcView| View icon in the corresponding row of the frontend menu list.
 
-.. image:: /user_guide/img/system/menus/frontend_menu_1.png
+.. image:: /configuration_guide/img/menus/frontend_menu_1.png
 
 On the page that opens, the menu item tree is shown in the left panel. The **General Information** section is reserved for the menu item configuration, which you can update, as shown in the :ref:`Add a Menu Item <doc--system--menu--config--add-menu-item>` section.
 
-.. image:: /user_guide/img/system/menus/frontend_menu_2.png
+.. image:: /configuration_guide/img/menus/frontend_menu_2.png
 
 Moreover, you can customize additional visibility restrictions in the following fields in order to selectively display or hide some menu items from the customer:
 
@@ -30,7 +30,7 @@ User agent is unique to every customer. It reveals a catalog of technical data a
 
 The following text field displays:
 
-.. image:: /user_guide/img/system/menus/frontend_menu_3.png
+.. image:: /configuration_guide/img/menus/frontend_menu_3.png
 
 2) Fill in the text field with a user agent substring or a string, if required.
 
@@ -39,7 +39,7 @@ The following text field displays:
 
    A user agent substring is a part of the aforementioned string (e.g. Mozilla, Windows, Safari, etc).
 
-.. image:: /user_guide/img/system/menus/frontend_menu_4.png
+.. image:: /configuration_guide/img/menus/frontend_menu_4.png
    :width: 70%
 
 3) Select the corresponding operation from the list.
@@ -52,7 +52,7 @@ The following text field displays:
 
    * The *does not match* operation checks when the specified value does not match the user agent string.
 
-   .. image:: /user_guide/img/system/menus/frontend_menu_5.png
+   .. image:: /configuration_guide/img/menus/frontend_menu_5.png
       :width: 70%
 
 4) To create more advanced condition, you can combine constrains into the expression using logical AND and OR operators:
@@ -61,13 +61,13 @@ The following text field displays:
 
      *AND* operation means that only those user agents that comply with all the specified conditions in a group will be selected.
 
-   .. image:: /user_guide/img/system/menus/frontend_menu_6.png
+   .. image:: /configuration_guide/img/menus/frontend_menu_6.png
 
    * Click **+ Add** at the bottom of the expression block to add another constrain block into the expression via OR.
 
      *OR* operation activates the expression once any of the constraint blocks in a group evaluates to true.
 
-   .. image:: /user_guide/img/system/menus/frontend_menu_7.png
+   .. image:: /configuration_guide/img/menus/frontend_menu_7.png
 
 Exclude On Screens
 """"""""""""""""""
@@ -78,11 +78,11 @@ Exclude On Screens
 2) Hold **Ctrl** and click the value to select/deselect multiple screens.
 3) Click **Save**.
 
-.. image:: /user_guide/img/system/menus/frontend_menu_8.png
+.. image:: /configuration_guide/img/menus/frontend_menu_8.png
 
 As an illustration, let us hide the **About** menu item from the desktops with 13 in. screen by enabling **Exclude On Screens** and selecting the corresponding screen size.
 
-.. image:: /user_guide/img/system/menus/frontend_menu_9.png
+.. image:: /configuration_guide/img/menus/frontend_menu_9.png
 
 Condition
 """""""""
@@ -91,7 +91,7 @@ Condition
 
 * The *is_logged_in()* function stands for the *registered users*. If entered, only the users who have logged into the Oro front store are enabled to view the corresponding menu item.
 
-  .. image:: /user_guide/img/system/menus/frontend_menu_10.png
+  .. image:: /configuration_guide/img/menus/frontend_menu_10.png
 
 * The *!is_logged_in()* function stands for the *non-registered users*. If entered, only the unregistered users are enabled to view the corresponding menu item.
 
@@ -109,10 +109,10 @@ Condition
 
   The steps are illustrated below:
 
-     .. image:: /user_guide/img/system/menus/frontend_menu_11.png
+     .. image:: /configuration_guide/img/menus/frontend_menu_11.png
         :class: with-border
 
-     .. image:: /user_guide/img/system/menus/frontend_menu_12.png
+     .. image:: /configuration_guide/img/menus/frontend_menu_12.png
         :class: with-border
 
 .. finish

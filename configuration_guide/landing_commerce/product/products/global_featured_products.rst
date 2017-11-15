@@ -22,7 +22,7 @@ The following page opens:
 
    .. TODO add screenshot
 
-   .. .. image:: /user_guide/img/system/configuration/product/product_images/ProductImages.png
+   .. .. image:: /configuration_guide/img/configuration/product/product_images/ProductImages.png
       :class: with-border
 
 3. To customize the segment option:

@@ -208,8 +208,6 @@ Advanced Configuration Settings
    email/index
    integrations/index
    payment/index
-   config_levels
-   quick_search
    menu/index
    workflows/index
    tags_management/index

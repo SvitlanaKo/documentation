@@ -16,7 +16,7 @@ To enable mass product actions per organization:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/shopping_list/MassProductActionsSListOrg.png
+.. image:: /configuration_guide/img/configuration/sales/shopping_list/MassProductActionsSListOrg.png
 
 4. In the **Shopping List Options** section, set whether customer users are allowed to mass select and add items to the shopping list.
 

@@ -17,7 +17,7 @@ To enable guest checkout per organization:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/checkout/CheckoutOrg.png
+.. image:: /configuration_guide/img/configuration/sales/checkout/CheckoutOrg.png
 
 4. In the **Guest Checkout** section, set whether guest checkout should be enabled or disabled.
 

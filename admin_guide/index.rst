@@ -18,6 +18,7 @@ This section contains information about OroCommerce configuration, administratio
    processes
    jobs
    cron
+   monitoring/index
 
 .. scheduled_tasks
 .. data_audit

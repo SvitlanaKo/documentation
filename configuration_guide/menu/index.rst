@@ -51,7 +51,7 @@ On various :ref:`configuration levels <doc--menu-config-levels>`, the menu and f
 
 On the menu list you can see the menus available for review or customization.
 
-.. image:: /user_guide/img/system/menus/Menus.png
+.. image:: /configuration_guide/img/menus/Menus.png
 
 .. contents:: :local:
     :depth: 1

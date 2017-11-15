@@ -17,7 +17,7 @@ To set up the New Arrivals block globally:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/product/new_arrivals/NewArrivalsBlockSystemConfig.png
+.. image:: /configuration_guide/img/configuration/product/new_arrivals/NewArrivalsBlockSystemConfig.png
 
 3. In the **New Arrivals** section provide the following information:
 

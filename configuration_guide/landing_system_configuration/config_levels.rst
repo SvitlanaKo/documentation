@@ -29,16 +29,16 @@ By default, all configuration settings are available globally. Whenever you see 
 
 .. container:: hidden
 
-   .. image:: ./img/landing/system_config.png
+   .. image:: /configuration_guide/img/landing/system_config.png
       :width: 0px
 
-   .. image:: ./img/landing/commerce_config.png
+   .. image:: /configuration_guide/img/landing/commerce_config.png
       :width: 0px
 
-   .. image:: ./img/landing/crm_config.png
+   .. image:: /configuration_guide/img/landing/crm_config.png
       :width: 0px
 
-   .. image:: ./img/landing/marketing_config.png
+   .. image:: /configuration_guide/img/landing/marketing_config.png
       :width: 0px
 
 .. include:: /user_guide/include_images.rst

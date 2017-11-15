@@ -15,7 +15,7 @@ To define the localization options (system locale, primary location, address for
 
         The following page opens:
 
-        .. image:: /user_guide/img/system/configuration/general/Localization.png
+        .. image:: /configuration_guide/img/configuration/general/Localization.png
 
 #. Configure the following options:
 
@@ -47,7 +47,7 @@ To define the localization options (system locale, primary location, address for
 
 #. In the **Map Options**, select the **Temperature Unit** and **Wind Speed Unit** for display of the weather on the map. The default values are Fahrenheit and miles per hour (MPH).
 
-   .. image:: /user_guide/img/system/configuration/configuration/localization_map.png
+   .. image:: /configuration_guide/img/configuration/configuration/localization_map.png
 
 #. Select the supported localizations. Use the :guilabel:`Ctrl` and :guilabel:`Shift` keys to choose the languages from the list.
 

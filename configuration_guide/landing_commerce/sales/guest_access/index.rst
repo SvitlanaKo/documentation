@@ -23,7 +23,7 @@ When guest access is disabled:
 * Guest users cannot access any website pages, except for the login/forgot/reset password page.
 * Guest users are redirected to the login page when they try to access the homepage.
 
-.. image:: /user_guide/img/system/configuration/guest_access/SignIn.png
+.. image:: /configuration_guide/img/configuration/guest_access/SignIn.png
 
 
 Enabling Guest Website Access Globally

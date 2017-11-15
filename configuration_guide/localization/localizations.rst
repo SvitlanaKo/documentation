@@ -13,7 +13,7 @@ To view all Localizations, navigate to **System > Localizations** in the main me
 
 Preview:
 
-.. image:: /user_guide/img/system/localization/Localizations.png
+.. image:: /configuration_guide/img/localization/Localizations.png
    :class: with-border
 
 .. TODO create localization, view, edit?

@@ -14,7 +14,7 @@ The first step of configuring All Products page for your front store is enabling
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/catalog/special_pages/AllProductsWebsite.png
+   .. image:: /configuration_guide/img/configuration/catalog/special_pages/AllProductsWebsite.png
 
 4. In the **All Products** section, select the **Enable All Products Page** check box.
 5. Click **Save Settings** on the top right of the page.

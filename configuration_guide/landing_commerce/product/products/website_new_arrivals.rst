@@ -20,7 +20,7 @@ To enable New Product icons per website:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/product/new_arrivals/NewArrivalsBlockWeb.png
+   .. image:: /configuration_guide/img/configuration/product/new_arrivals/NewArrivalsBlockWeb.png
 
 4. In the **New Product Icons**, clear the **Use Default** check box and select *Yes* in the **Show on Product View** list.
 

@@ -16,7 +16,7 @@ To configure guest checkout with an option to register globally:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/checkout/GuestCheckoutRegistrationGlobal.png
+.. image:: /configuration_guide/img/configuration/sales/checkout/GuestCheckoutRegistrationGlobal.png
 
 2. In the **Customer Users Registration** section, you can:
 

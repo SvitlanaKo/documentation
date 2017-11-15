@@ -24,6 +24,6 @@ InfinitePay integrations include the following additional integration informatio
 
 .. **InfinitePay Integration Configuration Details**
 
-.. .. image:: /user_guide/img/system/integrations/manage_integrations/PayPalPayflow1.png
+.. .. image:: /configuration_guide/img/integrations/manage_integrations/PayPalPayflow1.png
 
 .. end_of_embedded_list

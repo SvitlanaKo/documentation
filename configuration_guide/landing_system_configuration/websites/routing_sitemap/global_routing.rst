@@ -25,7 +25,7 @@ To change the default global routing settings:
 
    The Routing configuration page opens with the following options:
 
-   .. image:: /user_guide/img/system/configuration/websites/routing_general.png
+   .. image:: /configuration_guide/img/configuration/websites/routing_general.png
       :class: with-border
 
    * **URL** - Internal links and canonical URLs (meta keywords) on the OroCommerce Front Store pages may contain this value as the website base URL. This option value is used in internal links when a customer uses insecure (HTTP) connection. In the canonical links, it is used when the **Canonical URL Security Type** is set to *Secure*.
@@ -56,7 +56,7 @@ To change the default global routing settings:
 
    * **Web Catalog** - when a Web Catalog is selected, it populates the main menu and sub-menus on the OroCommerce Front Store. If there is no Web Catalog in OroCommerce, the Master Catalog structure is mimicked.
 
-   .. image:: /user_guide/img/system/configuration/websites/routing_website_matchers.png
+   .. image:: /configuration_guide/img/configuration/websites/routing_website_matchers.png
       :class: with-border
 
    * **Website Matchers** - with this option, you can define the way OroCommerce will identify the website customer uses. It is recommended to select at least one option. Supported options: *ENV Variable Based*, *Cookie Based*, *URL Based*. When more than one option is selected, set the method priority in the **sort order** column to define the most reliable and trusted one.
@@ -65,7 +65,7 @@ To change the default global routing settings:
 
    * **Cookie Name** - the name of the cookie that stores information about the current website in the customer's browser.
 
-   .. image:: /user_guide/img/system/configuration/websites/routing_direct_url.png
+   .. image:: /configuration_guide/img/configuration/websites/routing_direct_url.png
       :class: with-border
 
    * **Enable Direct URLs** - when enabled, the page URL is built using the page title (e.g. `/500-watt-work-light`). When disabled, the system path to the item and its ID is used (e.g. `/product/view/4`).

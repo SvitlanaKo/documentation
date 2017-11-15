@@ -1,3 +1,5 @@
+.. _configuration--guide--crm--sales-pipeline:
+
 Sales Pipeline
 ==============
 

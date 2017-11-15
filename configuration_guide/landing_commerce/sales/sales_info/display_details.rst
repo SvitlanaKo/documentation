@@ -17,6 +17,6 @@ In the **Display** list, select one of the options that will determine what and 
 
 * **Pre-configured** - in the *Contact Details* text field, specify custom contact details you wish to be displayed.
 
-.. image:: /user_guide/img/system/configuration/sales/contacts/SalesInfoGlobalPreConfigured.png
+.. image:: /configuration_guide/img/configuration/sales/contacts/SalesInfoGlobalPreConfigured.png
 
 .. finish_display_details

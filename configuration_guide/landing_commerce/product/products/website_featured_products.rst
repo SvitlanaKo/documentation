@@ -20,7 +20,7 @@ To update the featured products segment for a particular website:
 
 The following page opens:
 
-   .. .. image:: /user_guide/img/system/configuration/product/products/RelatedProducts.png
+   .. .. image:: /configuration_guide/img/configuration/product/products/RelatedProducts.png
       :class: with-border
 
 4. To customize the segment option:

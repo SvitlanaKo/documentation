@@ -13,7 +13,7 @@ To set up integration with Authorize.Net, complete the following:
 
 3. On the **Create Integration** page, provide the following information:
 
-   .. image:: /user_guide/img/system/integrations/manage_integrations/integrations_authorizenet.png
+   .. image:: /configuration_guide/img/integrations/manage_integrations/integrations_authorizenet.png
 
    * **Basic Information**:
 

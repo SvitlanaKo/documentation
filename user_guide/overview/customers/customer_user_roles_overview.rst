@@ -3,7 +3,7 @@ Overview
 
 .. begin
 
-In Customer User Roles section, you can view, edit and create new customer roles to define the level of permissions and access to the actions and data in OroCommerce Front for the users of this role.
+In Customer User Roles section, you can view, edit and create new customer roles to define the level of permissions and access to the actions and data in OroCommerce store frontend for the users of this role.
 
 The following roles are predefined and available for every customer by default:
 
@@ -13,7 +13,7 @@ The following roles are predefined and available for every customer by default:
 
 Any new role is labeled as customizable and may apply either to the customer specified in the role details or globally for all customers when the customer is not provided.
 
-With the Customer User Role you can manages the following access- and permissions-related settings: 
+With the Customer User Role you can manage the following access- and permissions-related settings:
 
 * Profile management permission: A user may be able to view and edit their user profile, when the **Self-Managed** option is enabled for their role.
 
@@ -70,14 +70,14 @@ With the Customer User Role you can manages the following access- and permission
         + Shopping List Line Item
 
     - **Quotes** permissions to view, create, edit, delete, and, optionally, assign the following items:
-          
+
         + Quote
         + Request for Quote
 
     - **Checkout** permissions to view, create, edit, delete, and, optionally, assign the following items:
 
         + Open Order
-        
+
     - **Checkout** capabilities:
 
         + Approve orders that exceed the allowable amount
@@ -94,7 +94,7 @@ With the Customer User Role you can manages the following access- and permission
 
         + Invoice
         + Order
-          
+
     - **System capabilities**:
 
         + **Address**
@@ -115,11 +115,11 @@ With the Customer User Role you can manages the following access- and permission
             * Share grid view
             * Unassign other tags
             * Unshare grid view
-            * Update User Profile
+            * Update User Profile (enables the customer user to update their profile under **Account > My Profile** in the front store)
             * View SQL query of a report/segment
 
         + **Calendar**
-     
+
            * Manage organization calendar events
            * Manage system calendar events
            * Manage system calendars
@@ -133,3 +133,7 @@ With the Customer User Role you can manages the following access- and permission
            * Search
 
 Finally, in the customer role details, you may view customer users with this role assigned. If the role is global, this list contains users from all customer accounts.
+
+.. note:: Please note that there are two ways to control the capability of a customer user to update their profile details in the front store. One is defined by the **Edit** permission for Customer Users. When set to **Same Level/All Levels**, editing will become possible under **Account > All Users** in the front store. The second one is defined by the **Update User Profile** capability which, when enabled, gives the customer user permissions to update details under **Account > My Profile** in the front store.
+
+

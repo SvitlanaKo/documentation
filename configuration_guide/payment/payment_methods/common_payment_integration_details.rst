@@ -25,10 +25,10 @@ Basic information about the payment is shared among all payment methods and incl
 
 .. end_of_embedded_list
 
-   .. image:: /user_guide/img/system/integrations/manage_integrations/payment_terms.png
+   .. image:: /configuration_guide/img/integrations/manage_integrations/payment_terms.png
       :class: with-border
 
-   .. image:: /user_guide/img/system/integrations/manage_integrations/integration_translation.png
+   .. image:: /configuration_guide/img/integrations/manage_integrations/integration_translation.png
       :class: with-border
 
 .. finish

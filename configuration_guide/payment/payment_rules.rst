@@ -29,7 +29,7 @@ To create a payment rule:
 
    ..   The following page opens:
 
-   ..   .. image:: /user_guide/img/system/shipping_rules/ShippingRule1.png
+   ..   .. image:: /configuration_guide/img/shipping_rules/ShippingRule1.png
       :class: with-border
 
 #. Click **Create Payment Rule**. The corresponding page opens.
@@ -48,7 +48,7 @@ To create a payment rule:
 
    a) Click **+ Add**. The following section appears:
 
-      .. image:: /user_guide/img/system/payment_rules/create_payment_rule.png
+      .. image:: /configuration_guide/img/payment_rules/create_payment_rule.png
          :class: with-border
 
    #) Specify the destination (e.g. select a Country, or select a country and state; for the most granularity you may provide a distinct list of postal codes to apply the payment rule for.
@@ -57,7 +57,7 @@ To create a payment rule:
 
    .. TODO what keywords we really can use here?
 
-   .. image:: /user_guide/img/system/payment_rules/create_payment_rule_expression.png
+   .. image:: /configuration_guide/img/payment_rules/create_payment_rule_expression.png
       :class: with-border
 
    For detailed information about the expression language used in the shipping and payment rules, please see the :ref:`Expression Language for Shipping and Payment Rules <payment-shipping-expression-lang>` guide.
@@ -88,7 +88,7 @@ To create a payment rule:
 
    .. note:: Please note that application of payment rules to websites is only available for Enterprise customers.
 
-   .. image:: /user_guide/img/system/payment_rules/websites_payment_rule.png
+   .. image:: /configuration_guide/img/payment_rules/websites_payment_rule.png
       :class: with-border
 
    * When no website is selected, the payment rule is always applied by default.
@@ -119,7 +119,7 @@ To enable several shipping rules at the same time:
 
 3. Click |IcActivate| **Enable**.
 
-    .. image:: /user_guide/img/system/payment_rules/mass_action_payment_rule.png
+    .. image:: /configuration_guide/img/payment_rules/mass_action_payment_rule.png
        :class: with-border
 
 Filter a Payment Rule List
@@ -129,7 +129,7 @@ You can use filters on the payment rules list page to find the required records 
 
 1. To show filters, click |IcFilter| above the table on the far right.
 
-   .. image:: /user_guide/img/system/payment_rules/filter_payment_rule.png
+   .. image:: /configuration_guide/img/payment_rules/filter_payment_rule.png
       :class: with-border
 
    Filters are hidden by default.
@@ -138,7 +138,7 @@ You can use filters on the payment rules list page to find the required records 
 
    .. note:: Filter controls might look different depending on the type of data you are going to filter, e.g. textual, numeric, a date or an option set.
 
-   .. image:: /user_guide/img/system/payment_rules/filter_payment_rule_2.png
+   .. image:: /configuration_guide/img/payment_rules/filter_payment_rule_2.png
       :class: with-border
 
 Organize a Payment Rule List
@@ -146,7 +146,7 @@ Organize a Payment Rule List
 
 To define which columns to show in the table, click |IcSettings| above the table on the far right:
 
-   .. image:: /user_guide/img/system/payment_rules/grid_settings_payment_rules.png
+   .. image:: /configuration_guide/img/payment_rules/grid_settings_payment_rules.png
       :class: with-border
 
 * To choose the columns to be displayed in the table, select the check box next to the required column under **Show**. Clear the check box to make the column disappear from the table.

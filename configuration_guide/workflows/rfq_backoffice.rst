@@ -18,14 +18,14 @@ To reach the workflow:
    
 On the RFQ Management Flow page, you can disable the workflow by clicking |IcDeactivate| **Deactivate** the workflow.
 
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/rfq_management_flow_1.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/rfq_management_flow_1.png
 
 Within the Workflows list, you can perform the following actions for the RFQ Management Flow workflow:
 
 * View the workflow: |IcView|
 * Deactivate the workflow: |IcDeactivate|
 
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/rfq_management_flow_2.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/rfq_management_flow_2.png
 
 RFQ Internal Statuses
 ---------------------
@@ -53,7 +53,7 @@ RFQ Management Flow and :ref:`Submission Flow <system--workflows--rfq-frontoffic
 
 .. start_csv_table_statuses
 
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/Statuses.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/Statuses.png
 
 The following table describes which options are available for each of the statuses, and how the corresponding transitions change them.
 
@@ -72,7 +72,7 @@ The following table describes which options are available for each of the status
 
 .. note:: You can add and remove columns in the list by clicking |IcConfig| on the far right.
 
-          .. image:: /user_guide/img/system/workflows/rfq/frontoffice/GridSettings.png
+          .. image:: /configuration_guide/img/workflows/rfq/frontoffice/GridSettings.png
 
 Steps and Transitions
 ---------------------
@@ -99,7 +99,7 @@ RFQ Management Flow consists of the following steps and transitions:
 	
 .. note:: Please note that the Info Provided transition for the More Information Requested step is automatically triggered and it does not, therefore, take the form of a button in the interface.
 
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/RQF_steps_transitions_table.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/RQF_steps_transitions_table.png
 
 .. note:: Steps that follow the **Undelete** transition depend on the internal and/or customer statuses prior to deletion:
 	
@@ -113,11 +113,11 @@ As an illustration, let us go through a sample flow to see RFQ Management Flow i
 
 1. Once an RFQ is received, it is automatically moved to the Open step with a possibility to mark this request processed, request more information, decline or delete it.
    
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/rfq_management_flow_3.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/rfq_management_flow_3.png
 
 2. More information has been requested, the RFQ is now in the More Information requested step with Requires Attention customer status. The only transition available in this step is Delete.
 
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/rfq_management_flow_4.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/rfq_management_flow_4.png
 
 .. note:: It is possible to create a quote or an order straight from the RFQ page by clicking on the corresponding buttons in the top right corner of the page.
 
@@ -125,9 +125,9 @@ As an illustration, let us go through a sample flow to see RFQ Management Flow i
    
    .. check if this workflow is correct!
    
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/rfq_management_flow_5.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/rfq_management_flow_5.png
    
-.. image:: /user_guide/img/system/workflows/rfq/backoffice/rfq_back_9.png
+.. image:: /configuration_guide/img/workflows/rfq/backoffice/rfq_back_9.png
 
 
 

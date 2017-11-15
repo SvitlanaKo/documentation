@@ -2,7 +2,7 @@
     single: Application; Co-install applications
     single: Application
 
-How to co-install OroCommerce and OroCRM
+How to Co-install OroCommerce and OroCRM
 ========================================
 
 .. note::
@@ -19,8 +19,9 @@ Fresh install (console)
 Example:
 
 .. code-block:: bash
+    :linenos:
 
-    $ app/console oro:install --env test --organization-name Oro --user-name admin --user-email admin@example.com --user-firstname John --user-lastname Doe --user-password admin --sample-data n --application-url http://local.dev --force
+    $ app/console oro:install --env test --organization-name Oro --user-name admin --user-email admin@example.com --user-firstname John --user-lastname Doe --user-password admin --sample-data n --application-url http://local.dev
 
 
 Install over existed application (console)
@@ -32,6 +33,7 @@ Install over existed application (console)
 4. If you do install OroCommerce over OroCRM please run next commands ("unsecure_url" and "secure_url" are urls of the current frontend part of website):
 
 .. code-block:: bash
+    :linenos:
 
     app/console oro:config:update oro_website.url unsecure_url
     app/console oro:config:update oro_website.secure_url secure_url
@@ -50,6 +52,7 @@ Install over existed application (Package manager)
 3. If you do install OroCommerce over OroCRM please run next commands ("unsecure_url" and "secure_url" are urls of the current frontend part of website):
 
 .. code-block:: bash
+    :linenos:
 
     app/console oro:config:update oro_website.url unsecure_url
     app/console oro:config:update oro_website.secure_url secure_url

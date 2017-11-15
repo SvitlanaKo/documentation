@@ -18,7 +18,7 @@ To change the default settings for an organization:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsersPerOrganization.png
+   .. image:: /configuration_guide/img/configuration/customer/customer_users/CustomerUsersPerOrganization.png
       :class: with-border
 
    The following table describes the options available on the page:

@@ -15,7 +15,7 @@ To enable mass product actions globally:
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/sales/shopping_list/MassProductActionsSListGlobal.png
+   .. image:: /configuration_guide/img/configuration/sales/shopping_list/MassProductActionsSListGlobal.png
 
 3. In the **Shopping List Options** section, set whether customer users are allowed to mass select and add items to the shopping list.
 

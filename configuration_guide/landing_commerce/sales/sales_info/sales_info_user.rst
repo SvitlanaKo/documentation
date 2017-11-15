@@ -29,7 +29,7 @@ User settings override all other settings only if **Customer Owner** or **Custom
 
 In the **Enter Contact Info** field, provide custom text to be displayed. This text is used as a contact information only when the **Customer Visible Contact Info** setting is set to *Enter Manually*.
 
-.. image:: /user_guide/img/system/configuration/sales/contacts/MyUSerMyConfig.png
+.. image:: /configuration_guide/img/configuration/sales/contacts/MyUSerMyConfig.png
 
 .. finish
 

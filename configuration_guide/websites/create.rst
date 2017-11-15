@@ -5,12 +5,12 @@ To create a new Website in OroCommerce:
 
 1. Navigate to **System > Websites** using the main menu.
 
-   .. image:: /user_guide/img/system/websites/Websites.png
+   .. image:: /configuration_guide/img/websites/Websites.png
       :class: with-border
 
 2. Click **Create Website**. The following page opens:
 
-   .. image:: /user_guide/img/system/websites/create_website.png
+   .. image:: /configuration_guide/img/websites/create_website.png
       :class: with-border
 
 3. Enter the website name.
@@ -21,7 +21,7 @@ To create a new Website in OroCommerce:
 
      * **Price Lists** - select the price list to use for this website. You may add multiple price lists using **+ Add Price List** option and specify the priority and merge policy that controls the way price is looked up.
 
-         .. image:: /user_guide/img/system/websites/create_website_multi_pricelists.png
+         .. image:: /configuration_guide/img/websites/create_website_multi_pricelists.png
             :class: with-border
 
        Priority defines in which order OroCommerce walks through the price lists to find a product price. Whenever the price is not found in the higher priority price list, OroCommerce switches to the next one.

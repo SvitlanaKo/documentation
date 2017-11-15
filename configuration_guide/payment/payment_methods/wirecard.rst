@@ -13,7 +13,7 @@ To set up integration with Wirecard, complete the following:
 
 #. On the **Create Integration** page, provide the following information:
 
-   .. image:: /user_guide/img/system/integrations/manage_integrations/integrations_wirecard.png
+   .. image:: /configuration_guide/img/integrations/manage_integrations/integrations_wirecard.png
 
    * **Basic Information**:
 

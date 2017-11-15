@@ -21,7 +21,7 @@ To change the default sitemap settings for the website:
 
    The following page opens.
 
-   .. image:: /user_guide/img/system/configuration/websites/sitemaps.png
+   .. image:: /configuration_guide/img/configuration/websites/sitemaps.png
       :class: with-border
 
    The frequency and priority options may be configured globally or specifically for product, category and the cms page level.

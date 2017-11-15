@@ -14,7 +14,7 @@ To customize the default product inventory options globally:
 
    The following page opens:
     
-   .. image:: /user_guide/img/system/configuration/inventory/product_options_new.png
+   .. image:: /configuration_guide/img/configuration/inventory/product_options_new.png
       :class: with-border
    
    The following table describes the options available on the page:

@@ -1,3 +1,5 @@
+.. _configuration--guide--marketing--configuration--general-setup:
+
 General Setup
 =============
 

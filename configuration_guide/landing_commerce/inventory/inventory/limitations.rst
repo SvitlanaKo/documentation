@@ -17,7 +17,7 @@ To change the default inventory quantity limitations:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/inventory/limitations.png
+   .. image:: /configuration_guide/img/configuration/inventory/limitations.png
       :class: with-border
 
    The following table describes the options available on the page:

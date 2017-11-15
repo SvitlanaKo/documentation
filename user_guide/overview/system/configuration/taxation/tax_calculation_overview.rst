@@ -24,7 +24,7 @@ To edit configuration options that impact the way OroCommerce implies tax in the
 Sample configuration for tax calculation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: /user_guide/img/system/configuration/taxation/tax_calculation/ConfigurationSystemTaxationTaxCalculation.png
+.. image:: /configuration_guide/img/configuration/taxation/tax_calculation/ConfigurationSystemTaxationTaxCalculation.png
 
 Available actions:
 
@@ -38,11 +38,11 @@ Available actions:
 
   a. With **Start Calculation With**, specify the formula for tax calculation. Tax is calculated either for unit price or for a product total price. Formula for *Unit price* is:
 
-    | tax = [ ( unit price * tax rate ) * unit quantity ] + ... + [ ( unit price * tax rate ) * unit quantity ].
+     tax = [ ( unit price * tax rate ) * unit quantity ] + ... + [ ( unit price * tax rate ) * unit quantity ].
 
     Formula for *Row Total* is:
 
-    | tax = [ (unit price * unit quantity) * tax rate ] + ... + [ (unit price * unit quantity) * tax rate ].
+    tax = [ (unit price * unit quantity) * tax rate ] + ... + [ (unit price * unit quantity) * tax rate ].
 
   b. With **Start Calculation On** option, select when the rounding off shall happen. For **Item**, the taxable ammount is rounded up for every item. For **Total**, the total tax is aggregated as is, and the final amount is rounded up.
 

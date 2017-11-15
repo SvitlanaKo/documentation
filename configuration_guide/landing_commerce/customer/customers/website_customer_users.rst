@@ -18,7 +18,7 @@ To change the default settings for a website:
 
 The following page opens.
 
-.. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsersPerWebsite.png
+.. image:: /configuration_guide/img/configuration/customer/customer_users/CustomerUsersPerWebsite.png
    :class: with-border
 
 The following table describes the options available on the page:

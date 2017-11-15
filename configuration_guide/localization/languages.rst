@@ -12,7 +12,7 @@ To view all Languages, navigate to **System > Localization > Languages** in the 
 
 Preview:
 
-.. image:: /user_guide/img/system/localization/Languages.png
+.. image:: /configuration_guide/img/localization/Languages.png
    :class: with-border
 
 .. TODO add languages, import, export. Review UI.

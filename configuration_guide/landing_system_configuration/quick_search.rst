@@ -25,7 +25,7 @@ To find the menu, proceed with the following steps:
 
 2. Only the items with the *language* in their titles will be displayed and highlighted upon your request.
 
-   .. image:: /user_guide/img/system/configuration/quick_search/quick_search_1.png
+   .. image:: /configuration_guide/img/configuration/quick_search/quick_search_1.png
       :class: with-border
 
 3. Click the necessary menu item to view the related settings details.

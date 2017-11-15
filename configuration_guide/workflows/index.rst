@@ -78,17 +78,17 @@ Every workflow has the **Start** transition that launches the workflow.
 
 A transition can be defined as soon as there is at least one step besides **Start**. However, it is often simpler to define all workflow steps and then all the transitions between them.
 
-.. image:: /user_guide/img/system/workflows/1_transitions_steps.png
+.. image:: /configuration_guide/img/workflows/1_transitions_steps.png
 
 Attributes are characteristics of the record. For example, a ZIP code and a street name are attributes of an address. In the course of each transition, you can change some attributes of the processed record.
 
 A workflow may have configuration parameters (also known as variables). For example, the Alternative Checkout workflow includes reviewing of an order by an authorized person. This is usually required only for orders exceeding a certain amount, so the workflow's configuration parameter enables you to set an order subtotal limit that triggers the alternative checkout.
 
-.. image:: /user_guide/img/system/workflows/workflow_config_prameters.png
+.. image:: /configuration_guide/img/workflows/workflow_config_prameters.png
 
 If enabled (see the section below), the workflow widget displays the process steps defined in workflow configuration on the record view page. Multiple workflow widgets can be displayed for one record at the same time.
 
-.. image:: /user_guide/img/system/workflows/2_wf_steps_new.png
+.. image:: /configuration_guide/img/workflows/2_wf_steps_new.png
 
 .. _doc-workflows-actions-create:
 
@@ -100,11 +100,11 @@ To create a workflow for an entity:
 1. In the main menu, navigate to **System > Workflows**.
 2. Click **Create Workflow** on the top right of the page.
 
-   .. image:: /user_guide/img/system/workflows/3_create_wf_button.png
+   .. image:: /configuration_guide/img/workflows/3_create_wf_button.png
 
 3. On the **Create Workflow** page, specify the details of your workflow in the **General** section.
 
-   .. image:: /user_guide/img/system/workflows/4_create_wfpng.png
+   .. image:: /configuration_guide/img/workflows/4_create_wfpng.png
 
 4. Once the details in the **General** section have been specified, add steps and transitions in the **Designer** section.
 
@@ -145,7 +145,7 @@ Using Workflow Designer
 
 The **Designer** section consists of a table and an interactive chart representations of a workflow.
 
-.. image:: /user_guide/img/system/workflows/5_table_chart_example.png
+.. image:: /configuration_guide/img/workflows/5_table_chart_example.png
 
 **Within the table**, you can perform the following actions for a **transition**:
 
@@ -160,7 +160,7 @@ The **Designer** section consists of a table and an interactive chart representa
 - **Clone** (clicking the |IcClone| **Clone** icon opens the **Clone Step** dialog).
 - **Delete** (clicking the |IcDelete| **Delete** icon launches the **Delete Confirmation** dialog).
 
-.. image:: /user_guide/img/system/workflows/designer_table.gif
+.. image:: /configuration_guide/img/workflows/designer_table.gif
 
 **Within the chart**, you can:
 
@@ -169,20 +169,20 @@ The **Designer** section consists of a table and an interactive chart representa
 - **Autosort** (clicking the **Auto Sort** button at the top of the chart automatically shapes your chart).
 - **Rearrange the chart** for clearer workflow view (drag-and-drop transitions and steps in the chart as required, or click the |IcExpand| **Expand** button in the top right corner of the chart).
 
-.. image:: /user_guide/img/system/workflows/auto_sort.gif
+.. image:: /configuration_guide/img/workflows/auto_sort.gif
 
 - **Zoom in/out** (click the |IcSearchPlus| **Zoom In** / |IcSearchMinus| **Zoom Out** button in the top right corner of the chart to zoom the chart in/out, or select zoom percent from the list).
 - **Show transition labels** (select this check box in the top left corner of the chart to display transition labels in the chart).
 - **Drag transitions from one step to another** (point to one of four corners of the step box, and when the cursor changes shape to the hand, click the corner and drag an arrow to another step).
 
-.. image:: /user_guide/img/system/workflows/drag_transition.gif
+.. image:: /configuration_guide/img/workflows/drag_transition.gif
 
 - **Undo/Redo changes** (click the |IcReply| **Undo** / |IcShare| **Redo** button at the top of the cart to revert or restore changes made to the chart).
 - **Edit/Clone/Delete** a step/transition (point to the step/transition button, and when the |IcCaretDown| arrow appears, click it, and then click the |IcEdit| **Edit** / |IcClone| **Clone** / |IcDelete| **Delete** icon.
 
 .. note:: All actions available for transitions and steps in the table are available in the chart as well.
 
-.. image:: /user_guide/img/system/workflows/6_manage_chart.png
+.. image:: /configuration_guide/img/workflows/6_manage_chart.png
 
 Example Introduction
 ~~~~~~~~~~~~~~~~~~~~
@@ -198,7 +198,7 @@ To add a step to a workflow:
 
 1. Click **Add Step** in the top right corner of the chart.
 
-   .. image:: /user_guide/img/system/workflows/7_add_step.png
+   .. image:: /configuration_guide/img/workflows/7_add_step.png
 
 2. In the **Add Step** dialog, complete the following fields:
 
@@ -221,9 +221,9 @@ Example
 
 For the sample Opportunity Support Flow, we will start off by creating two steps: **No Complaints** and **Complaint Received**.
 
-.. image:: /user_guide/img/system/workflows/8_add_step_form.png
+.. image:: /configuration_guide/img/workflows/8_add_step_form.png
 
-.. image:: /user_guide/img/system/workflows/9_add_step_form_2.png
+.. image:: /configuration_guide/img/workflows/9_add_step_form_2.png
 
 Add a Transition
 ~~~~~~~~~~~~~~~~
@@ -234,7 +234,7 @@ To add a transition to a workflow:
 
 1. Click **Add Transition** on the top right of the chart.
 
-   .. image:: /user_guide/img/system/workflows/10_add_transition.png
+   .. image:: /configuration_guide/img/workflows/10_add_transition.png
 
 2. In the **Add New Transition** dialog, click the **Info** tab, and provide the following information:
 
@@ -253,7 +253,7 @@ To add a transition to a workflow:
    "**Button Style**", "This control specifies the visual style of the transition button."
    "**Button Preview**", "This is the live preview of the transition button as it will appear on the entity page.
 
-   .. image:: /user_guide/img/system/workflows/11_add_transition_form.png
+   .. image:: /configuration_guide/img/workflows/11_add_transition_form.png
 
    .. important:: Self-transitions do not change steps in workflows (e.g. it can be a transition that launches an Edit form of a record within the same step)."
 
@@ -279,22 +279,22 @@ To add a transition to a workflow:
 
          All other fields must be configured as usual.
 
-         .. image:: /user_guide/img/system/workflows/workflow_notification_rule.png
+         .. image:: /configuration_guide/img/workflows/workflow_notification_rule.png
 
 Example
 """""""
 
 The following is an example of an attribute added for the **Register a Complaint** transition in the sample Opportunity Support Flow. The entity selected for the attribute is Additional Comments. Its label has been changed to **Specify the Complaint**.
 
-.. image:: /user_guide/img/system/workflows/12_specify_complaint.png
+.. image:: /configuration_guide/img/workflows/12_specify_complaint.png
 
-.. image:: /user_guide/img/system/workflows/13_attribute_saved.png
+.. image:: /configuration_guide/img/workflows/13_attribute_saved.png
 
 In the same manner, specify steps, transitions and attributes required for your custom workflow.
 
 The sample Opportunity Support Flow has been configured the following way:
 
-.. image:: /user_guide/img/system/workflows/14_sample_flow_saved.png
+.. image:: /configuration_guide/img/workflows/14_sample_flow_saved.png
 
 .. _doc--workflows--actions--set-config-param:
 
@@ -307,11 +307,11 @@ To set a workflow configuration parameters:
 2. On the workflow list, click the required workflow.
 3. If the workflow has configuration parameters, you can see the **Configuration** button on the top right of the workflow view page. Click this button.
 
-   .. image:: /user_guide/img/system/workflows/workflow_set_config_param.png
+   .. image:: /configuration_guide/img/workflows/workflow_set_config_param.png
 
 4. On the workflow configuration page, set the required values to the configuration parameters.
 
-   .. image:: /user_guide/img/system/workflows/workflow_set_config_param2.png
+   .. image:: /configuration_guide/img/workflows/workflow_set_config_param2.png
 
 5. Click **Save and Close**.
 
@@ -335,48 +335,48 @@ The sample Opportunity Support Flow has been saved and activated.
 
 As you can see from the screenshots below, the opportunity is currently in the **No Complaints** step. Clicking **Register a Complaint** will prompt an attribute we have configured for this transition:
 
-.. image:: /user_guide/img/system/workflows/15_osf_ui_1.png
+.. image:: /configuration_guide/img/workflows/15_osf_ui_1.png
 
-.. image:: /user_guide/img/system/workflows/16_osf_ui_2.png
+.. image:: /configuration_guide/img/workflows/16_osf_ui_2.png
 
 Submitting a complaint will launch an opportunity page with the **Resolve, Request Feedback and Close** transition buttons activated.
 
-.. image:: /user_guide/img/system/workflows/17_osf_ui_3.png
+.. image:: /configuration_guide/img/workflows/17_osf_ui_3.png
 
 Clicking each of these buttons will pass the user on to the next step specified in the workflow:
 
-.. image:: /user_guide/img/system/workflows/18_osf_ui_4.png
+.. image:: /configuration_guide/img/workflows/18_osf_ui_4.png
 
 **Completed steps** are green, **the step in progress** is white, **the step to follow** is grey. The completed workflow cycle will have all steps highlighted in green:
 
-.. image:: /user_guide/img/system/workflows/19_osf_ui.png
+.. image:: /configuration_guide/img/workflows/19_osf_ui.png
 
 As an illustration, we have unselected the **Display Steps Ordered** check box in the edit mode for the same workflow. Here is what the steps look like in this case:
 
-.. image:: /user_guide/img/system/workflows/20_osf_ui_5.png
+.. image:: /configuration_guide/img/workflows/20_osf_ui_5.png
 
 The workflow widget now displays only the current step that the opportunity is in.
 
-.. image:: /user_guide/img/system/workflows/21_osf_ui_5.png
+.. image:: /configuration_guide/img/workflows/21_osf_ui_5.png
 
-.. image:: /user_guide/img/system/workflows/22_osf_ui_5.png
+.. image:: /configuration_guide/img/workflows/22_osf_ui_5.png
 
 The current step of a workflow is displayed in the **Step** column within the entity grid, as in the example below:
 
-.. image:: /user_guide/img/system/workflows/23_open_opps_steps.png
+.. image:: /configuration_guide/img/workflows/23_open_opps_steps.png
 
 Multiple Active Workflows
 -------------------------
 
 It is possible to have multiple active workflows for the same record. If you have more than one active workflow, you can separately activate each of them. In the following example, two workflows are available for one record:
 
-.. image:: /user_guide/img/system/workflows/24_multiple_wfs.jpg
+.. image:: /configuration_guide/img/workflows/24_multiple_wfs.jpg
 
 Workflow group can be expanded / collapsed, if necessary, by clicking the **+** **Expand** / **-** **Collapse** icon on the left of the workflow group, as illustrated below:
 
-.. image:: /user_guide/img/system/workflows/25_collapse_flow.jpg
+.. image:: /configuration_guide/img/workflows/25_collapse_flow.jpg
 
-.. image:: /user_guide/img/system/workflows/26_collapse_flow_2.jpg
+.. image:: /configuration_guide/img/workflows/26_collapse_flow_2.jpg
 
 .. TODO: DOC-122, draft as the dev ticket is not completed.
 
@@ -384,7 +384,7 @@ Workflow group can be expanded / collapsed, if necessary, by clicking the **+** 
 
 .. The front store workflows are marked with the |IcCustomerUser| icon. The backoffice workflows (workflows available in the management console) are marked with the |IcUser| icon.
 
-.. .. image:: /user_guide/img/system/workflows/workflows_frontstore_backoffice.jpg
+.. .. image:: /configuration_guide/img/workflows/workflows_frontstore_backoffice.jpg
 
 Workflow Management
 -------------------
@@ -400,7 +400,7 @@ Since system workflows are pre-implemented in the system, their management from 
 - **Activate/Deactivate**: |IcCheck| / |IcTimes| (activate/deactivate the workflow).
 - **Configure**: |IcSettings|
 
-.. image:: /user_guide/img/system/workflows/27_manage_wf_2.png
+.. image:: /configuration_guide/img/workflows/27_manage_wf_2.png
 
 .. hint:: In case you need to alter a system workflow, clone it via the command line console under the different name and make the required changes. For more information on how to clone a workflow, see :ref:`How to Clone a Workflow <workflows--actions--clone>`.
 
@@ -418,7 +418,7 @@ You can perform the following actions for them:
 - **Edit**: |IcEdit| (open the edit form of the workflow).
 - **Delete**: |IcDelete| (delete the workflow from the system).
 
-.. image:: /user_guide/img/system/workflows/28_manage_wf_1.png
+.. image:: /configuration_guide/img/workflows/28_manage_wf_1.png
 
 
 .. _doc--workflows--ui-limitations:
@@ -447,21 +447,21 @@ Workflow Activation
 
 You can activate a workflow by clicking on the corresponding button on the view page of the workflow:
 
-.. image:: /user_guide/img/system/workflows/29_activate_wf.png
+.. image:: /configuration_guide/img/workflows/29_activate_wf.png
 
 Optionally, you can select certain workflows to be deactivated. If you do not, leave the field empty and click **Activate**.
 
-.. image:: /user_guide/img/system/workflows/30_activate_wf_2.png
+.. image:: /configuration_guide/img/workflows/30_activate_wf_2.png
 
 Similarly, click **Deactivate** if you wish to deactivate the selected workflow:
 
-.. image:: /user_guide/img/system/workflows/31_deactivate_wf.png
+.. image:: /configuration_guide/img/workflows/31_deactivate_wf.png
 
-.. image:: /user_guide/img/system/workflows/32_deactivate_wf_2.png
+.. image:: /configuration_guide/img/workflows/32_deactivate_wf_2.png
 
 Activating workflows does not happen automatically for all entities. Once the flow has been activated in **System > Workflows**, you need to start it manually for the required entities:
 
-.. image:: /user_guide/img/system/workflows/33_start_wf_manually.png
+.. image:: /configuration_guide/img/workflows/33_start_wf_manually.png
 
 It is possible to activate/deactivate workflows from the grid. See the previous section of this guide on Workflow Management to learn more about workflow grids.
 
@@ -474,27 +474,27 @@ Multiple workflows functionality requires an ability to manage user permissions 
 - Ability to run workflow transactions.
 - Ability to run every individual transaction.
 
-.. image:: /user_guide/img/system/workflows/34_roles_wfs.png
+.. image:: /configuration_guide/img/workflows/34_roles_wfs.png
 
 Workflow Translations
 ---------------------
 
 All workflow labels can be translated into other languages, providing better localizations for users from different countries.
 
-.. image:: /user_guide/img/system/workflows/35_translations.png
+.. image:: /configuration_guide/img/workflows/35_translations.png
 
 To define a translation:
 
 1. Click the |IcLanguage| **To Translations** icon next to the label that you want to translate. The translations list opens and is filtered to show only relevant translations.
 
-   .. image:: /user_guide/img/system/workflows/translations_relevantlist.png
+   .. image:: /configuration_guide/img/workflows/translations_relevantlist.png
 
 2. From the translation list, choose the language into which you want to translate the label, and point to the corresponding cell in the **Translated Value** column.
 3. Using the inline editor, specify the new translation for the label.
 
-   .. image:: /user_guide/img/system/workflows/translations_edit1.png
+   .. image:: /configuration_guide/img/workflows/translations_edit1.png
 
-   .. image:: /user_guide/img/system/workflows/translations_edit2.png
+   .. image:: /configuration_guide/img/workflows/translations_edit2.png
 
 .. You can find more information on translations in the :ref:`Manage Translations <> guide.
 

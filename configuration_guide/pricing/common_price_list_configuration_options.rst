@@ -7,7 +7,7 @@ Price List Configuration Options
 
 b) To add a price list, click **+ Add Price List** and select the price list in the newly added line. After you start typing the price list name, the list of suggestions appears. Press **Enter** or click the suggested value to add the price list.
 
-   .. image:: /user_guide/img/system/configuration/catalog/pricing/pricing_pricelist_add.png
+   .. image:: /configuration_guide/img/configuration/catalog/pricing/pricing_pricelist_add.png
 
    .. note:: The price list is appended to the bottom of the list and, initially, has a lower priority than the existing price lists. Adjust the price list priority if necessary and specify whether the merge is allowed (the later is shown only for the **Merge by priority** price selection strategy).
 

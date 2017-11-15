@@ -11,7 +11,7 @@ To add the All Products page to the frontend menu of a particular organization:
 2. Click on the necessary organization to open its page.
 3. Click the |IcConfig| **Edit Frontend Menu** icon to start editing the configuration.
 
-   .. image:: /user_guide/img/system/menus/edit/AllProductsOrganizationEditMenu.png
+   .. image:: /configuration_guide/img/menus/edit/AllProductsOrganizationEditMenu.png
 
 3. Click once on the menu to which you will add the All Products page.
 4. Click **Create Menu Item** on the top right of the page.
@@ -19,7 +19,7 @@ To add the All Products page to the frontend menu of a particular organization:
 #. In the **URI** field, specify */catalog/allproducts*.
 #. Complete the other fields as required.
 
-   .. image:: /user_guide/img/system/menus/edit/AllProductsOrganization.png
+   .. image:: /configuration_guide/img/menus/edit/AllProductsOrganization.png
 
 #. Click **Save** on the top right of the page.
 

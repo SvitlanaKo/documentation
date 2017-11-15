@@ -18,7 +18,7 @@ To change the default price list settings for the website:
 
 3. In the **Price Lists** section:
 
-   .. image:: /user_guide/img/system/websites/website_price_lists.png
+   .. image:: /configuration_guide/img/websites/website_price_lists.png
       :class: with-border
 
    a) Select one of the following values for the **Fallback** option for the users who are visiting this website:

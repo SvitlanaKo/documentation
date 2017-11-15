@@ -19,7 +19,7 @@ To enable New Product icons globally:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/product/new_arrivals/NewArrivalsBlockSystemConfig.png
+.. image:: /configuration_guide/img/configuration/product/new_arrivals/NewArrivalsBlockSystemConfig.png
 
 3. In the **New Product Icons** section, clear the **Use Default** check box and select **Yes** in the **Show on Product View** field.
 

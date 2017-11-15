@@ -18,7 +18,7 @@ To reach the workflow:
 1. Navigate to **System > Workflows** in the main menu.
 2. Click **Quote Backoffice Flow with Approvals** to open the flow. The following page opens:
 
-.. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/backoffice_quote_with_approval.png
+.. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/backoffice_quote_with_approval.png
 
 .. note:: Since BQFA is a system workflow, it cannot be edited, modified, or deleted.
 
@@ -121,7 +121,7 @@ Available options depend on the current status of the quote and your permissions
 
 .. This is how the workflow scheme looks like:
 
-.. .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/backoffice_quote_with_approval_scheme.png
+.. .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/backoffice_quote_with_approval_scheme.png
 
 Quote status may be one of the following:
 
@@ -224,75 +224,75 @@ Let us go through every step of this process:
 
    A newly created quote is in the **Draft** status. The line item price is not yet modified, and the quote does not require approval. Jin can send it to the customer.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_created.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_created.png
 
 #. As a customer has a positive record and frequently buys headlamps in bulk, they have negotiated a personal discount of 1$ on every headlamp. The new price for the headlamp is 4$ (an MSRP, the best deal Jin could offer).
 
    To reflect the negotiated price in the quote, Jin clicks **Edit** and updates the headlamp price:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_edited1.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_edited1.png
 
    When Jin saves the changes, the **Send To Customer** option becomes hidden, as he cannot send the quote without approval. To get it, Jin has to send the quote for review:
 
-  .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_edited2.png
+  .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_edited2.png
 
 #. Jin clicks **Submit for Review**, enters a message that justifies the price update and sends the quote for review.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendforreview1.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendforreview1.png
 
    Once submitted, the quote gets into the *Submitted for Review* status, which is indicated above the quote details. Jin cannot change the quote or call the submission back until the review is complete.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendforreview2.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendforreview2.png
 
    If email notifications were configured, Damara (as the authorized approver) might get an email about the review request.
 
    Sample email text:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendforreview_notification.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendforreview_notification.png
 
 #. Damara opens the quote submitted for review either via the link in the email or by looking it up in the quotes list using the filter by internal status (is any of "Submitted for Review").
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review1.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review1.png
 
 #. Damara clicks **Review** to move the quote to the *Under Review* status and communicate to Jin that his request is being processed.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review2.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review2.png
 
    The comment that Jin entered when submitting the quote for review is available in the quote's activities section:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review4.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review4.png
 
    .. note:: Once the quote is under review, Jin can see the updated status. However, transitions to further steps are disabled until the approval is gained.
 
-      .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review3.png
+      .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_review3.png
 
 #. As the modified price fits the current aggressive headlamp sale strategy, Damara approves the quote by clicking **Approve** and leaving a short message for Jim.
 
    .. note:: Damara may use **Approve And Send To Customer** action if she is sure the quote is finalized.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approve1.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approve1.png
 
    This changes the quote status to *Approved*.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approve2.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approve2.png
 
    If the email notifications were configured, Jin (as the one who requested approval) might get an email about the review outcome.
 
    Sample email text:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approved_notification.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approved_notification.png
 
 #. Jin opens the approved quote either via the link in the email or by looking it up in the quotes list using the filter by internal status (is any of "Reviewed").
 
    The following page opens:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approve3.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_approve3.png
 
 6. Jin clicks **Send To Customer** and reviews the email draft. Additional recipients may be added to the To, CC, or BCC fields. The email body may be adjusted to be more personalized.
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendtocustomer1.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendtocustomer1.png
 
    When Jim is happy with the draft, he clicks **Send**.
 
@@ -302,11 +302,11 @@ Let us go through every step of this process:
    * Expire
    * Capture that the customer has declined
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendtocustomer2.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendtocustomer2.png
 
    In the front store, the quote becomes available to the customer user it was created for:
 
-   .. image:: /user_guide/img/system/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendtocustomer3.png
+   .. image:: /configuration_guide/img/workflows/backoffice_quote_approval_flow/workflow_bqfa_quote_sendtocustomer3.png
 
 .. finish
 

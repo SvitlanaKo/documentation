@@ -10,28 +10,28 @@ Generic Principles
 
 A menu may be multi-level like, for example, a default OroCRM and OroCommerce Management Console main menu. The child menu items are nested under parent menu items (e.g. **Accounts**, etc are nested under the **Customers**).
 
-.. image:: /user_guide/img/system/menus/edit/menus_general.png
+.. image:: /configuration_guide/img/menus/edit/menus_general.png
 
 Menu items on the same level of hierarchy may be visually separated by a divider that looks like a horizontal line.
 
-.. image:: /user_guide/img/system/menus/user_menu.png
+.. image:: /configuration_guide/img/menus/user_menu.png
 
 Dividers help you logically organize menu items.
 
 .. note:: Some menus do not support displaying dividers (on a particular level in the tree, or in general). For example, if you add a divider to the top level of OroCRM and OroCommerce Management Console main menu (**application_menu**), the divider is not displayed.
 
-   .. image:: /user_guide/img/system/menus/ApplicationMenu.png
+   .. image:: /configuration_guide/img/menus/ApplicationMenu.png
 
 Edit a Menu
 ~~~~~~~~~~~
 
 To view and edit menu contents, click on the menu name or on the |IcView| **View** icon in the corresponding row of the menu list.
 
-.. image:: /user_guide/img/system/menus/Menus.png
+.. image:: /configuration_guide/img/menus/Menus.png
 
 On the page that opens, the menu item tree is shown in the left panel. Center is reserved for the menu item configuration.
 
-.. image:: /user_guide/img/system/menus/edit/menus_general.png
+.. image:: /configuration_guide/img/menus/edit/menus_general.png
 
 
 Toggle the Menu Tree View
@@ -42,18 +42,18 @@ Hide / Show the Menu Tree
 
 To minimize or maximize the left menu panel, click a double arrow on the top right of the panel.
 
-.. image:: /user_guide/img/system/menus/edit/menus_application_showpanel.png
+.. image:: /configuration_guide/img/menus/edit/menus_application_showpanel.png
 
 Expand / Collapse a Menu Tree
 """""""""""""""""""""""""""""
 
 To expand / collapse a parent menu item, click an arrow in front of it.
 
-.. image:: /user_guide/img/system/menus/edit/menus_application_expand.png
+.. image:: /configuration_guide/img/menus/edit/menus_application_expand.png
 
 To expand / collapse all menu items, click the ellipses drop-down menu on the top right of the left panel and click **Expand All** or **Collapse All**.
 
-.. image:: /user_guide/img/system/menus/edit/menus_application_expall.png
+.. image:: /configuration_guide/img/menus/edit/menus_application_expall.png
 
 Rearrange Menu Items / Dividers
 """""""""""""""""""""""""""""""
@@ -64,11 +64,11 @@ When you drag-and-drop items, pay attention to the arrow that shows where the it
 
 - If an arrow points to the place between items, that is where the moved item will be placed.
 
-  .. image:: /user_guide/img/system/menus/edit/menus_actions_d&dsame.png
+  .. image:: /configuration_guide/img/menus/edit/menus_actions_d&dsame.png
 
 - If and arrow appears in front of a menu item, then the moved item will become a child of the item that the arrow points to.
 
-  .. image:: /user_guide/img/system/menus/edit/menus_actions_d&dunder.png
+  .. image:: /configuration_guide/img/menus/edit/menus_actions_d&dunder.png
 
 .. finish_1
 
@@ -83,7 +83,7 @@ Add a Menu Item
 
 2. Click **Create** drop-down on the top right and click **Create Menu Item** on the list.
 
-   .. image:: /user_guide/img/system/menus/edit/menus_createmenuitem.png
+   .. image:: /configuration_guide/img/menus/edit/menus_createmenuitem.png
 
    The created menu item will appear as the last one on the list of children of the same parent item. You can move it to the position that you need, as described in the :ref:`Rearrange Menu Items / Dividers <doc-config-menus-actions-draganddrop>` action description.
 
@@ -93,7 +93,7 @@ Add a Menu Item
 
      Click the |IcTranslations| **Translations** icon to provide spelling for different languages. Click the |IcTranslationsC| **Default Language** icon to return to the single-language view.
 
-     .. image:: /user_guide/img/system/menus/edit/menus_actions_create_translations.png
+     .. image:: /configuration_guide/img/menus/edit/menus_actions_create_translations.png
 
    - **URI**—An web address of the page or resource that this menu item opens.
 
@@ -109,7 +109,7 @@ Add a Menu Item
 
      Click the |IcTranslations| **Translations** icon to provide spelling for different languages. Click the |IcTranslationsC| **Default Language** icon to return to the single-language view.
 
-   .. image:: /user_guide/img/system/menus/edit/menus_actions_create_general.png
+   .. image:: /configuration_guide/img/menus/edit/menus_actions_create_general.png
 
 4. Click **Save** to save your changes. If you wish to start creating another menu item right away, click **Save and New** on the top right.
 
@@ -130,7 +130,7 @@ Add a Divider
 
 2. Click **Create** drop-down on the top right and select **Create Divider**.
 
-.. image:: /user_guide/img/system/menus/edit/menus_createdivider.png
+.. image:: /configuration_guide/img/menus/edit/menus_createdivider.png
 
 The created divider will appear as the last one on the list of children of the same parent item. You can move it to the position that you need, as described in the :ref:`Rearrange Menu Items / Dividers <doc-config-menus-actions-draganddrop>` action description.
 
@@ -193,7 +193,7 @@ Find a Menu Item
 
 To quickly find a menu item, enter its name into the search field and click the |IcSearch| **Search** icon, or press :guilabel:`Enter`.
 
-.. image:: /user_guide/img/system/menus/edit/menus_application_search.png
+.. image:: /configuration_guide/img/menus/edit/menus_application_search.png
 
 Delete a Menu Item / Divider
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

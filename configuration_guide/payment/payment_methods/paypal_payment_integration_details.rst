@@ -47,14 +47,14 @@ PayPal integrations include the following additional integration information:
 
 **PayPal Integration Configuration Details. Part 1**
 
-.. image:: /user_guide/img/system/integrations/manage_integrations/PayPalPayflow1.png
+.. image:: /configuration_guide/img/integrations/manage_integrations/PayPalPayflow1.png
 
 **PayPal Integration Configuration Details. Part 2**
 
-.. image:: /user_guide/img/system/integrations/manage_integrations/PayPalPayflow2.png
+.. image:: /configuration_guide/img/integrations/manage_integrations/PayPalPayflow2.png
 
 **PayPal Integration Configuration Details. Part 3**
 
-.. image:: /user_guide/img/system/integrations/manage_integrations/PayPalPayflow3.png
+.. image:: /configuration_guide/img/integrations/manage_integrations/PayPalPayflow3.png
 
 .. end_of_embedded_list

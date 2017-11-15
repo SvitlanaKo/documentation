@@ -14,16 +14,16 @@ To define the default system language and additional supported languages:
 
         The following page opens:
 
-        .. image:: /user_guide/img/system/configuration/configuration/language_settings.png
+        .. image:: /configuration_guide/img/configuration/configuration/language_settings.png
            :class: with-border
 
 #. Select the default language for the OroCommerce store frontend and management console.
 
-   .. image:: /user_guide/img/system/configuration/configuration/language_settings_use_def.png
+   .. image:: /configuration_guide/img/configuration/configuration/language_settings_use_def.png
 
 #. Select the supported languages that can be used for translation of the OroCommerce content. Use the :guilabel:`Ctrl` and :guilabel:`Shift` keys to choose the languages from the list.
 
-   .. image:: /user_guide/img/system/configuration/configuration/language_settings_supported.png
+   .. image:: /configuration_guide/img/configuration/configuration/language_settings_supported.png
 
 Settings are saved automatically.
 

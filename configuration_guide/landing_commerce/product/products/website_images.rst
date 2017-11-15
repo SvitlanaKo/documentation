@@ -20,7 +20,7 @@ To update the product watermark settings:
 
 The following page opens.
 
-.. image:: /user_guide/img/system/configuration/product/product_images/ProductImagesPerWebsite.png
+.. image:: /configuration_guide/img/configuration/product/product_images/ProductImagesPerWebsite.png
    :class: with-border
 
 The following options are available:
@@ -36,7 +36,7 @@ The following options are available:
    a) Clear the **Use System** check box next to the option.
    b) Enter the updated size or select the position from the list.
 
-   .. image:: /user_guide/img/system/configuration/product/product_images/ProductImagesPerWebsiteOptions.png
+   .. image:: /configuration_guide/img/configuration/product/product_images/ProductImagesPerWebsiteOptions.png
       :class: with-border
 
 5. Click **Save**.

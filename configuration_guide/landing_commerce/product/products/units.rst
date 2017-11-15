@@ -23,7 +23,7 @@ To update the product unit settings:
 
 The following page opens.
 
-.. image:: /user_guide/img/system/configuration/product/product_unit/ProductUnit.png
+.. image:: /configuration_guide/img/configuration/product/product_unit/ProductUnit.png
    :class: with-border
 
 The following options are available:

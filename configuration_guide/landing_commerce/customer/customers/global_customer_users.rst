@@ -17,7 +17,7 @@ To change the default settings globally:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsers.png
+   .. image:: /configuration_guide/img/configuration/customer/customer_users/CustomerUsers.png
       :class: with-border
 
    The following table describes the options available on the page:
@@ -41,7 +41,7 @@ The following page opens:
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | Registration Instructions text             | If *Show Registration Instructions* is enabled, the text provided in the fields will be displayed on the front store login page.                                                                          |
    |                                            |                                                                                                                                                                                                           |
-   |                                            | .. image:: /user_guide/img/system/configuration/customer/customer_users/CustomerUsersRegistrationFrontStore.png                                                                                           |
+   |                                            | .. image:: /configuration_guide/img/configuration/customer/customer_users/CustomerUsersRegistrationFrontStore.png                                                                                           |
    |                                            |                                                                                                                                                                                                           |
    +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 

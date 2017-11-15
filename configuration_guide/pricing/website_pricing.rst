@@ -28,12 +28,12 @@ To change the default currency settings for the website:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/websites/config_commerce_catalog_pricing.png
+   .. image:: /configuration_guide/img/websites/config_commerce_catalog_pricing.png
       :class: with-border
 
    * **Enabled Currencies** --- The subset of :ref:`allowed currencies <sys--config--sysconfig--general-setup--currency>` that is available for the customer user by default on this website.
 
-     .. image:: /user_guide/img/system/configuration/catalog/pricing/currency_on_the_front_store.png
+     .. image:: /configuration_guide/img/configuration/catalog/pricing/currency_on_the_front_store.png
 
    * **Default Currency** --- The currency used by default to show prices in the front store on this website.
 

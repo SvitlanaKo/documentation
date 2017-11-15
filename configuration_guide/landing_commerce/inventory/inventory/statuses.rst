@@ -17,7 +17,7 @@ To change the default inventory statuses:
 
 The following page opens:
 
-   .. image:: /user_guide/img/system/configuration/inventory/allowed_statuses/AllowedStatuses.png
+   .. image:: /configuration_guide/img/configuration/inventory/allowed_statuses/AllowedStatuses.png
       :class: with-border
 
    The following table describes the options available on the page:

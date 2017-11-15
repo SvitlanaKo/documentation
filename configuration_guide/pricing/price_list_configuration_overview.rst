@@ -32,11 +32,11 @@ Depending on the price selection strategy that is selected :ref:`globally in the
 
 When the *Minimal Price* is selected as the pricing strategy, OroCommerce looks up the minimal price for various tiers of amount and the product units, and the **Merge Allowed** option is ignored and hidden:
 
-.. image:: /user_guide/img/system/configuration/catalog/pricing/pricing_pricelist.png
+.. image:: /configuration_guide/img/configuration/catalog/pricing/pricing_pricelist.png
 
 When the *Merge by priority* is selected as the pricing strategy, the OroCommerce considers the price list priority and *Merge Allowed* flags to look up all the available price per units and tiers of amount:
 
-.. image:: /user_guide/img/system/configuration/catalog/pricing/pricing_pricelist2.png
+.. image:: /configuration_guide/img/configuration/catalog/pricing/pricing_pricelist2.png
 
 .. note:: Price lists with higher priority are on top.
 

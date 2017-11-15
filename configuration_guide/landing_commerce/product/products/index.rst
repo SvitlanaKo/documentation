@@ -208,7 +208,7 @@ Previously Purchased Products
 
 The previously purchased products page displays the products that were recently purchased by customer users. In the front store, this page is nested under the **Previous Purchased** menu in **Account**.
 
-.. image:: /user_guide/img/system/configuration/product/previously_purchased/PreviouslyPurchasedFrontStore.png
+.. image:: /configuration_guide/img/configuration/product/previously_purchased/PreviouslyPurchasedFrontStore.png
 
 
 The previously purchased products page is disabled by default, but you can enable it on two levels -- globally and per website. Once enabled, you can also set the number of days that the purchase history should cover.

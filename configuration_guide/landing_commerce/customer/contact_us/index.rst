@@ -5,7 +5,7 @@ Configure Contact Us Page
 
 In your Oro application, you can enable/disable the ability of contacting a seller via a Contact Us form on the website.
 
-.. image:: /user_guide/img/system/configuration/contact_us/ContactUsForm.png
+.. image:: /configuration_guide/img/configuration/contact_us/ContactUsForm.png
 
 This can be done on three levels -- globally, per organization and website.
 

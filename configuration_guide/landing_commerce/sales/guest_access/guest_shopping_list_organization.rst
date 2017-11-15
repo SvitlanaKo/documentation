@@ -19,7 +19,7 @@ To enable guest shopping lists per organization:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/shopping_list/ShopListOrg.png
+.. image:: /configuration_guide/img/configuration/sales/shopping_list/ShopListOrg.png
 
 4. In the **Shopping List Limit** section, set the number of shopping lists allowed per customer. The default value is zero. This means that no limit of shopping lists is applied.
 5. In the **Guest Shopping List** section, set whether guests are allowed to create and manage shopping lists.

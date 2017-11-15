@@ -16,7 +16,7 @@ Once the All Products page has been enabled in the system configuration, you can
 #. In the **URI** field, specify */catalog/allproducts*.
 #. Complete the other fields as required.
 
-   .. image:: /user_guide/img/system/menus/edit/AllProductsMainMenu.png
+   .. image:: /configuration_guide/img/menus/edit/AllProductsMainMenu.png
 
 #. Click **Save** on the top right of the page.
 

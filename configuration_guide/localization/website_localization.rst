@@ -9,12 +9,12 @@ To define the custom localization options for the particular website:
 
 1. Navigate to **System > Websites** using the main menu.
 
-   .. image:: /user_guide/img/system/websites/Websites.png
+   .. image:: /configuration_guide/img/websites/Websites.png
       :class: with-border
 
 2. Click on the website you would like to customize localization settings for (e.g. Australia).
 
-   .. image:: /user_guide/img/system/websites/view_website.png
+   .. image:: /configuration_guide/img/websites/view_website.png
       :class: with-border
 
 3. On the website details page, click |IcConfig| **Configuration**.
@@ -23,7 +23,7 @@ To define the custom localization options for the particular website:
 
         The following page opens:
 
-        .. image:: /user_guide/img/system/websites/website_localization.png
+        .. image:: /configuration_guide/img/websites/website_localization.png
 
 #. Select the localizations to be enabled for this website. Use the :guilabel:`Ctrl` and :guilabel:`Shift` keys and click to choose the languages from the list.
 

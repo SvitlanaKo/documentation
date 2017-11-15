@@ -30,7 +30,7 @@ To configure the front store theme options globally:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/design/theme/design_theme_global.png
+.. image:: /configuration_guide/img/configuration/design/theme/design_theme_global.png
 
 3. In the **Theme Settings** section, select the theme from the list. The theme controls general design of the front store that defines its look and feel. *Default*, *blank*, and *custom* themes are available out of the box for the front store.
 
@@ -70,11 +70,11 @@ The following page opens:
 
    **Show all items at once**
 
-   .. image:: /user_guide/img/system/frontend_menu/ShowAllItemsAtOnce.png
+   .. image:: /configuration_guide/img/frontend_menu/ShowAllItemsAtOnce.png
 
    **Show subitems in a popup**
 
-   .. image:: /user_guide/img/system/frontend_menu/ShowSubitemsInPopup.png
+   .. image:: /configuration_guide/img/frontend_menu/ShowSubitemsInPopup.png
 
 7. Click **Save Settings**.
 

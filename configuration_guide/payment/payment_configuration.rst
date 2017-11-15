@@ -20,7 +20,7 @@ To configure the merchant location:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/payment/general/merchant_location.png
+.. image:: /configuration_guide/img/configuration/payment/general/merchant_location.png
    :class: with-border
 
 3. To customize the merchant location:

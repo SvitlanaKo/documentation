@@ -17,7 +17,7 @@ To enable and prioritize warehouses:
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/inventory/warehouses/Warehouses.png
+.. image:: /configuration_guide/img/configuration/inventory/warehouses/Warehouses.png
    :class: with-border
 
 3. Enable as many warehouses as you need: 

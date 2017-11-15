@@ -15,7 +15,7 @@ Configure Guest Checkout per Website
 
 The following page opens:
 
-.. image:: /user_guide/img/system/configuration/sales/checkout/CheckoutWeb.png
+.. image:: /configuration_guide/img/configuration/sales/checkout/CheckoutWeb.png
 
 4. In the **Guest Checkout** section, set whether guest checkout should be enabled or disabled.
 

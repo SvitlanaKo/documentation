@@ -32,7 +32,7 @@ To change the default global currency settings:
 
 The **Currency Settings** page opens. It contains the following information:
 
-   .. image:: /user_guide/img/system/configuration/general/currency.png
+   .. image:: /configuration_guide/img/configuration/general/currency.png
       :class: with-border
 
    * **Base** --- A flag that marks the base currency that is used by default to display totals, budgets, and amounts.
@@ -51,11 +51,11 @@ The **Currency Settings** page opens. It contains the following information:
 
      The order subtotal when the display format is set to *Currency Code*:
 
-     .. image:: /user_guide/img/system/configuration/general/currency_code.png
+     .. image:: /configuration_guide/img/configuration/general/currency_code.png
 
      The order subtotal when the display format is set to *Currency Symbol*:
 
-     .. image:: /user_guide/img/system/configuration/general/currency_symbol.png
+     .. image:: /configuration_guide/img/configuration/general/currency_symbol.png
 
 3. To customize the **Display Format**:
 
@@ -66,11 +66,11 @@ The **Currency Settings** page opens. It contains the following information:
 
    Before:
 
-   .. image:: /user_guide/img/system/configuration/general/currency_base1.png
+   .. image:: /configuration_guide/img/configuration/general/currency_base1.png
 
    After:
 
-   .. image:: /user_guide/img/system/configuration/general/currency_base3.png
+   .. image:: /configuration_guide/img/configuration/general/currency_base3.png
 
    .. important:: Changing base currency requires manual update of the money values (budgets, totals, revenues, etc.). You will be prompted to confirm the change.
 
@@ -80,11 +80,11 @@ The **Currency Settings** page opens. It contains the following information:
 
    a) Select the currency from the **Allowed Currencies** list and click **Add** next to it.
 
-      .. image:: /user_guide/img/system/configuration/general/currency_add.png
+      .. image:: /configuration_guide/img/configuration/general/currency_add.png
 
       The currency is appended to the top of the list.
 
-      .. image:: /user_guide/img/system/configuration/general/currency_add3.png
+      .. image:: /configuration_guide/img/configuration/general/currency_add3.png
 
    c) Fill in the exchange rate to and from the base currency.
 
