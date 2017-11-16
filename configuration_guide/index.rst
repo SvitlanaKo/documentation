@@ -196,7 +196,6 @@ Advanced Configuration Settings
 .. toctree::
    :includehidden:
    :titlesonly:
-   :hidden:
    :maxdepth: 1
 
    landing_system_configuration/index
@@ -212,8 +211,6 @@ Advanced Configuration Settings
    workflows/index
    tags_management/index
    websites/index
-
-.. entities/index
 
 
 
